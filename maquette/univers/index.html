@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>L'Univers · Guà Wàn</title>
+<meta name="description" content="Explorez les fiches de Guà Wàn : L'Esprit, La Création et Le Corps, autour de vous.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Shippori+Mincho:wght@500;600;700&family=Zen+Kaku+Gothic+New:wght@400;500;700&display=swap">
+<link rel="stylesheet" href="univers.css">
+<script>
+  /* Même réglage de thème que la maquette du site (clé gw-theme). */
+  try { const t = localStorage.getItem("gw-theme"); if (t === "dark" || t === "light") document.documentElement.setAttribute("data-theme", t); } catch (e) {}
+</script>
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <filter id="brush" x="-10%" y="-10%" width="120%" height="120%">
+    <feTurbulence type="fractalNoise" baseFrequency=".85" numOctaves="2" seed="7" result="noise"/>
+    <feDisplacementMap in="SourceGraphic" in2="noise" scale="3.2" xChannelSelector="R" yChannelSelector="G"/>
+  </filter>
+</svg>
+
+<div class="aurora" aria-hidden="true"><span></span><span></span><span></span></div>
+
+<header class="topbar">
+  <a class="brand" href="../index.html" aria-label="Guà Wàn, retour au site">
+    <svg class="enso" viewBox="0 0 120 120" aria-hidden="true"><path class="enso-stroke" d="M101.4 45 A44 44 0 1 0 103.3 67.6" pathLength="100"/><circle class="enso-dot" cx="60" cy="60" r="7"/></svg>
+    <span class="brand-name">Guà Wàn</span>
+    <span class="brand-tool">L'Univers</span>
+  </a>
+  <div class="search" role="search">
+    <svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="M20 20l-4.2-4.2"/></svg>
+    <input id="searchInput" type="search" placeholder="Une question vous habite ?" autocomplete="off" spellcheck="false"
+           role="combobox" aria-label="Rechercher une fiche ou un salon" aria-autocomplete="list" aria-expanded="false" aria-controls="searchResults">
+    <kbd class="search-kbd" aria-hidden="true">⌘K</kbd>
+    <div id="searchResults" class="search-results" role="listbox" aria-label="Résultats" hidden></div>
+  </div>
+  <nav class="top-actions" id="topActions" aria-label="Outils de la carte">
+    <div class="menu-wrap">
+      <button class="pill" id="menuBtn" aria-haspopup="menu" aria-expanded="false" aria-controls="menu">Menu</button>
+      <div class="menu" id="menu" role="menu" hidden></div>
+    </div>
+  </nav>
+</header>
+
+<main id="viewport" class="viewport" aria-label="Carte de L'Univers">
+  <div id="world" class="world">
+    <svg id="links" class="links" width="1" height="1" aria-hidden="true">
+      <g id="orbits" class="orbits"></g>
+      <g id="linkLayer" class="link-layer"></g>
+      <g id="tipLayer"></g>
+    </svg>
+  </div>
+</main>
+
+<p id="hint" class="hint"><span id="hintText"></span><button class="hint-close" id="hintClose" aria-label="Masquer l'aide">×</button></p>
+<a class="back-link" href="../index.html">‹ Retour au site Guà Wàn</a>
+<button id="clearFilter" class="clear-filter" hidden></button>
+<div class="bottomctrl">
+  <button id="openAll" class="pill">Tout ouvrir</button>
+  <button id="closeAll" class="pill" hidden>Tout refermer</button>
+  <div class="zoomctrl">
+    <button class="round" id="zoomIn" aria-label="Zoomer"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 6v12M6 12h12"/></svg></button>
+    <button class="round" id="zoomOut" aria-label="Dézoomer"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 12h12"/></svg></button>
+    <button class="round" id="recenter" aria-label="Recentrer la carte"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8"/><path d="M12 2v4M12 18v4M2 12h4M18 12h4"/><circle cx="12" cy="12" r="1.6" class="fill"/></svg></button>
+  </div>
+</div>
+
+<div class="overlay" id="cardOverlay" hidden><article class="sheet card" role="dialog" aria-modal="true" aria-labelledby="cardTitle" tabindex="-1"></article></div>
+<div class="overlay" id="filterOverlay" hidden><section class="sheet filter" role="dialog" aria-modal="true" aria-labelledby="filterTitle" tabindex="-1"></section></div>
+<div class="overlay" id="suggestOverlay" hidden><section class="sheet" role="dialog" aria-modal="true" aria-labelledby="suggestTitle" tabindex="-1"></section></div>
+<div class="overlay" id="shareOverlay" hidden><section class="sheet" role="dialog" aria-modal="true" aria-labelledby="shareTitle" tabindex="-1"></section></div>
+<div class="overlay" id="aboutOverlay" hidden><section class="sheet" role="dialog" aria-modal="true" aria-labelledby="aboutTitle" tabindex="-1"></section></div>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+<script src="univers-data.js"></script>
+<script src="univers.js"></script>
+</body>
+</html>

@@ -1,0 +1,314 @@
+[
+  {
+    "salon": "La Vue",
+    "title": "Le cerveau devant la beauté : ce que montrent les scanners, et leurs limites",
+    "excerpt": "Une zone à l'avant du cerveau réagit quand une œuvre nous semble belle. La neuroesthétique a pourtant ses limites : voici ce qui est solide et ce qui reste ouvert.",
+    "tag": "Informer",
+    "body": [
+      "Que se passe-t-il dans la tête quand un tableau nous paraît beau ? En 2011, Tomohiro Ishizu et Semir Zeki ont posé la question à 21 volontaires placés dans un appareil d'IRM fonctionnelle, une technique qui suit les variations du débit sanguin dans le cerveau. Les participants regardaient des peintures et écoutaient des extraits musicaux qu'ils avaient classés comme beaux, indifférents ou laids. Une seule région s'activait pour la beauté visuelle comme pour la beauté musicale : une partie du cortex orbitofrontal médian, situé à l'avant du cerveau, juste au-dessus des yeux. Plus la beauté déclarée était intense, plus cette activité était forte.",
+      "Une autre équipe a cherché ce qui distingue les œuvres qui nous bouleversent. En 2012, Edward Vessel et ses collègues ont montré 109 images d'œuvres, surtout des peintures, à 16 personnes. Chacune indiquait sur une échelle de 1 à 4 à quel point l'œuvre l'émouvait. Dans les régions visuelles et dans le striatum, une structure profonde liée à la récompense, l'activité suivait la note de façon graduelle. En revanche, plusieurs régions du réseau du mode par défaut, un ensemble actif quand on pense à soi, ne s'allumaient que pour les œuvres notées 4. Les œuvres les plus fortes semblent donc toucher quelque chose de personnel.",
+      "Ce point compte, car les goûts différaient beaucoup. Dans l'étude de 2012, les participants s'accordaient très peu sur les œuvres qui les émouvaient. En 2018, la même équipe a comparé plusieurs types d'images. L'accord entre les personnes était élevé pour les visages et les paysages naturels. Il était nettement plus faible pour l'architecture et les œuvres d'art. Notre goût pour la nature paraît donc assez partagé, alors que notre goût artistique reste en grande partie individuel, façonné par l'histoire et l'expérience de chacun.",
+      "La neuroesthétique, l'étude du cerveau face à l'expérience esthétique, a aussi ses limites. Les échantillons sont souvent petits, une vingtaine de personnes. L'imagerie montre des corrélations, pas des causes. Voir une zone s'allumer ne dit pas non plus ce que la personne ressent. L'idée d'un « centre de la beauté » demande donc de la prudence. En 2020, Martin Skov et Marcos Nadal ont proposé de recentrer le domaine. Selon eux, aucun circuit n'est réservé à l'art. La vraie question est de comprendre comment une sensation, quelle qu'elle soit, acquiert une valeur de plaisir."
+    ],
+    "plaisir": "Les régions qui réagissent à la beauté, comme le cortex orbitofrontal médian et le striatum, appartiennent aux circuits de l'évaluation et de la récompense. Ces mêmes circuits donnent de la valeur à une saveur, à une musique ou à un visage. Le plaisir esthétique ne semble donc pas reposer sur un organe à part. Le cerveau attribuerait plutôt une valeur hédonique, c'est-à-dire une valeur de plaisir, à ce que l'on voit. Quand une œuvre bouleverse, le réseau du mode par défaut entre aussi en jeu, ce qui suggère un lien entre émotion esthétique et ce qui compte pour nous personnellement.",
+    "pratique": [
+      "Choisissez trois images : un paysage, un portrait peint, une œuvre abstraite.",
+      "Regardez chacune pendant une minute, sans lire de commentaire.",
+      "Notez de 1 à 4 à quel point elle vous émeut, comme dans l'étude de Vessel.",
+      "Demandez à un proche de faire de même, puis comparez vos notes.",
+      "Repérez l'image sur laquelle vos avis divergent le plus et cherchez pourquoi."
+    ],
+    "sources": [
+      {
+        "ref": "Ishizu, T., & Zeki, S. (2011). Toward a brain-based theory of beauty. PLoS ONE, 6(7), e21852.",
+        "url": "https://doi.org/10.1371/journal.pone.0021852"
+      },
+      {
+        "ref": "Vessel, E. A., Starr, G. G., & Rubin, N. (2012). The brain on art: intense aesthetic experience activates the default mode network. Frontiers in Human Neuroscience, 6, 66.",
+        "url": "https://doi.org/10.3389/fnhum.2012.00066"
+      },
+      {
+        "ref": "Vessel, E. A., Maurer, N., Denker, A. H., & Starr, G. G. (2018). Stronger shared taste for natural aesthetic domains than for artifacts of human culture. Cognition, 179, 121-131.",
+        "url": "https://doi.org/10.1016/j.cognition.2018.06.009"
+      },
+      {
+        "ref": "Skov, M., & Nadal, M. (2020). A farewell to art: Aesthetics as a topic in psychology and neuroscience. Perspectives on Psychological Science, 15(3), 630-642.",
+        "url": "https://doi.org/10.1177/1745691619897963"
+      }
+    ],
+    "media": "image"
+  },
+  {
+    "salon": "La Vue",
+    "title": "Lumière, horloge et humeur : ce que l'œil capte sans que nous le sachions",
+    "excerpt": "Des cellules de la rétine mesurent la lumière pour régler notre horloge interne. Lumière du jour, lumière du soir, mélatonine et humeur : l'état des connaissances.",
+    "tag": "Informer",
+    "body": [
+      "Notre œil ne sert pas seulement à voir. La rétine contient des cellules ganglionnaires dites intrinsèquement photosensibles, appelées ipRGC. Elles possèdent un pigment, la mélanopsine, surtout sensible à la lumière bleu-vert, autour de 480 nanomètres. Ces cellules ne forment pas d'images. Elles évaluent la quantité de lumière ambiante et transmettent l'information au noyau suprachiasmatique, l'horloge centrale située dans l'hypothalamus, à la base du cerveau. Cette horloge synchronise nos rythmes sur environ 24 heures : sommeil, vigilance, température du corps et sécrétion de certaines hormones.",
+      "Parmi ces hormones, la mélatonine augmente le soir et prépare l'organisme au sommeil. Une lumière vive en soirée freine sa production et décale l'horloge. En 2022, un groupe d'experts internationaux a publié des repères chiffrés. Ils utilisent une unité adaptée, le lux mélanopique, qui exprime l'effet de la lumière sur la mélanopsine, mesuré à hauteur des yeux. Le jour, ils recommandent au moins 250 lux mélanopiques. Le soir, à partir de trois heures avant le coucher, au plus 10. Pendant le sommeil, au plus 1. Ces repères visent des adultes en bonne santé.",
+      "Qu'en est-il de l'humeur ? En 2023, Angus Burns et ses collègues ont analysé les données de plus de 86 000 participants de la UK Biobank, une vaste cohorte britannique. Chacun avait porté au poignet un capteur de lumière pendant une semaine. Les personnes les plus exposées à la lumière la nuit présentaient un risque plus élevé de dépression, d'anxiété généralisée, de stress post-traumatique ou d'automutilation. À l'inverse, davantage de lumière le jour était associé à un risque plus faible pour plusieurs de ces troubles. Les chercheurs ont tenu compte de nombreux facteurs, comme l'âge, le travail de nuit ou l'activité physique.",
+      "Ce résultat se lit avec prudence. L'étude est observationnelle : elle montre une association, pas une cause. Une personne déprimée peut mal dormir, rester éveillée la nuit lumière allumée et sortir moins. Le lien pourrait donc aller dans l'autre sens. Les essais contrôlés apportent des preuves plus solides, dans un cadre précis. Une méta-analyse de 2025, qui combine 11 essais et 858 patients, conclut que la luminothérapie, une exposition encadrée à une lampe très lumineuse, améliore la rémission de la dépression non saisonnière lorsqu'elle s'ajoute au traitement habituel. Ce soin se discute avec un médecin."
+    ],
+    "plaisir": "Le bien-être d'un matin lumineux a-t-il une base cérébrale ? Chez la souris, une étude de 2018 a identifié une voie qui relie les ipRGC à une petite région du thalamus, le noyau périhabénulaire, connectée à des centres qui régulent l'humeur. Cette voie est nécessaire pour que la lumière modifie le comportement émotionnel de l'animal, indépendamment de l'horloge. Chez l'humain, on ignore encore si un circuit équivalent explique le plaisir ressenti à la lumière du jour. L'hypothèse est sérieuse, mais elle repose pour l'instant sur des travaux chez l'animal.",
+    "pratique": [
+      "Pendant trois jours, passez 20 à 30 minutes dehors dans la matinée, sans jamais fixer le soleil.",
+      "Notez chaque midi votre humeur et votre énergie, de 1 à 10.",
+      "Le soir, trois heures avant le coucher, baissez les lumières et préférez des lampes basses.",
+      "Rendez la chambre aussi sombre que possible pour la nuit.",
+      "Comparez avec trois jours ordinaires. Si votre humeur reste basse, parlez-en à un professionnel de santé."
+    ],
+    "sources": [
+      {
+        "ref": "Brown, T. M., Brainard, G. C., Cajochen, C., et al. (2022). Recommendations for daytime, evening, and nighttime indoor light exposure to best support physiology, sleep, and wakefulness in healthy adults. PLoS Biology, 20(3), e3001571.",
+        "url": "https://doi.org/10.1371/journal.pbio.3001571"
+      },
+      {
+        "ref": "Burns, A. C., Windred, D. P., Rutter, M. K., et al. (2023). Day and night light exposure are associated with psychiatric disorders: an objective light study in >85,000 people. Nature Mental Health, 1(11), 853-862.",
+        "url": "https://doi.org/10.1038/s44220-023-00135-8"
+      },
+      {
+        "ref": "Fernandez, D. C., Fogerson, P. M., Lazzerini Ospri, L., et al. (2018). Light affects mood and learning through distinct retina-brain pathways. Cell, 175(1), 71-84.e18.",
+        "url": "https://doi.org/10.1016/j.cell.2018.08.004"
+      },
+      {
+        "ref": "Menegaz de Almeida, A., Aquino de Moraes, F. C., Cavalcanti Souza, M. E., et al. (2025). Bright light therapy for nonseasonal depressive disorders: a systematic review and meta-analysis. JAMA Psychiatry, 82(1), 38-46.",
+        "url": "https://doi.org/10.1001/jamapsychiatry.2024.2871"
+      }
+    ],
+    "media": "image"
+  },
+  {
+    "salon": "La Vue",
+    "title": "Nature et fractales : pourquoi le regard s'apaise devant un arbre",
+    "excerpt": "Une vue sur des arbres aide-t-elle à récupérer ? De l'étude d'Ulrich aux fractales : ce qui est solide, ce qui est discuté, et ce que cela dit du plaisir de regarder.",
+    "tag": "Informer",
+    "body": [
+      "En 1984, le chercheur Roger Ulrich publie dans la revue Science une étude devenue célèbre. Il a consulté les dossiers de patients opérés de la vésicule biliaire dans un hôpital de Pennsylvanie, entre 1972 et 1981. Vingt-trois patients avaient une chambre avec vue sur des arbres. Vingt-trois autres, de profil comparable, voyaient un mur de briques. Les premiers sont restés un peu moins longtemps à l'hôpital. Ils ont reçu moins de remarques négatives dans les notes des infirmières et ont pris moins d'antidouleurs puissants.",
+      "Ce résultat est souvent présenté comme une preuve. Il s'agit pourtant d'une petite étude rétrospective, c'est-à-dire fondée sur des dossiers anciens, menée dans un seul hôpital et sans tirage au sort des chambres. Elle a ouvert une piste sans la refermer. Pour expliquer l'effet, Rachel et Stephen Kaplan ont proposé la théorie de la restauration de l'attention. Selon elle, l'attention dirigée, celle qui sert à se concentrer, s'épuise. La nature offrirait une « fascination douce » : elle retient le regard sans effort, ce qui laisserait cette attention se reposer.",
+      "Que disent les données ? Une revue systématique publiée en 2018 a rassemblé 42 articles comparant des environnements naturels à des environnements témoins. Elle comprend une méta-analyse, une méthode qui combine les résultats de plusieurs études. Les effets les plus nets portent sur la mémoire de travail, qui garde une information en tête quelques secondes, et sur la flexibilité cognitive, la capacité à passer d'une tâche à l'autre. L'effet sur le contrôle de l'attention est moins fiable. Les effets sont faibles à modérés, plus marqués en extérieur réel qu'avec des images. Les auteurs relèvent aussi des définitions floues de l'attention.",
+      "Reste le regard lui-même. Les fractales sont des motifs qui se répètent à différentes échelles, comme les branches d'un arbre ou le contour d'un nuage. En 2003, Branka Spehar, Richard Taylor et leurs collègues ont montré qu'en moyenne, on préfère les fractales de complexité intermédiaire, qu'elles viennent de photos de nature, de simulations par ordinateur ou de toiles de Jackson Pollock. En 2016, la même équipe a nuancé : environ la moitié des participants suivaient ce profil, d'autres préféraient des motifs plus lisses ou plus détaillés. La préférence existe en moyenne, mais elle n'est pas universelle."
+    ],
+    "plaisir": "Le plaisir de contempler un feuillage est discret. Il ressemble moins à une récompense intense qu'à un soulagement. Pour la théorie de la restauration, il tient à cette attention qui travaille sans effort. Pour Spehar et Taylor, notre système visuel s'est formé au milieu de motifs naturels et les traite avec une efficacité particulière. Leurs travaux relient d'ailleurs la préférence pour certains motifs à la capacité à les repérer et à les distinguer. Un traitement facile serait vécu comme agréable. Ces deux explications restent des hypothèses : les mécanismes cérébraux de ce plaisir sont encore mal connus.",
+    "pratique": [
+      "Choisissez une fenêtre avec vue sur un arbre ou, à défaut, une photo de feuillage.",
+      "Après une tâche qui vous a demandé de la concentration, regardez-la cinq minutes, sans téléphone.",
+      "Laissez le regard suivre les branches, des plus grosses aux plus fines.",
+      "Repérez un motif qui se répète à plusieurs échelles.",
+      "Notez votre état avant et après, sans attendre d'effet spectaculaire."
+    ],
+    "sources": [
+      {
+        "ref": "Ulrich, R. S. (1984). View through a window may influence recovery from surgery. Science, 224(4647), 420-421.",
+        "url": "https://doi.org/10.1126/science.6143402"
+      },
+      {
+        "ref": "Stevenson, M. P., Schilhab, T., & Bentsen, P. (2018). Attention Restoration Theory II: a systematic review to clarify attention processes affected by exposure to natural environments. Journal of Toxicology and Environmental Health, Part B, 21(4), 227-268.",
+        "url": "https://doi.org/10.1080/10937404.2018.1505571"
+      },
+      {
+        "ref": "Spehar, B., Clifford, C. W. G., Newell, B. R., & Taylor, R. P. (2003). Universal aesthetic of fractals. Computers & Graphics, 27(5), 813-820.",
+        "url": "https://doi.org/10.1016/S0097-8493(03)00154-7"
+      },
+      {
+        "ref": "Spehar, B., Walker, N., & Taylor, R. P. (2016). Taxonomy of individual variations in aesthetic responses to fractal patterns. Frontiers in Human Neuroscience, 10, 350.",
+        "url": "https://doi.org/10.3389/fnhum.2016.00350"
+      }
+    ],
+    "media": "image"
+  },
+  {
+    "salon": "La Vue",
+    "title": "Apprendre à regarder : lenteur, couleurs et émerveillement",
+    "excerpt": "Une vingtaine de secondes devant un tableau, c'est la norme. Ralentir, observer ses associations de couleurs, cultiver l'émerveillement : regarder s'apprend.",
+    "tag": "Éduquer",
+    "body": [
+      "Combien de temps passons-nous devant une œuvre ? En 2017, Lisa Smith, Jeffrey Smith et Pablo Tinio ont chronométré des visiteurs de l'Art Institute of Chicago. Le temps moyen passé devant une œuvre était d'environ 29 secondes, et la durée médiane de 21 secondes : une fois sur deux, le regard s'attardait moins longtemps. Ces chiffres étaient très proches de ceux d'une étude menée en 2001 au Metropolitan Museum de New York. Face à ce constat, des éducateurs défendent l'observation lente, ou « slow looking ». La chercheuse Shari Tishman, du groupe Project Zero à Harvard, lui a consacré un livre en 2018.",
+      "Regarder, c'est aussi associer. Les couleurs évoquent-elles les mêmes émotions partout ? Domicele Jonauskaite et une large équipe internationale ont interrogé 4 598 personnes de 30 pays, parlant 22 langues. Chaque participant reliait 12 noms de couleurs à 20 émotions. Les profils se ressemblaient fortement d'un pays à l'autre. Le rouge était lié à l'amour et à la colère, le noir à la tristesse et à la peur, le jaune à la joie, le rose à l'amour et au plaisir, le blanc au soulagement.",
+      "Ces associations ne sont pourtant pas totalement universelles. Le pays de chaque participant permettait de prédire ses réponses au-delà du socle commun. Les pays proches par la langue ou la géographie se ressemblaient davantage. L'étude relève aussi des particularités : en Chine, le blanc est également associé à la tristesse ; en Grèce, le violet l'est aussi ; en Égypte, le jaune n'est pas lié à la joie. Nos réactions aux couleurs mêlent donc un fond partagé et une part apprise, qui dépend de la langue, des traditions et du lieu où l'on vit.",
+      "Dernier ingrédient : l'émerveillement, cette émotion ressentie devant quelque chose de vaste qu'on ne comprend pas tout de suite. Virginia Sturm et ses collègues ont proposé à 60 personnes âgées en bonne santé une marche de 15 minutes par semaine pendant 8 semaines. Une partie d'entre elles, tirée au sort, était invitée à chercher l'émerveillement en chemin. Ce groupe a ressenti plus de joie et plus d'émotions tournées vers les autres. Sur leurs selfies, les marcheurs occupaient de moins en moins de place et souriaient davantage. Les scores d'anxiété et de dépression, eux, n'ont pas changé."
+    ],
+    "plaisir": "Que fait le cerveau pendant l'émerveillement ? En 2019, Michiel van Elk et ses collègues ont montré à 32 personnes, en IRM fonctionnelle, une technique qui suit l'activité cérébrale, des vidéos de paysages grandioses : montagnes, océans, vols d'oiseaux. Pendant ces vidéos, plusieurs régions du réseau du mode par défaut, impliqué dans les pensées tournées vers soi, étaient moins actives qu'avec des vidéos simplement agréables. Cela concorde avec le « petit soi » décrit par les participants. Le plaisir de l'émerveillement passerait par un regard absorbé, où l'on s'oublie un peu. Une seule étude ne suffit pas : ce résultat reste à confirmer.",
+    "pratique": [
+      "Choisissez une œuvre, une photo ou un paysage, et réglez une minuterie sur cinq minutes.",
+      "Pendant la première minute, nommez ce que vous voyez, sans juger.",
+      "Relevez trois couleurs et l'émotion que chacune vous évoque.",
+      "Cherchez un détail que vous n'aviez pas remarqué au départ.",
+      "Lors de votre prochaine marche, levez les yeux vers quelque chose de vaste : ciel, arbre ou horizon."
+    ],
+    "sources": [
+      {
+        "ref": "Smith, L. F., Smith, J. K., & Tinio, P. P. L. (2017). Time spent viewing art and reading labels. Psychology of Aesthetics, Creativity, and the Arts, 11(1), 77-85.",
+        "url": "https://doi.org/10.1037/aca0000049"
+      },
+      {
+        "ref": "Jonauskaite, D., Abu-Akel, A., Dael, N., et al. (2020). Universal patterns in color-emotion associations are further shaped by linguistic and geographic proximity. Psychological Science, 31(10), 1245-1260.",
+        "url": "https://doi.org/10.1177/0956797620948810"
+      },
+      {
+        "ref": "Sturm, V. E., Datta, S., Roy, A. R. K., et al. (2022, publié en ligne en 2020). Big smile, small self: Awe walks promote prosocial positive emotions in older adults. Emotion, 22(5), 1044-1058.",
+        "url": "https://doi.org/10.1037/emo0000876"
+      },
+      {
+        "ref": "van Elk, M., Arciniegas Gomez, M. A., van der Zwaag, W., van Schie, H. T., & Sauter, D. (2019). The neural correlates of the awe experience: Reduced default mode network activity during feelings of awe. Human Brain Mapping, 40(12), 3561-3574.",
+        "url": "https://doi.org/10.1002/hbm.24616"
+      }
+    ],
+    "media": "image"
+  },
+  {
+    "salon": "Au-delà des cinq sens",
+    "title": "La proprioception, le sens qui sait où se trouve votre corps",
+    "excerpt": "Fermez les yeux et touchez votre nez : c'est la proprioception. Capteurs, gène PIEZO2 et plaisir du geste maîtrisé, ce sens discret mérite qu'on s'y arrête.",
+    "tag": "Informer",
+    "body": [
+      "Fermez les yeux et touchez le bout de votre nez. Vous y parvenez sans voir votre main grâce à la proprioception, le sens de la position et du mouvement de son propre corps. Ce sens ne repose pas sur un organe unique. Des capteurs répartis dans les muscles, les tendons, les articulations et la peau informent le cerveau en continu. Les fuseaux neuromusculaires, de petites structures logées dans les muscles, signalent leur étirement. Les organes tendineux de Golgi, placés à la jonction entre muscle et tendon, renseignent sur la tension.",
+      "Aucun capteur ne donne à lui seul la position d'un bras. C'est l'ensemble des signaux, combinés par le cerveau et rapportés à une carte interne du corps, qui produit cette sensation. La proprioception renseigne aussi sur l'effort fourni, la force et le poids des objets. Elle n'est pas figée. Un exercice intense peut la perturber pour un temps. Elle s'émousse avec l'âge, ce qui est associé à un risque de chute plus élevé chez les personnes âgées.",
+      "Comment un étirement devient-il un signal nerveux ? En 2015, une équipe a montré chez la souris que le canal Piezo2 est présent dans les terminaisons nerveuses des fuseaux et des organes tendineux. Un canal ionique est une protéine qui laisse passer des charges électriques ; Piezo2 s'ouvre quand la membrane de la cellule se déforme. Les souris privées de Piezo2 dans ces neurones bougeaient de façon très mal coordonnée. Ardem Patapoutian, dont l'équipe a découvert les canaux Piezo, a reçu en 2021 le prix Nobel de médecine avec David Julius pour leurs travaux sur les récepteurs du toucher et de la température.",
+      "Chez l'humain, la confirmation est venue de deux patientes. En 2016, Alexander Chesler et ses collègues ont décrit une jeune femme et une enfant porteuses de mutations qui inactivent le gène PIEZO2. Leur proprioception était profondément diminuée. Les yeux fermés, elles ne pouvaient pas marcher et leurs gestes de pointage devenaient imprécis. Elles percevaient mal les vibrations et le toucher fin. Pourtant, elles marchaient, parlaient et écrivaient, en s'appuyant beaucoup sur la vue. Ces cas rares montrent à la fois le rôle central de PIEZO2 et la capacité du cerveau à compenser."
+    ],
+    "plaisir": "Pourquoi un geste maîtrisé fait-il plaisir ? Le cerveau ne se contente pas de recevoir des signaux, il anticipe aussi les effets de nos mouvements. Proske et Gandevia rapportent même que des zones motrices peuvent créer seules la sensation qu'un membre bouge quand les nerfs sont bloqués. Lorsque le résultat colle à l'intention, nous ressentons du contrôle. Une étude de 2015 suggère que ce sentiment agit lui-même comme une récompense : les participants choisissaient plus souvent et plus vite les actions qui leur donnaient prise sur leur environnement. Les auteurs soulignent que ce lien demande encore à être confirmé.",
+    "pratique": [
+      "Debout près d'un appui, fermez les yeux et levez lentement un bras devant vous.",
+      "Arrêtez-le à hauteur d'épaule, puis ouvrez les yeux pour vérifier sa position.",
+      "Recommencez avec l'autre bras, puis en touchant le bout de votre nez.",
+      "Si votre équilibre le permet, tenez quelques secondes sur un pied, yeux ouverts puis fermés, en gardant l'appui à portée de main.",
+      "Remarquez la sensation de justesse quand le geste tombe juste."
+    ],
+    "sources": [
+      {
+        "ref": "Proske, U., & Gandevia, S. C. (2012). The proprioceptive senses: their roles in signaling body shape, body position and movement, and muscle force. Physiological Reviews, 92(4), 1651-1697.",
+        "url": "https://doi.org/10.1152/physrev.00048.2011"
+      },
+      {
+        "ref": "Woo, S.-H., Lukacs, V., de Nooij, J. C., et al. (2015). Piezo2 is the principal mechanotransduction channel for proprioception. Nature Neuroscience, 18(12), 1756-1762.",
+        "url": "https://doi.org/10.1038/nn.4162"
+      },
+      {
+        "ref": "Chesler, A. T., Szczot, M., Bharucha-Goebel, D., et al. (2016). The role of PIEZO2 in human mechanosensation. New England Journal of Medicine, 375(14), 1355-1364.",
+        "url": "https://doi.org/10.1056/NEJMoa1602812"
+      },
+      {
+        "ref": "Karsh, N., & Eitam, B. (2015). I control therefore I do: Judgments of agency influence action selection. Cognition, 138, 122-131.",
+        "url": "https://doi.org/10.1016/j.cognition.2015.02.002"
+      }
+    ],
+    "media": "video"
+  },
+  {
+    "salon": "Au-delà des cinq sens",
+    "title": "L'intéroception : sentir son cœur, sa faim et son souffle",
+    "excerpt": "Percevoir ses battements de cœur, sa faim, sa respiration : l'intéroception relie le corps aux émotions. Ce que l'on sait de l'insula et ce que valent vraiment les mesures.",
+    "tag": "Informer",
+    "body": [
+      "L'intéroception désigne la perception de l'état interne du corps : battements du cœur, respiration, faim, soif, température, tensions de l'estomac. La plupart du temps, ces signaux restent en arrière-plan. Ils deviennent conscients quand ils changent ou quand on y prête attention. Le neuroanatomiste Bud Craig a proposé un modèle influent de leur trajet dans le cerveau. Selon lui, ils forment d'abord une carte de base dans la partie arrière de l'insula, une région du cortex cachée dans un repli profond du cerveau. Ils sont ensuite réélaborés, étape par étape, vers l'avant de cette région.",
+      "Dans ce modèle, l'insula antérieure intègre l'état du corps avec l'environnement, la motivation et la valeur de plaisir des situations. Craig recense de nombreuses expériences qui l'activent : la soif, le manque d'air, le toucher doux, la fraîcheur, la chaleur ou l'attention portée à son propre cœur. Elle s'active aussi pendant presque toutes les émotions étudiées en imagerie cérébrale. Pour Craig, elle pourrait être le lieu où se construit, à chaque instant, le sentiment d'exister. Cette dernière idée reste une hypothèse discutée.",
+      "Comment mesure-t-on l'intéroception ? Souvent, on demande de percevoir ou de compter ses battements de cœur sans prendre son pouls. En 2004, Hugo Critchley et ses collègues ont observé, en imagerie, que l'activité de l'insula antérieure droite prédisait la précision des participants à ce type de tâche. Le volume de matière grise de cette zone était lié à la fois à cette précision et au ressenti corporel déclaré. Les personnes les plus précises rapportaient aussi des émotions négatives plus intenses. Ces résultats soutiennent l'idée que nos émotions s'appuient en partie sur la perception du corps.",
+      "En 2015, Sarah Garfinkel et ses collègues ont distingué trois dimensions chez 80 personnes. La précision intéroceptive est la performance objective, par exemple détecter ses battements. La sensibilité intéroceptive est ce que l'on pense percevoir, mesuré par questionnaire. La conscience intéroceptive consiste à savoir si l'on est précis ou non. Ces trois dimensions étaient largement indépendantes : se croire à l'écoute de son corps ne garantit pas de le percevoir juste. En 2025, une équipe belge a aussi montré que les outils actuels mesurent mal ces dimensions, ce qui invite à la prudence face aux résultats publiés."
+    ],
+    "plaisir": "Plusieurs plaisirs simples sont intéroceptifs : boire quand on a soif, respirer à fond après un effort, sentir la chaleur revenir dans des mains froides. Dans le modèle de Craig, l'insula reçoit un signal venu du striatum ventral, une structure clé de la récompense. Ce signal colorerait l'état du corps de plaisir ou de déplaisir. Un même signal corporel peut ainsi devenir agréable quand il répond à un besoin. L'imagerie montre aussi que l'insula antérieure réagit à des expériences plaisantes, comme une musique appréciée. Le détail de ces circuits reste à préciser.",
+    "pratique": [
+      "Asseyez-vous au calme, sans toucher votre pouls.",
+      "Pendant une minute, essayez de sentir vos battements de cœur, sans chercher à les compter.",
+      "Portez ensuite l'attention sur votre souffle : où le sentez-vous le mieux ?",
+      "Notez de 1 à 10 votre confiance dans ce que vous avez perçu.",
+      "Si cette attention au corps vous rend inquiet, revenez à l'environnement ; si une sensation vous préoccupe, consultez un professionnel."
+    ],
+    "sources": [
+      {
+        "ref": "Craig, A. D. (2009). How do you feel--now? The anterior insula and human awareness. Nature Reviews Neuroscience, 10(1), 59-70.",
+        "url": "https://doi.org/10.1038/nrn2555"
+      },
+      {
+        "ref": "Critchley, H. D., Wiens, S., Rotshtein, P., Öhman, A., & Dolan, R. J. (2004). Neural systems supporting interoceptive awareness. Nature Neuroscience, 7(2), 189-195.",
+        "url": "https://doi.org/10.1038/nn1176"
+      },
+      {
+        "ref": "Garfinkel, S. N., Seth, A. K., Barrett, A. B., Suzuki, K., & Critchley, H. D. (2015). Knowing your own heart: Distinguishing interoceptive accuracy from interoceptive awareness. Biological Psychology, 104, 65-74.",
+        "url": "https://doi.org/10.1016/j.biopsycho.2014.11.004"
+      },
+      {
+        "ref": "Desmedt, O., Luminet, O., Maurage, P., & Corneille, O. (2025). Discrepancies in the definition and measurement of human interoception: A comprehensive discussion and suggested ways forward. Perspectives on Psychological Science, 20(1), 76-98.",
+        "url": "https://doi.org/10.1177/17456916231191537"
+      }
+    ],
+    "media": null
+  },
+  {
+    "salon": "Au-delà des cinq sens",
+    "title": "L'équilibre et le plaisir d'être bercé",
+    "excerpt": "Pourquoi un hamac ou une balançoire nous apaisent-ils ? Système vestibulaire, bercement et sommeil : ce que disent les études, et leurs limites.",
+    "tag": "Informer",
+    "body": [
+      "Dans l'oreille interne, à côté de l'organe de l'audition, se trouve le système vestibulaire. Il comprend trois canaux semi-circulaires, qui détectent les rotations de la tête, et deux petits organes otolithiques, sensibles aux accélérations en ligne droite et à la gravité. Ces informations servent à garder l'équilibre et à stabiliser le regard. Leur rôle va plus loin. Le chercheur Christophe Lopez rappelle que le réseau vestibulaire du cortex, centré sur une région voisine de l'insula, contribue aussi à la perception de l'espace, du corps et de soi.",
+      "On berce les bébés depuis toujours. Chez l'adulte, l'équipe genevoise de Laurence Bayer et Sophie Schwartz a étudié la question. En 2019, 18 jeunes adultes en bonne santé ont dormi une nuit dans un lit qui oscillait doucement, et une autre nuit dans le même lit immobile. Avec le bercement, ils se sont endormis plus vite, ont passé plus de temps en sommeil profond et se sont moins réveillés. Leur mémoire, testée le soir puis le matin, s'était aussi mieux consolidée. Un travail antérieur de la même équipe avait déjà montré un endormissement plus rapide pendant une sieste.",
+      "Comment l'expliquer ? Le rythme du bercement semble synchroniser certaines ondes du sommeil profond : les oscillations lentes et les fuseaux, de brèves bouffées d'activité liées à la mémoire. Ces ondes apparaissaient en lien avec le cycle de balancement. Chez la souris, une étude publiée en même temps a montré que le bercement augmente le sommeil, mais seulement si les organes otolithiques fonctionnent. Des souris mutantes incapables de percevoir les accélérations en ligne droite n'y réagissaient pas. Le système vestibulaire serait donc la porte d'entrée de cet effet, du moins chez l'animal.",
+      "Ces résultats restent fragiles. Les études humaines portent sur de petits groupes, souvent jeunes. En 2020, une équipe suisse a testé un lit oscillant chez 19 adultes de plus de 60 ans. Le bercement n'a pas accéléré l'endormissement, n'a pas augmenté les fuseaux et n'a pas approfondi le sommeil. La vitesse, l'amplitude et le type de mouvement les plus favorables restent à préciser. Il est donc trop tôt pour présenter le bercement comme une solution aux troubles du sommeil. En cas d'insomnie durable, mieux vaut consulter un professionnel de santé."
+    ],
+    "plaisir": "Pourquoi le balancement est-il agréable ? Le plaisir lui-même a encore été peu étudié. On sait que les signaux vestibulaires rejoignent un réseau cortical voisin de l'insula, une région qui participe aussi aux sensations corporelles et aux émotions. Selon les travaux récents, ce réseau s'étendrait au traitement émotionnel, une piste encore émergente. On sait aussi qu'un rythme lent et régulier peut entraîner les ondes du sommeil. Le bercement associerait ainsi une stimulation douce et prévisible à un état d'apaisement. Le frisson d'une balançoire lancée très haut relève sans doute d'autres mécanismes, encore peu explorés.",
+    "pratique": [
+      "Installez-vous dans un hamac, un fauteuil à bascule ou sur une balançoire basse.",
+      "Lancez un mouvement lent et régulier, environ un aller-retour toutes les quatre secondes.",
+      "Fermez les yeux un moment et suivez la sensation dans la tête et le ventre.",
+      "Ralentissez encore, puis accélérez légèrement : notez ce qui vous apaise ou vous stimule.",
+      "Arrêtez au moindre vertige ou à la moindre nausée."
+    ],
+    "sources": [
+      {
+        "ref": "Perrault, A. A., Khani, A., Quairiaux, C., et al. (2019). Whole-night continuous rocking entrains spontaneous neural oscillations with benefits for sleep and memory. Current Biology, 29(3), 402-411.e3.",
+        "url": "https://doi.org/10.1016/j.cub.2018.12.028"
+      },
+      {
+        "ref": "Kompotis, K., Hubbard, J., Emmenegger, Y., et al. (2019). Rocking promotes sleep in mice through rhythmic stimulation of the vestibular system. Current Biology, 29(3), 392-401.e4.",
+        "url": "https://doi.org/10.1016/j.cub.2018.12.007"
+      },
+      {
+        "ref": "van Sluijs, R., Wilhelm, E., Rondei, Q., et al. (2020). Gentle rocking movements during sleep in the elderly. Journal of Sleep Research, 29(6), e12989.",
+        "url": "https://doi.org/10.1111/jsr.12989"
+      },
+      {
+        "ref": "Lopez, C. (2016). The vestibular system: balancing more than just the body. Current Opinion in Neurology, 29(1), 74-83.",
+        "url": "https://doi.org/10.1097/WCO.0000000000000286"
+      }
+    ],
+    "media": "video"
+  },
+  {
+    "salon": "Au-delà des cinq sens",
+    "title": "Chaud, froid et alliesthésie : quand l'état du corps décide du plaisir",
+    "excerpt": "La même eau fraîche peut sembler délicieuse ou désagréable. Le physiologiste Michel Cabanac a nommé ce phénomène alliesthésie. Explications et exercice pratique.",
+    "tag": "Éduquer",
+    "body": [
+      "Plongez la main dans une eau fraîche après un après-midi de canicule : c'est délicieux. Faites-le après une longue marche dans le froid : c'est désagréable. La température de l'eau est la même. C'est votre état interne qui a changé. En 1971, le physiologiste français Michel Cabanac a donné un nom à ce phénomène : l'alliesthésie, du grec « autre » et « sensation ». Une même stimulation peut être agréable ou désagréable selon l'état du corps. Dans ses expériences, des volontaires plongeaient une main dans une eau à température réglée et notaient leur plaisir, selon que leur corps était refroidi ou réchauffé.",
+      "Pour Cabanac, ce plaisir a une fonction. Il signale ce qui est utile au corps à un moment donné. Quand la température interne s'éloigne de sa valeur de référence, une stimulation qui aide à y revenir devient agréable. Le plaisir guide alors le comportement : chercher l'ombre, se couvrir, boire. Cabanac observait la même logique pour le goût et l'odorat. Il estimait en revanche que le plaisir lié à la vue ou à l'ouïe varie peu selon l'état interne, car aucune constante du corps ne dépend directement d'une couleur ou d'un son.",
+      "Comment la peau perçoit-elle le chaud et le froid ? Grâce à des canaux ioniques de la famille TRP, des protéines des neurones sensoriels qui laissent passer des charges électriques quand la température change. Le canal TRPV1, identifié en 1997 par l'équipe de David Julius, réagit à la chaleur forte et à la capsaïcine du piment. Le canal TRPM8, identifié en 2002, réagit à la fraîcheur et au menthol : voilà pourquoi la menthe paraît fraîche. Ces découvertes ont valu à David Julius le prix Nobel de médecine 2021, partagé avec Ardem Patapoutian.",
+      "Les récepteurs mesurent la température, mais ils ne décident pas seuls du plaisir. Les chercheurs en confort thermique Thomas Parkinson et Richard de Dear distinguent le confort, cet état neutre où l'on ne pense pas à la température, du plaisir thermique. Ce dernier naît plutôt des changements et des contrastes : un souffle frais sur le visage quand le corps a chaud, une boisson chaude quand on a froid. Lorsqu'un contraste local touche une seule partie du corps, ils parlent d'alliesthésie spatiale."
+    ],
+    "plaisir": "Où naît ce plaisir dans le cerveau ? En 2008, Edmund Rolls et ses collègues ont appliqué du chaud (41 °C), du froid (12 °C) et des combinaisons des deux sur la main de volontaires, en IRM fonctionnelle, une technique qui suit l'activité cérébrale. L'intensité ressentie était liée au cortex somatosensoriel et à l'insula postérieure. Le caractère agréable dépendait d'autres régions : le cortex orbitofrontal moyen, le cortex cingulaire prégénual et le striatum ventral, des zones associées à la valeur et à la récompense. Le cerveau distingue donc ce que l'on sent de la manière dont on l'apprécie.",
+    "pratique": [
+      "Préparez deux bols d'eau, l'un frais et l'autre tiède, sans température extrême.",
+      "Après un moment où vous avez eu chaud, plongez une main dans l'eau fraîche et notez le plaisir de -5 à +5.",
+      "Un autre jour, après être resté au frais, refaites le même test avec la même eau.",
+      "Comparez les deux notes : seul l'état de votre corps a changé.",
+      "En cas de trouble de la circulation ou de la sensibilité des mains, demandez d'abord l'avis d'un professionnel."
+    ],
+    "sources": [
+      {
+        "ref": "Cabanac, M. (1971). Physiological role of pleasure. Science, 173(4002), 1103-1107.",
+        "url": "https://doi.org/10.1126/science.173.4002.1103"
+      },
+      {
+        "ref": "McKemy, D. D., Neuhausser, W. M., & Julius, D. (2002). Identification of a cold receptor reveals a general role for TRP channels in thermosensation. Nature, 416(6876), 52-58.",
+        "url": "https://doi.org/10.1038/nature719"
+      },
+      {
+        "ref": "Rolls, E. T., Grabenhorst, F., & Parris, B. A. (2008). Warm pleasant feelings in the brain. NeuroImage, 41(4), 1504-1513.",
+        "url": "https://doi.org/10.1016/j.neuroimage.2008.03.005"
+      },
+      {
+        "ref": "Parkinson, T., & de Dear, R. (2015). Thermal pleasure in built environments: physiology of alliesthesia. Building Research & Information, 43(3), 288-301.",
+        "url": "https://doi.org/10.1080/09613218.2015.989662"
+      }
+    ],
+    "media": "image"
+  }
+]
