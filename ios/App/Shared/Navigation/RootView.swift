@@ -100,7 +100,12 @@ struct DestinationView: View {
         case .esprit: BlocFeedView(blocID: Carte.esprit.id)
         case .creation: BlocFeedView(blocID: Carte.creation.id)
         case .corps: BlocFeedView(blocID: Carte.corps.id)
-        case .univers: UniversMapView()
+        case .univers:
+            #if os(visionOS)
+            UniversVisionEntry()
+            #else
+            UniversMapView()
+            #endif
         case .oracle: OracleView()
         case .club: ClubView()
         case .lives: LivesView()
