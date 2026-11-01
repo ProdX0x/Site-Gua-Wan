@@ -1,0 +1,312 @@
+[
+  {
+    "salon": "Corps en mouvement",
+    "title": "L'euphorie du coureur : et si ce n'étaient pas les endorphines ?",
+    "excerpt": "On attribue le « runner's high » aux endorphines. Les études récentes désignent plutôt les endocannabinoïdes, des messagers fabriqués par le corps.",
+    "tag": "Informer",
+    "body": [
+      "Après une longue sortie à allure régulière, certains coureurs décrivent un état particulier : légèreté, calme, douleur qui s'efface, parfois une vraie euphorie. Les anglophones l'appellent « runner's high ». Pendant des décennies, l'explication semblait évidente : les endorphines, des opioïdes produits par le corps, envahiraient le cerveau. L'idée repose sur des observations. En 2008, une équipe allemande a examiné dix athlètes par TEP, une imagerie qui suit des molécules marquées dans le cerveau. Après deux heures de course, elle a vu des signes de libération d'opioïdes dans des régions liées aux émotions. Plus les coureurs se disaient euphoriques, plus ce signal était net.",
+      "Une corrélation ne prouve pas une cause. Autre problème : les endorphines présentes dans le sang franchissent mal la barrière hémato-encéphalique, le filtre qui protège le cerveau. En 2015, l'équipe de Johannes Fuss a donc testé une autre piste chez la souris : les endocannabinoïdes. Ce sont des messagers fabriqués par le corps, qui agissent sur les mêmes récepteurs que le cannabis. Après avoir couru dans leur roue, les souris étaient moins anxieuses et moins sensibles à la douleur. Quand les chercheurs bloquaient les récepteurs cannabinoïdes, ces effets disparaissaient. Bloquer les récepteurs opioïdes ne changeait rien. Une limite évidente : on ne peut pas demander à une souris si elle se sent euphorique.",
+      "Il fallait donc vérifier chez l'humain. En 2021, la même équipe a recruté 63 sportifs d'endurance réguliers. Ils ont couru 45 minutes à intensité modérée sur un tapis, et marché dans une condition de comparaison. Les volontaires recevaient soit de la naltrexone, un médicament qui bloque les récepteurs opioïdes, soit un placebo, sans que ni eux ni les chercheurs sachent lequel. La course augmentait l'euphorie et réduisait l'anxiété par rapport à la marche. Elle faisait aussi monter dans le sang deux endocannabinoïdes, l'anandamide et le 2-AG. Bloquer les opioïdes n'empêchait aucun de ces effets. La part de personnes décrivant un vrai « high » était la même avec ou sans naltrexone.",
+      "Faut-il oublier les endorphines ? Pas tout à fait. L'imagerie de 2008 suggère qu'elles participent à l'expérience. Mais les données actuelles indiquent qu'elles ne sont pas nécessaires à l'euphorie, et désignent les endocannabinoïdes comme de bons candidats. L'intensité compte aussi. En 2012, une étude a mesuré ces molécules chez l'humain, le chien et le furet. Elles augmentaient après une course soutenue chez l'humain et le chien, deux coureurs d'endurance, mais pas après une marche lente, ni chez le furet. Les auteurs y voient une récompense qui aurait encouragé nos ancêtres à courir longtemps. Cette lecture évolutionniste reste une hypothèse."
+    ],
+    "plaisir": "L'anandamide est une molécule grasse, capable de passer du sang vers le cerveau, contrairement aux endorphines du sang. Elle agit sur les récepteurs CB1, très présents dans les régions qui règlent l'anxiété, la douleur et la récompense. Chez la souris, l'apaisement après la course dépend des récepteurs CB1 de certains neurones du cerveau antérieur, et l'effet antidouleur de récepteurs situés hors du cerveau. Ce plaisir ressemble donc moins à un « shoot » qu'à un relâchement : moins d'inquiétude, une douleur adoucie, une humeur plus légère. Il n'apparaît ni à chaque sortie, ni chez tout le monde.",
+    "pratique": [
+      "Choisissez une allure où vous pouvez encore parler par phrases courtes.",
+      "Avant de partir, notez de 0 à 10 votre niveau de calme et votre humeur.",
+      "Courez ou marchez d'un bon pas 30 à 45 minutes, sans chercher la performance.",
+      "Juste après, notez de nouveau calme et humeur, puis comparez.",
+      "Répétez sur plusieurs sorties, l'effet varie. En cas de souci de santé, voyez d'abord un médecin."
+    ],
+    "sources": [
+      {
+        "ref": "Fuss, J., Steinle, J., Bindila, L., et al. (2015). A runner's high depends on cannabinoid receptors in mice. Proceedings of the National Academy of Sciences, 112(42), 13105-13108.",
+        "url": "https://doi.org/10.1073/pnas.1514996112"
+      },
+      {
+        "ref": "Siebers, M., Biedermann, S. V., Bindila, L., Lutz, B., & Fuss, J. (2021). Exercise-induced euphoria and anxiolysis do not depend on endogenous opioids in humans. Psychoneuroendocrinology, 126, 105173.",
+        "url": "https://doi.org/10.1016/j.psyneuen.2021.105173"
+      },
+      {
+        "ref": "Boecker, H., Sprenger, T., Spilker, M. E., et al. (2008). The runner's high: opioidergic mechanisms in the human brain. Cerebral Cortex, 18(11), 2523-2531.",
+        "url": "https://doi.org/10.1093/cercor/bhn013"
+      },
+      {
+        "ref": "Raichlen, D. A., Foster, A. D., Gerdeman, G. L., Seillier, A., & Giuffrida, A. (2012). Wired to run: exercise-induced endocannabinoid signaling in humans and cursorial mammals with implications for the 'runner's high'. Journal of Experimental Biology, 215(8), 1331-1336.",
+        "url": "https://doi.org/10.1242/jeb.063677"
+      }
+    ],
+    "media": "image"
+  },
+  {
+    "salon": "Corps en mouvement",
+    "title": "Danser ensemble : synchronie, douleur apaisée et envie de bouger",
+    "excerpt": "Bouger au même rythme que d'autres relève le seuil de douleur et rapproche. Et la musique qui « groove » sollicite les circuits du mouvement et de la récompense.",
+    "tag": "Informer",
+    "body": [
+      "La danse en groupe existe dans presque toutes les cultures. Pourquoi tant d'énergie pour bouger ensemble ? À l'université d'Oxford, Bronwyn Tarr et Robin Dunbar défendent une hypothèse : la danse servirait à créer du lien. Elle s'appuierait sur les endorphines, ces opioïdes fabriqués par le corps, impliqués dans l'attachement chez les primates. L'équipe ne mesure pas directement ces molécules. Elle utilise un indicateur indirect : le seuil de douleur, c'est-à-dire la pression à partir de laquelle une sensation devient désagréable. Si ce seuil monte, c'est le signe probable qu'un système antidouleur interne s'est mis en route.",
+      "Dans une première étude, publiée en 2015, 264 adolescents scolarisés sur l'île de Marajó, au Brésil, ont dansé par groupes de trois. Les chercheurs ont fait varier deux choses. L'effort : grands mouvements debout, ou petits gestes des mains en restant assis. La synchronie : tous les mêmes gestes au même moment, ou des gestes différents sur la même musique. Le seuil de douleur était mesuré avec un brassard de tension gonflé peu à peu. Résultat : l'effort et la synchronie relevaient chacun le seuil de douleur, indépendamment l'un de l'autre. Chacun augmentait aussi le sentiment de proximité avec les partenaires de danse.",
+      "En 2016, l'équipe a affiné l'expérience avec un dispositif de « silent disco » : chacun danse avec un casque sur les oreilles. Les chercheurs pouvaient ainsi faire danser des inconnus en synchronie complète, partielle ou pas du tout. Seuls ceux qui bougeaient vraiment ensemble voyaient leur seuil de douleur monter, et se sentaient plus proches des autres. En revanche, ils ne coopéraient pas davantage dans un jeu économique. La danse renforcerait donc le sentiment de proximité, sans forcément rendre plus généreux. Gardons une réserve : le seuil de douleur reste un indicateur indirect, qui ne prouve pas à lui seul le rôle des endorphines.",
+      "Reste une question : pourquoi certaines musiques donnent-elles irrésistiblement envie de bouger ? Les chercheurs appellent « groove » ce désir agréable de bouger en rythme. En 2014, Maria Witek et ses collègues ont fait écouter en ligne des rythmes de batterie funk plus ou moins syncopés. La syncope, c'est un accent placé là où l'oreille ne l'attend pas. Ce sont les rythmes moyennement syncopés qui donnaient le plus envie de bouger et le plus de plaisir, surtout chez les amateurs de danse. Trop simple, le rythme lasse. Trop complexe, on perd le fil. La courbe dessine un U inversé."
+    ],
+    "plaisir": "En 2020, une étude en IRM fonctionnelle, une imagerie qui suit l'activité des régions du cerveau, a fait écouter ce type de rythmes à des musiciens et à des non-musiciens. Les rythmes de complexité moyenne activaient à la fois les zones qui perçoivent la pulsation et celles de la récompense. Dans les noyaux gris centraux, des structures profondes qui relient mouvement et motivation, l'activité suivait le plaisir et l'envie de bouger déclarés. Les auteurs proposent un modèle : le cerveau construit la pulsation, anticipe le prochain temps fort, et le jeu entre ces attentes et les surprises de la syncope nourrit le plaisir.",
+    "pratique": [
+      "Choisissez un morceau au tempo moyen, ni trop simple ni trop chargé : funk, soul, afrobeat.",
+      "Écoutez-le 30 secondes sans bouger et repérez la pulsation.",
+      "Laissez venir un petit mouvement : tête, épaules, puis pieds.",
+      "Invitez une ou deux personnes à faire exactement le même pas, au même moment que vous.",
+      "Après le morceau, notez comment se sent votre corps et si vous vous sentez plus proches."
+    ],
+    "sources": [
+      {
+        "ref": "Tarr, B., Launay, J., Cohen, E., & Dunbar, R. (2015). Synchrony and exertion during dance independently raise pain threshold and encourage social bonding. Biology Letters, 11(10), 20150767.",
+        "url": "https://doi.org/10.1098/rsbl.2015.0767"
+      },
+      {
+        "ref": "Tarr, B., Launay, J., & Dunbar, R. I. M. (2016). Silent disco: dancing in synchrony leads to elevated pain thresholds and social closeness. Evolution and Human Behavior, 37(5), 343-349.",
+        "url": "https://doi.org/10.1016/j.evolhumbehav.2016.02.004"
+      },
+      {
+        "ref": "Witek, M. A. G., Clarke, E. F., Wallentin, M., Kringelbach, M. L., & Vuust, P. (2014). Syncopation, body-movement and pleasure in groove music. PLoS ONE, 9(4), e94446.",
+        "url": "https://doi.org/10.1371/journal.pone.0094446"
+      },
+      {
+        "ref": "Matthews, T. E., Witek, M. A. G., Lund, T., Vuust, P., & Penhune, V. B. (2020). The sensation of groove engages motor and reward networks. NeuroImage, 214, 116768.",
+        "url": "https://doi.org/10.1016/j.neuroimage.2020.116768"
+      }
+    ],
+    "media": "video"
+  },
+  {
+    "salon": "Corps en mouvement",
+    "title": "Bouger contre la déprime : ce que disent vraiment les études",
+    "excerpt": "Marche, yoga, musculation : une vaste analyse parue dans le BMJ en 2024 montre un effet réel de l'exercice sur la dépression. Avec des limites à connaître.",
+    "tag": "Informer",
+    "body": [
+      "La dépression n'est pas une simple tristesse passagère. C'est une maladie qui touche l'humeur, le sommeil, l'énergie et la capacité à éprouver du plaisir. On sait depuis longtemps que l'activité physique aide. La vraie question est : à quel point, et quel exercice ? En 2024, Michael Noetel et ses collègues ont publié dans le BMJ une méta-analyse en réseau. Une méta-analyse regroupe les résultats de nombreuses études. La version « en réseau » permet en plus de comparer des traitements qui n'ont jamais été testés côte à côte, comme la marche et la musculation.",
+      "Les auteurs ont rassemblé 218 essais randomisés, soit plus de 14 000 personnes souffrant de dépression. Par rapport à des groupes témoins actifs, comme les soins habituels ou un comprimé placebo, l'effet était modéré pour la marche ou le jogging, le yoga, la musculation, les exercices aérobies variés, le tai-chi et le qi gong. La marche et le jogging arrivaient en tête. Plus l'intensité prescrite était élevée, plus l'effet était marqué. Le yoga et la musculation étaient les mieux acceptés par les participants. Pour les auteurs, l'exercice pourrait compter parmi les traitements de base, à côté de la psychothérapie et des antidépresseurs.",
+      "Ces résultats demandent de la prudence. Un seul des 218 essais présentait un faible risque de biais selon les critères Cochrane, une référence internationale pour juger la qualité des études. La confiance dans les résultats est donc jugée faible pour la marche et le jogging, et très faible pour les autres activités. Une raison simple : on ne peut pas faire du sport « à l'aveugle ». Les participants savent qu'ils bougent et s'attendent à aller mieux, ce qui peut gonfler l'effet. Les auteurs suggèrent d'ailleurs, pour les futures études, de mieux contrôler ces attentes.",
+      "Une revue Cochrane mise à jour en janvier 2026 arrive à des conclusions proches, avec plus de retenue. Sur 73 essais, l'exercice réduirait modérément les symptômes par rapport à l'absence de traitement, avec un niveau de preuve jugé faible. L'effet diminue quand on ne garde que les essais les plus rigoureux. Face à une psychothérapie, il ferait à peu près jeu égal. Face aux antidépresseurs aussi, mais sur la base de quelques petits essais. Les suivis à long terme sont rares. Message pratique : bouger est une aide sérieuse, pas un substitut automatique. Toute modification d'un traitement se décide avec un médecin. En cas d'idées noires, il faut consulter sans attendre."
+    ],
+    "plaisir": "La dépression abîme souvent le plaisir : on parle d'anhédonie. Les neurosciences distinguent deux faces de la récompense. D'un côté, l'envie : l'élan qui pousse à aller chercher quelque chose, où la dopamine joue un grand rôle. De l'autre, le plaisir ressenti sur le moment. Une revue de 2011 propose de mieux séparer ces deux faces, car dans la dépression c'est souvent l'élan qui manque, autant que le plaisir lui-même. D'où une piste concrète : ne pas attendre d'avoir envie pour bouger. Le plaisir vient parfois pendant ou après l'effort. Les mécanismes exacts de l'effet antidépresseur restent à l'étude.",
+    "pratique": [
+      "Choisissez une activité parmi celles qui ressortent le mieux : marche, yoga ou renforcement musculaire.",
+      "Fixez un objectif minuscule : 10 minutes, trois fois cette semaine.",
+      "Notez votre humeur de 0 à 10 avant et après chaque séance.",
+      "Si possible, bougez avec quelqu'un ou dans un groupe encadré.",
+      "Si vous êtes suivi pour une dépression, parlez-en à votre médecin ou thérapeute."
+    ],
+    "sources": [
+      {
+        "ref": "Noetel, M., Sanders, T., Gallardo-Gómez, D., et al. (2024). Effect of exercise for depression: systematic review and network meta-analysis of randomised controlled trials. BMJ, 384, e075847.",
+        "url": "https://doi.org/10.1136/bmj-2023-075847"
+      },
+      {
+        "ref": "Clegg, A. J., Hill, J. E., Mullin, D. S., et al. (2026). Exercise for depression. Cochrane Database of Systematic Reviews, 2026(1), CD004366.",
+        "url": "https://doi.org/10.1002/14651858.CD004366.pub7"
+      },
+      {
+        "ref": "Treadway, M. T., & Zald, D. H. (2011). Reconsidering anhedonia in depression: lessons from translational neuroscience. Neuroscience & Biobehavioral Reviews, 35(3), 537-555.",
+        "url": "https://doi.org/10.1016/j.neubiorev.2010.06.006"
+      }
+    ],
+    "media": "image"
+  },
+  {
+    "salon": "Corps en mouvement",
+    "title": "Combien bouger, et comment y prendre plaisir",
+    "excerpt": "150 à 300 minutes par semaine, 7 000 pas par jour, du renforcement musculaire : les repères scientifiques, et pourquoi le plaisir aide à s'y tenir.",
+    "tag": "Éduquer",
+    "body": [
+      "En 2020, l'Organisation mondiale de la santé (OMS) a mis à jour ses recommandations. Pour les adultes de 18 à 64 ans, elle conseille 150 à 300 minutes par semaine d'activité d'intensité modérée, ou 75 à 150 minutes d'activité intense, ou un mélange des deux. En pratique, une activité modérée accélère le souffle tout en permettant de parler. Une activité intense ne laisse dire que quelques mots. S'y ajoutent au moins deux jours par semaine de renforcement musculaire, qui fait travailler les grands groupes de muscles. Pour les plus de 65 ans, l'OMS recommande en plus, au moins trois jours par semaine, des activités variées qui travaillent l'équilibre et la force, pour prévenir les chutes.",
+      "L'OMS insiste aussi sur deux messages simples. D'abord, un peu d'activité vaut mieux que rien : des bénéfices apparaissent déjà en dessous des seuils recommandés. Inutile donc de renoncer parce que 150 minutes paraissent hors de portée. Ensuite, il faut limiter le temps passé assis. Remplacer ce temps par une activité de n'importe quelle intensité, même légère, apporte des bénéfices. Monter un escalier, marcher pendant un appel, jardiner : tout compte. Ces recommandations s'adressent à la population générale. En cas de maladie chronique ou de reprise après une longue pause, un avis médical permet d'adapter le rythme.",
+      "Et les fameux 10 000 pas ? Ce chiffre circule depuis longtemps sans base scientifique solide. En 2022, Amanda Paluch et ses collègues ont regroupé les données de 15 cohortes, soit environ 47 500 adultes suivis pendant sept ans environ. Ce sont des études observationnelles : elles montrent une association, pas une relation de cause à effet. Plus les personnes marchaient, plus leur risque de décès était bas, jusqu'à un plateau. Ce plateau se situait vers 6 000 à 8 000 pas par jour après 60 ans, et vers 8 000 à 10 000 pas avant 60 ans.",
+      "Une méta-analyse plus large, publiée en 2025 dans la même revue, étend ce constat à plusieurs problèmes de santé. Par rapport à 2 000 pas par jour, 7 000 pas étaient associés à un risque de décès inférieur de 47 %, et à moins de démence, de symptômes dépressifs et de chutes. Pour les auteurs, 10 000 pas restent un bon objectif pour les plus actifs, mais 7 000 pas représentent déjà un gain important et plus réaliste. Là encore, il s'agit d'associations : les grands marcheurs diffèrent aussi des autres par leur santé et leur mode de vie.",
+      "Ces chiffres ne servent à rien si l'on abandonne au bout de trois semaines. Une revue de 2015 portant sur 24 études apporte un éclairage utile. Quand une séance d'intensité modérée procure des sensations plus agréables pendant l'effort, les personnes ont tendance à être plus actives par la suite. Curieusement, l'humeur mesurée après la séance ne prédisait pas la pratique future. Conclusion pratique : choisir une activité et une intensité qui font du bien sur le moment, quitte à commencer doucement."
+    ],
+    "plaisir": "Pourquoi le ressenti pendant l'effort pèse-t-il autant ? Notre cerveau apprend en permanence à partir des récompenses : une expérience agréable laisse une trace qui rend plus probable de la répéter. Les auteurs de la revue de 2015 inscrivent leurs résultats dans ce cadre, celui des théories hédoniques : nous tendons à revenir vers ce qui fait du bien et à éviter ce qui fait souffrir. Une séance vécue comme pénible laisse un souvenir qui freine la suivante. Le plaisir n'est donc pas un bonus. C'est un moteur de la régularité. À chacun de chercher ce qui rend l'effort agréable : musique, compagnie, nature, jeu.",
+    "pratique": [
+      "Listez trois activités que vous aimiez enfant ou qui vous tentent aujourd'hui.",
+      "Testez-en une pendant deux semaines, à une intensité où vous pouvez encore parler.",
+      "Pendant la séance, et non après, notez à quel point c'est agréable, de -5 à +5.",
+      "Gardez celle qui obtient les meilleures notes, et ajoutez deux moments de renforcement musculaire par semaine.",
+      "Comptez vos pas quelques jours pour connaître votre point de départ, puis augmentez progressivement."
+    ],
+    "sources": [
+      {
+        "ref": "Bull, F. C., Al-Ansari, S. S., Biddle, S., et al. (2020). World Health Organization 2020 guidelines on physical activity and sedentary behaviour. British Journal of Sports Medicine, 54(24), 1451-1462.",
+        "url": "https://doi.org/10.1136/bjsports-2020-102955"
+      },
+      {
+        "ref": "Paluch, A. E., Bajpai, S., Bassett, D. R., et al. (2022). Daily steps and all-cause mortality: a meta-analysis of 15 international cohorts. The Lancet Public Health, 7(3), e219-e228.",
+        "url": "https://doi.org/10.1016/S2468-2667(21)00302-9"
+      },
+      {
+        "ref": "Ding, D., Nguyen, B., Nau, T., et al. (2025). Daily steps and health outcomes in adults: a systematic review and dose-response meta-analysis. The Lancet Public Health, 10(8), e668-e681.",
+        "url": "https://doi.org/10.1016/S2468-2667(25)00164-1"
+      },
+      {
+        "ref": "Rhodes, R. E., & Kates, A. (2015). Can the affective response to exercise predict future motives and physical activity behavior? A systematic review of published evidence. Annals of Behavioral Medicine, 49(5), 715-731.",
+        "url": "https://doi.org/10.1007/s12160-015-9704-5"
+      }
+    ],
+    "media": null
+  },
+  {
+    "salon": "Soin & bien-être",
+    "title": "Le sommeil, premier soin : nettoyage du cerveau, durée et bain chaud",
+    "excerpt": "Le cerveau se nettoie-t-il la nuit ? Où en est le débat, combien d'heures dormir, et pourquoi un bain chaud une à deux heures avant le coucher peut aider.",
+    "tag": "Éduquer",
+    "body": [
+      "En 2013, l'équipe de Maiken Nedergaard publie dans la revue Science un résultat qui fera le tour du monde. Chez la souris, pendant le sommeil naturel ou sous anesthésie, l'espace entre les cellules du cerveau augmente d'environ 60 %. Le liquide cérébrospinal, qui baigne le cerveau, circule alors mieux entre les cellules. Résultat : la bêta-amyloïde, une protéine qui s'accumule dans la maladie d'Alzheimer, était éliminée plus vite pendant le sommeil. Ce réseau de drainage porte le nom de « système glymphatique », par analogie avec le système lymphatique du reste du corps. L'image d'un grand ménage nocturne est née.",
+      "Cette image séduisante est pourtant discutée. En 2024, une équipe de l'Imperial College de Londres a suivi la diffusion de molécules fluorescentes dans le cerveau de souris. Elle a obtenu l'inverse : l'élimination était nettement réduite pendant le sommeil et l'anesthésie, et non augmentée. Les défenseurs du système glymphatique contestent la méthode employée, et le débat continue. Ces deux études portent sur la souris. Chez l'humain, la question n'est pas tranchée. Retenons donc ceci : le sommeil joue sans doute un rôle dans l'entretien du cerveau, mais le « nettoyage nocturne » reste une hypothèse en cours d'examen, pas un fait établi.",
+      "Combien dormir ? En 2015, l'Académie américaine de médecine du sommeil et la Sleep Research Society ont réuni quinze experts. Leur conclusion : un adulte de 18 à 60 ans devrait dormir au moins 7 heures par nuit, de façon régulière. Dormir habituellement moins est associé à plusieurs problèmes de santé, comme la prise de poids, l'hypertension ou la dépression. Dormir plus de 9 heures peut convenir aux jeunes adultes, après une dette de sommeil ou en cas de maladie. Pour les autres, on ne sait pas si c'est un risque. La régularité et la qualité du sommeil comptent aussi.",
+      "Reste un geste simple et agréable : le bain ou la douche chaude avant le coucher. En 2019, Shahab Haghayegh et ses collègues ont analysé 17 études sur le sujet. Une eau entre 40 et 42,5 °C était associée à une meilleure qualité de sommeil ressentie. Prise une à deux heures avant le coucher, même pendant 10 minutes seulement, elle raccourcissait le temps d'endormissement. Le mécanisme proposé semble paradoxal : la chaleur fait affluer le sang vers les mains et les pieds, qui évacuent ensuite la chaleur du corps. La température interne baisse, ce qui favorise l'endormissement. Les auteurs rappellent que les études restent peu nombreuses."
+    ],
+    "plaisir": "Le bain chaud montre comment plaisir et régulation travaillent ensemble. Des capteurs de la peau, les thermorécepteurs, signalent la chaleur au cerveau, qui la juge agréable tant que le corps n'est pas déjà en surchauffe. Vient ensuite une phase plus discrète : mains et pieds tièdes, muscles relâchés, paupières lourdes. Cette détente accompagne la baisse de température interne qui prépare le sommeil. D'où l'intérêt du délai d'une à deux heures, qui laisse au corps le temps de se refroidir. Le plaisir sert ici de boussole : un bain doit rester agréable, jamais brûlant.",
+    "pratique": [
+      "Une à deux heures avant le coucher, prenez un bain ou une douche chaude d'au moins 10 minutes.",
+      "Visez une eau chaude mais agréable, autour de 40 °C, jamais brûlante.",
+      "Ensuite, gardez mains et pieds au chaud et une chambre plutôt fraîche.",
+      "Pendant une semaine, notez votre temps d'endormissement estimé et votre forme au réveil.",
+      "En cas de problème cardiaque, de tension basse ou de grossesse, demandez conseil avant les bains très chauds."
+    ],
+    "sources": [
+      {
+        "ref": "Xie, L., Kang, H., Xu, Q., et al. (2013). Sleep drives metabolite clearance from the adult brain. Science, 342(6156), 373-377.",
+        "url": "https://doi.org/10.1126/science.1241224"
+      },
+      {
+        "ref": "Miao, A., Luo, T., Hsieh, B., et al. (2024). Brain clearance is reduced during sleep and anesthesia. Nature Neuroscience, 27(6), 1046-1050.",
+        "url": "https://doi.org/10.1038/s41593-024-01638-y"
+      },
+      {
+        "ref": "Watson, N. F., Badr, M. S., Belenky, G., et al. (2015). Recommended amount of sleep for a healthy adult: a joint consensus statement of the American Academy of Sleep Medicine and Sleep Research Society. Sleep, 38(6), 843-844.",
+        "url": "https://doi.org/10.5665/sleep.4716"
+      },
+      {
+        "ref": "Haghayegh, S., Khoshnevis, S., Smolensky, M. H., Diller, K. R., & Castriotta, R. J. (2019). Before-bedtime passive body heating by warm shower or bath to improve sleep: a systematic review and meta-analysis. Sleep Medicine Reviews, 46, 124-135.",
+        "url": "https://doi.org/10.1016/j.smrv.2019.04.008"
+      }
+    ],
+    "media": "image"
+  },
+  {
+    "salon": "Soin & bien-être",
+    "title": "Chaud et froid : sauna, eau froide et plaisir du contraste",
+    "excerpt": "Le sauna est associé à un cœur en meilleure santé chez des Finlandais, l'eau froide réveille. Ce que l'on sait vraiment, et les précautions à prendre.",
+    "tag": "Informer",
+    "body": [
+      "En Finlande, le sauna fait partie de la vie quotidienne. En 2015, Tanjaniina Laukkanen et ses collègues ont publié dans JAMA Internal Medicine une étude très commentée. Elle porte sur 2 315 hommes de 42 à 60 ans, de l'est du pays, suivis pendant une vingtaine d'années. Comparés à ceux qui allaient au sauna une fois par semaine, ceux qui y allaient 4 à 7 fois avaient un risque de mort subite cardiaque nettement plus faible, et un risque de décès toutes causes réduit lui aussi. Des séances de plus de 19 minutes étaient associées à moins de décès d'origine cardiaque.",
+      "Prudence toutefois : il s'agit d'une étude observationnelle. Elle montre une association, pas un effet de cause à effet. Les hommes qui fréquentent souvent le sauna diffèrent peut-être des autres par leur santé de départ ou leur mode de vie, même si les chercheurs ont tenu compte de plusieurs facteurs de risque. L'étude ne concerne que des hommes finlandais d'âge moyen, ce qui limite la portée des résultats pour les femmes ou d'autres populations. Les auteurs eux-mêmes appellent à d'autres travaux pour comprendre les mécanismes en jeu.",
+      "L'eau froide a aussi ses adeptes, de la douche fraîche au bain glacé. En 2000, une étude tchèque menée sur un petit groupe de jeunes hommes a mesuré les effets d'une heure d'immersion dans une eau à 14 °C. Dans le sang, la noradrénaline, un messager de l'éveil et de l'attention, augmentait de 530 %. La dopamine, liée à la motivation, augmentait de 250 %. Le cortisol, souvent appelé hormone du stress, avait plutôt tendance à baisser. Ces chiffres sont très cités, mais ils viennent d'une seule petite étude, avec une immersion bien plus longue que les quelques minutes habituelles. Et des mesures dans le sang ne disent pas directement ce qui se passe dans le cerveau.",
+      "En 2025, une revue a rassemblé 11 essais randomisés menés chez des adultes en bonne santé, avec une eau à 15 °C ou moins. Elle trouve une baisse du stress 12 heures après l'immersion, mais pas juste après ni les jours suivants. Des améliorations du sommeil et de la qualité de vie sont rapportées, par très peu d'études, et aucun effet mesurable sur l'humeur. Les auteurs soulignent les limites : peu d'essais, de petits effectifs, des populations peu variées. Ils rappellent aussi que le froid déclenche une réaction de choc : le système nerveux sympathique, celui de l'alerte, s'active d'un coup, et le cœur comme la tension montent.",
+      "Ces réactions imposent quelques précautions. Au sauna : bien s'hydrater, éviter l'alcool, sortir au moindre malaise. Dans l'eau froide : entrer progressivement, ne jamais se baigner seul en eau libre, sortir avant de trembler fortement. Les personnes qui ont une maladie cardiaque, une tension mal contrôlée ou des troubles du rythme, ainsi que les femmes enceintes, doivent demander un avis médical avant de s'y mettre. C'est d'autant plus vrai pour l'enchaînement chaud puis froid, puisque le passage brusque au froid fait grimper le rythme cardiaque et la tension."
+    ],
+    "plaisir": "Pourquoi l'eau froide paraît-elle délicieuse en sortant du sauna, et pénible un matin d'hiver ? En 1971, le physiologiste Michel Cabanac a décrit ce phénomène sous le nom d'alliesthésie : une même sensation devient agréable ou désagréable selon l'état intérieur du corps. Quand le corps a trop chaud, le frais est vécu comme un plaisir, parce qu'il va dans le sens de son équilibre. Le plaisir sert ainsi de guide à la régulation de la température. Le contraste chaud-froid joue avec cette boussole interne. L'élan d'éveil ressenti après le froid s'accompagne, lui, d'une forte hausse de noradrénaline.",
+    "pratique": [
+      "Terminez votre douche par 15 à 30 secondes d'eau fraîche, pas glacée.",
+      "Pendant le contact avec le froid, respirez lentement par le nez.",
+      "Notez ce que vous ressentez juste après, puis une heure plus tard.",
+      "Au sauna, commencez par des séances courtes et sortez au moindre malaise.",
+      "En cas de problème cardiaque, de tension ou de grossesse, demandez un avis médical avant tout essai."
+    ],
+    "sources": [
+      {
+        "ref": "Laukkanen, T., Khan, H., Zaccardi, F., & Laukkanen, J. A. (2015). Association between sauna bathing and fatal cardiovascular and all-cause mortality events. JAMA Internal Medicine, 175(4), 542-548.",
+        "url": "https://doi.org/10.1001/jamainternmed.2014.8187"
+      },
+      {
+        "ref": "Šrámek, P., Šimečková, M., Janský, L., Šavlíková, J., & Vybíral, S. (2000). Human physiological responses to immersion into water of different temperatures. European Journal of Applied Physiology, 81(5), 436-442.",
+        "url": "https://doi.org/10.1007/s004210050065"
+      },
+      {
+        "ref": "Cain, T., Brinsley, J., Bennett, H., Nelson, M., Maher, C., & Singh, B. (2025). Effects of cold-water immersion on health and wellbeing: a systematic review and meta-analysis. PLOS ONE, 20(1), e0317615.",
+        "url": "https://doi.org/10.1371/journal.pone.0317615"
+      },
+      {
+        "ref": "Cabanac, M. (1971). Physiological role of pleasure. Science, 173(4002), 1103-1107.",
+        "url": "https://doi.org/10.1126/science.173.4002.1103"
+      }
+    ],
+    "media": "image"
+  },
+  {
+    "salon": "Soin & bien-être",
+    "title": "Savourer : l'art de prolonger les bons moments",
+    "excerpt": "Le « savoring » désigne notre capacité à remarquer, apprécier et amplifier les bons moments. Il s'apprend, et ses effets sont aujourd'hui mesurés.",
+    "tag": "Éduquer",
+    "body": [
+      "Le même carré de chocolat peut passer inaperçu ou devenir un vrai moment de plaisir. La différence tient souvent à l'attention qu'on lui accorde. Les psychologues américains Fred Bryant et Joseph Veroff ont donné un nom à cette capacité : le « savoring », que l'on peut traduire par « savourer ». Ils le définissent comme la capacité à remarquer, apprécier et amplifier les expériences positives. Dans leur livre de référence, paru en 2007, ils le décrivent moins comme un trait de caractère que comme un ensemble de façons de faire, que l'on peut observer, mesurer et exercer.",
+      "Bryant et Veroff distinguent trois moments. On peut savourer avant, en anticipant un voyage ou un repas. On peut savourer pendant, en restant présent à ce qui se passe. Et l'on peut savourer après, par le souvenir. Ils ont aussi repéré des stratégies qui amplifient le plaisir : le partager avec d'autres, aiguiser ses sens, se laisser absorber, l'exprimer par des gestes ou des mots, en garder une trace. D'autres stratégies l'éteignent, comme chercher ce qui cloche ou se dire que cela pourrait être mieux. Les chercheurs parlent alors de pensée « rabat-joie ».",
+      "Ces idées ont été mises à l'épreuve. Une méta-analyse publiée en 2026 a regroupé 20 essais randomisés, soit 4 805 participants. Les programmes qui entraînent à savourer amélioraient les états positifs et réduisaient les symptômes dépressifs et anxieux, avec un effet global modéré. L'effet se retrouvait quel que soit le format proposé ou le contexte culturel. Il était plus net face à des groupes témoins passifs que face à d'autres activités, ce qui invite à ne pas le surestimer. Les auteurs ont vérifié que ces résultats ne s'expliquaient pas par la seule publication des études favorables.",
+      "Le savoring ressemble à la pleine conscience, cette pratique qui consiste à porter attention au moment présent sans le juger. Les deux ne se confondent pourtant pas. En 2014, Madhav Goyal et ses collègues ont analysé dans JAMA Internal Medicine 47 essais de programmes de méditation, avec 3 515 participants. La pleine conscience réduisait modestement l'anxiété, la dépression et la douleur. En revanche, les preuves manquaient pour un effet sur l'humeur positive. Et la méditation ne faisait pas mieux que d'autres traitements actifs, comme le sport ou les médicaments. On peut voir les deux approches comme complémentaires : l'une aide surtout à apaiser, l'autre vise directement à cultiver le plaisir."
+    ],
+    "plaisir": "Que fait le cerveau quand on savoure un souvenir ? En 2014, une équipe de l'université Rutgers, aux États-Unis, a utilisé l'IRM fonctionnelle, qui suit l'activité des régions cérébrales. Se rappeler un souvenir heureux activait le striatum et le cortex préfrontal médian, des zones qui réagissent aussi à un gain d'argent. Plus cette activité était forte, plus l'émotion positive montait pendant le rappel. Les participants acceptaient même de renoncer à un peu d'argent pour revivre leurs bons souvenirs. Pour le cerveau, savourer le passé fonctionne donc comme une véritable récompense.",
+    "pratique": [
+      "Choisissez un petit plaisir du jour : un fruit, un café, un rayon de soleil.",
+      "Ralentissez et observez pendant une minute sa couleur, son odeur, sa texture, son goût.",
+      "Dites à voix haute, ou à quelqu'un, ce qui vous plaît.",
+      "Le soir, notez ce moment en trois lignes pour pouvoir le revivre plus tard.",
+      "Si une pensée rabat-joie arrive, remarquez-la sans la suivre, puis revenez aux sensations."
+    ],
+    "sources": [
+      {
+        "ref": "Bryant, F. B., & Veroff, J. (2007). Savoring: A new model of positive experience. Lawrence Erlbaum Associates (réédition Psychology Press, 2017).",
+        "url": "https://doi.org/10.4324/9781315088426"
+      },
+      {
+        "ref": "Chen, P.-H., Tung, H.-H., Wu, Y.-C., & Sie, J. (2026). Effectiveness of savoring interventions: a systematic review and meta-analysis of randomized controlled trials. Applied Psychology: Health and Well-Being, 18(2), e70134.",
+        "url": "https://doi.org/10.1111/aphw.70134"
+      },
+      {
+        "ref": "Goyal, M., Singh, S., Sibinga, E. M. S., et al. (2014). Meditation programs for psychological stress and well-being: a systematic review and meta-analysis. JAMA Internal Medicine, 174(3), 357-368.",
+        "url": "https://doi.org/10.1001/jamainternmed.2013.13018"
+      },
+      {
+        "ref": "Speer, M. E., Bhanji, J. P., & Delgado, M. R. (2014). Savoring the past: positive memories evoke value representations in the striatum. Neuron, 84(4), 847-856.",
+        "url": "https://doi.org/10.1016/j.neuron.2014.09.028"
+      }
+    ],
+    "media": null
+  },
+  {
+    "salon": "Soin & bien-être",
+    "title": "Bain de forêt et respiration lente : ce que la science en dit",
+    "excerpt": "Le bain de forêt apaise à court terme, mais les preuves restent fragiles. Respirer autour de 6 cycles par minute agit sur le cœur et le ressenti. Mode d'emploi.",
+    "tag": "Éduquer",
+    "body": [
+      "Le shinrin-yoku, ou « bain de forêt », est né au Japon en 1982, à l'initiative de l'Agence des forêts. Il ne s'agit pas de randonnée sportive, mais de s'immerger dans la nature en mobilisant ses sens : regarder, écouter, sentir, toucher. La pratique a gagné de nombreux pays, portée par un nombre croissant d'études. Une méta-analyse de Yasuhiro Kotera et ses collègues a regroupé 20 études menées en Asie et en Europe. Sa conclusion : le bain de forêt peut réduire à court terme les symptômes de mal-être psychologique, en particulier l'anxiété. Les auteurs réclament toutefois des recherches plus rigoureuses et des suivis plus longs.",
+      "Une méta-analyse plus récente, publiée en 2026, invite à la prudence. Sur les 11 études retenues, le bain de forêt était associé à une baisse du rythme cardiaque d'environ 4 battements par minute, et à moins de tension, d'anxiété et d'abattement. Mais les études étaient très hétérogènes et souvent exposées à des biais. Selon la grille GRADE, une méthode qui note la solidité des preuves, la certitude est « très faible ». Les auteurs concluent que le bain de forêt est une pratique complémentaire pour entretenir la santé, pas un traitement des maladies cardiaques ou mentales.",
+      "La respiration offre une autre porte d'entrée, plus facile à emporter partout. En 2018, Andrea Zaccaro et ses collègues de l'université de Pise ont passé en revue les études sur la respiration lente, c'est-à-dire moins de 10 cycles par minute, chez des personnes en bonne santé. Seules 15 études répondaient à leurs critères, ce qui reste peu. Les résultats convergent pourtant. Respirer lentement augmente la variabilité cardiaque, c'est-à-dire les petites variations naturelles de l'intervalle entre deux battements. Une variabilité plus élevée reflète l'activité du système nerveux parasympathique, celui du repos et de la récupération.",
+      "Pourquoi parle-t-on souvent de 6 respirations par minute ? À ce rythme, soit environ 10 secondes par cycle, les oscillations du rythme cardiaque deviennent maximales chez la plupart des adultes. Le cœur accélère un peu à l'inspiration et ralentit à l'expiration, et ce balancement s'amplifie. Paul Lehrer et Richard Gevirtz l'expliquent par le baroréflexe, un réflexe qui ajuste le rythme cardiaque à la pression du sang. Cette fréquence de résonance varie selon les personnes, autour de 5,5 à 6 cycles par minute en moyenne. L'essentiel reste de respirer lentement, sans forcer."
+    ],
+    "plaisir": "Dans la revue de Zaccaro, la respiration lente s'accompagne de sensations de confort, de détente et d'agrément, mais aussi de vigueur et de vigilance. Les participants rapportaient moins d'anxiété, de colère et de confusion. L'activité électrique du cerveau changeait aussi, avec davantage d'ondes alpha, typiques d'un éveil calme. Les auteurs avancent deux pistes : l'attention portée aux sensations internes du corps, appelée intéroception, et des capteurs du nez qui transmettraient le rythme respiratoire au cerveau. Pour la forêt, on ignore encore quelle part revient au calme, à la marche, aux odeurs ou à la simple pause.",
+    "pratique": [
+      "Asseyez-vous confortablement dehors, ou près d'une fenêtre, si possible face à des arbres.",
+      "Inspirez par le nez pendant environ 4 secondes.",
+      "Expirez doucement pendant environ 6 secondes : vous respirez ainsi 6 fois par minute.",
+      "Continuez 5 minutes en remarquant trois sons, deux odeurs et une sensation sur la peau.",
+      "Si la tête vous tourne, reprenez simplement une respiration normale."
+    ],
+    "sources": [
+      {
+        "ref": "Kotera, Y., Richardson, M., & Sheffield, D. (2022). Effects of shinrin-yoku (forest bathing) and nature therapy on mental health: a systematic review and meta-analysis. International Journal of Mental Health and Addiction, 20(1), 337-361.",
+        "url": "https://doi.org/10.1007/s11469-020-00363-4"
+      },
+      {
+        "ref": "Andrade, A., Durães, S., Franco Netto, L., et al. (2026). Short-term cardiovascular and mental health responses to Shinrin-Yoku (forest bathing): a systematic review and meta-analysis. Frontiers in Psychology, 17, 1707829.",
+        "url": "https://doi.org/10.3389/fpsyg.2026.1707829"
+      },
+      {
+        "ref": "Zaccaro, A., Piarulli, A., Laurino, M., et al. (2018). How breath-control can change your life: a systematic review on psycho-physiological correlates of slow breathing. Frontiers in Human Neuroscience, 12, 353.",
+        "url": "https://doi.org/10.3389/fnhum.2018.00353"
+      },
+      {
+        "ref": "Lehrer, P. M., & Gevirtz, R. (2014). Heart rate variability biofeedback: how and why does it work? Frontiers in Psychology, 5, 756.",
+        "url": "https://doi.org/10.3389/fpsyg.2014.00756"
+      }
+    ],
+    "media": "video"
+  }
+]

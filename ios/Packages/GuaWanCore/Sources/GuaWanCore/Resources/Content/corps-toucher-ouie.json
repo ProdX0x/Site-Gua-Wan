@@ -1,0 +1,318 @@
+[
+  {
+    "salon": "Le Toucher",
+    "title": "Les fibres de la caresse : pourquoi un geste lent fait du bien",
+    "excerpt": "Notre peau abrite des fibres nerveuses réglées pour les caresses lentes et tièdes. Ce qu'on sait d'elles, et ce qu'elles disent du plaisir d'être touché.",
+    "tag": "Informer",
+    "body": [
+      "Quand une main glisse doucement sur votre avant-bras, deux messages partent vers le cerveau. Le premier est rapide et précis : il indique où se trouve le contact, quelle est sa pression, dans quelle direction il avance. Il circule dans des fibres nerveuses entourées de myéline, une gaine isolante qui accélère l'influx. Le second est lent et discret. Il emprunte des fibres sans myéline appelées afférences C-tactiles, ou fibres CT. Une afférence est simplement une fibre qui transporte une information de la peau vers le système nerveux. Celles-ci ne servent pas à reconnaître un objet : elles semblent surtout signaler la douceur d'un contact.",
+      "Ces fibres, d'abord découvertes chez le chat, ont longtemps intrigué. En 2002, l'équipe suédoise de Håkan Olausson étudie une personne qui a perdu les grosses fibres myélinisées du toucher. Quand on effleure sa peau, elle ne perçoit presque rien de précis, mais décrit une vague sensation agréable. L'imagerie cérébrale montre alors une activation de l'insula, une région du cortex qui participe à la perception de l'état intérieur du corps et des émotions, sans activation nette des aires classiques du toucher. Les auteurs parlent d'un toucher « limbique », tourné vers l'émotion plutôt que vers l'analyse.",
+      "En 2009, la même équipe enregistre directement l'activité de ces fibres chez des volontaires, grâce à la microneurographie : une électrode très fine est glissée dans un nerf du bras. On caresse la peau avec un pinceau doux à différentes vitesses. Les fibres C-tactiles répondent le plus fort entre 1 et 10 centimètres par seconde, et ce sont justement ces vitesses que les participants jugent les plus agréables. Plus lent ou plus rapide, l'agrément diminue. Les fibres myélinisées se comportent autrement : leur activité augmente simplement avec la vitesse du geste.",
+      "Une étude de 2014 ajoute un ingrédient : la température. Une sonde pilotée par ordinateur caresse l'avant-bras à 18, 32 ou 42 °C, et à cinq vitesses. Les fibres C-tactiles répondent le mieux à un geste lent à 32 °C, une température proche de celle de la peau. Et c'est seulement à cette température que leur activité suit le plaisir déclaré par les participants. Ces fibres semblent donc accordées à une caresse lente donnée par une autre peau. On les trouve dans la peau velue, comme l'avant-bras ou le dos ; elles sont rares, voire absentes, dans la paume des mains.",
+      "Faut-il les appeler « fibres du plaisir » ? Une revue publiée en 2023 invite à la nuance. Les fibres C-tactiles soutiennent bien le toucher doux et affectif, mais toute expérience tactile chargée d'émotion ne passe pas par elles, et un contact qui les active n'est pas forcément agréable. Le contexte pèse lourd : qui touche, à quel endroit, dans quelle relation, avec quelles attentes. La caresse lente offre au cerveau un signal favorable. C'est ensuite lui qui décide si ce contact fait du bien."
+    ],
+    "plaisir": "Le signal des fibres C-tactiles rejoint l'insula, où se construit une image de l'état du corps et de sa tonalité émotionnelle. Une caresse lente y est traitée comme une information sur notre bien-être, plus que comme la description d'un objet. Dans l'étude de 2014, plus ces fibres déchargeaient à la bonne température, plus la caresse était jugée agréable : le lien entre signal nerveux et plaisir se mesure dès la peau. Mais ce signal ne suffit pas. Le cerveau le combine avec le contexte, la relation et l'attention pour décider si le contact est bienvenu.",
+    "pratique": [
+      "Installez-vous dans une pièce tempérée, avant-bras posé à plat, paume vers le haut.",
+      "Avec le bout des doigts ou un pinceau doux, caressez la peau sur environ 10 cm en 3 secondes, plusieurs fois de suite.",
+      "Essayez ensuite un geste beaucoup plus lent, puis un geste rapide, et comparez.",
+      "Refaites l'essai sur la paume : la sensation est-elle plus précise, plus ou moins agréable ?",
+      "Notez la vitesse qui vous plaît le plus. Les préférences varient d'une personne à l'autre."
+    ],
+    "sources": [
+      {
+        "ref": "Olausson H, Lamarre Y, Backlund H, et al. (2002). Unmyelinated tactile afferents signal touch and project to insular cortex. Nature Neuroscience, 5(9), 900-904.",
+        "url": "https://doi.org/10.1038/nn896"
+      },
+      {
+        "ref": "Löken LS, Wessberg J, Morrison I, McGlone F, Olausson H (2009). Coding of pleasant touch by unmyelinated afferents in humans. Nature Neuroscience, 12(5), 547-548.",
+        "url": "https://doi.org/10.1038/nn.2312"
+      },
+      {
+        "ref": "Ackerley R, Backlund Wasling H, Liljencrantz J, Olausson H, Johnson RD, Wessberg J (2014). Human C-tactile afferents are tuned to the temperature of a skin-stroking caress. Journal of Neuroscience, 34(8), 2879-2883.",
+        "url": "https://doi.org/10.1523/JNEUROSCI.2847-13.2014"
+      },
+      {
+        "ref": "Schirmer A, Croy I, Ackerley R (2023). What are C-tactile afferents and how do they relate to “affective touch”? Neuroscience & Biobehavioral Reviews, 151, 105236.",
+        "url": "https://doi.org/10.1016/j.neubiorev.2023.105236"
+      }
+    ],
+    "media": "image"
+  },
+  {
+    "salon": "Le Toucher",
+    "title": "Comment la peau sent : pression, chaud, froid et le Nobel 2021",
+    "excerpt": "Piezo2 pour le toucher, TRPV1 pour la chaleur, TRPM8 pour le frais : le Nobel 2021 a récompensé la découverte des capteurs qui changent un contact en signal nerveux.",
+    "tag": "Informer",
+    "body": [
+      "La peau est truffée de capteurs. Sous sa surface, des terminaisons nerveuses spécialisées, les mécanorécepteurs, réagissent quand la peau se déforme. Chacun a son registre : certains répondent à une pression maintenue et aux contours fins, d'autres aux glissements, d'autres encore aux vibrations les plus légères. Le cerveau combine leurs messages pour reconstruire une texture, une forme, une prise. D'autres terminaisons, les thermorécepteurs, signalent le chaud et le froid. Une question est pourtant restée longtemps sans réponse : comment une pression ou une température devient-elle un signal électrique dans un nerf ?",
+      "Le prix Nobel de physiologie ou médecine 2021 a récompensé David Julius et Ardem Patapoutian pour la découverte des récepteurs de la température et du toucher. Ces récepteurs sont des canaux ioniques : de minuscules portes logées dans la membrane des neurones. Quand elles s'ouvrent, des particules chargées entrent dans la cellule et déclenchent un influx nerveux. En 2010, l'équipe de Patapoutian a identifié deux canaux qui s'ouvrent directement sous l'effet d'une pression sur la membrane. Elle les a baptisés Piezo1 et Piezo2, d'après le mot grec qui signifie « pression ».",
+      "Les travaux suivants, menés notamment chez la souris, ont montré que Piezo2 est indispensable au toucher léger et à la proprioception, le sens de la position et du mouvement de notre corps. Chez l'humain, une étude de 2016 a décrit deux personnes porteuses de mutations qui rendent PIEZO2 inactif. Elles percevaient mal les vibrations d'un diapason et, les yeux bandés, peinaient à marcher et à sentir la position de leurs membres. Elles sentaient pourtant un pinceau passé sur la peau velue, ce qui suggère l'existence d'autres voies. Mais l'une d'elles le trouvait piquant, et non agréable comme les volontaires témoins.",
+      "Pour la température, David Julius est parti du piment. La capsaïcine, la molécule qui « brûle » la bouche, lui a permis d'identifier en 1997 un récepteur aujourd'hui nommé TRPV1. Ce canal s'ouvre aussi quand la chaleur devient douloureuse, vers 43 °C. Voilà pourquoi le piment donne une sensation de brûlure sans élever la température. De façon symétrique, Julius et Patapoutian ont chacun identifié, grâce au menthol, le récepteur TRPM8, activé par le froid. D'où la fraîcheur de la menthe. Les capteurs de la tiédeur agréable, eux, font encore l'objet de recherches et de débats.",
+      "Ces découvertes dépassent la peau. Les canaux Piezo participent aussi à la régulation de la pression artérielle, de la respiration ou de la vessie, et ces connaissances servent à chercher de nouveaux traitements, notamment contre la douleur chronique. Pour le toucher du quotidien, elles rappellent une idée simple : chaque sensation commence par une porte moléculaire qui s'ouvre. Ce que nous ressentons, agréable ou non, dépend ensuite de tout le chemin parcouru jusqu'au cerveau, et de l'état dans lequel il se trouve."
+    ],
+    "plaisir": "Le même contact peut plaire ou déplaire selon l'état du corps. En 1971, le physiologiste Michel Cabanac a donné un nom à ce phénomène : l'alliesthésie. Un contact tiède paraît délicieux quand on a froid, pénible quand on a trop chaud. Le capteur, lui, transmet la même information. C'est le cerveau qui lui attribue une valeur, selon ce dont l'organisme a besoin. Pour Cabanac, le plaisir sert ainsi de guide : il pousse vers les comportements qui rétablissent l'équilibre interne, comme se réchauffer ou se rafraîchir. Le plaisir thermique est donc un signal utile, autant qu'une sensation.",
+    "pratique": [
+      "Préparez trois bols : eau fraîche, eau tiède (jamais au point de piquer), eau à température ambiante.",
+      "Plongez une main dans l'eau fraîche et l'autre dans l'eau tiède pendant une minute.",
+      "Mettez ensuite les deux mains dans le bol d'eau ambiante : la même eau paraît-elle identique aux deux mains ?",
+      "Goûtez une feuille de menthe et observez la fraîcheur, alors que rien n'a refroidi.",
+      "Posez un doigt immobile sur un tissu, puis faites-le glisser : notez ce que le mouvement révèle."
+    ],
+    "sources": [
+      {
+        "ref": "Assemblée Nobel de l'Institut Karolinska (2021). Communiqué de presse : prix Nobel de physiologie ou médecine 2021 attribué à David Julius et Ardem Patapoutian. NobelPrize.org.",
+        "url": "https://www.nobelprize.org/prizes/medicine/2021/press-release/"
+      },
+      {
+        "ref": "Coste B, Mathur J, Schmidt M, et al. (2010). Piezo1 and Piezo2 are essential components of distinct mechanically activated cation channels. Science, 330(6000), 55-60.",
+        "url": "https://doi.org/10.1126/science.1193270"
+      },
+      {
+        "ref": "Chesler AT, Szczot M, Bharucha-Goebel D, et al. (2016). The role of PIEZO2 in human mechanosensation. New England Journal of Medicine, 375(14), 1355-1364.",
+        "url": "https://doi.org/10.1056/NEJMoa1602812"
+      },
+      {
+        "ref": "Cabanac M (1971). Physiological role of pleasure. Science, 173(4002), 1103-1107.",
+        "url": "https://doi.org/10.1126/science.173.4002.1103"
+      }
+    ],
+    "media": "image"
+  },
+  {
+    "salon": "Le Toucher",
+    "title": "Le toucher qui apaise : ce que disent vraiment les études",
+    "excerpt": "Main tenue, massage, ocytocine : le toucher a des effets mesurables sur le stress et l'anxiété, mais pas toutes les vertus qu'on lui prête. Le point sur les preuves.",
+    "tag": "Informer",
+    "body": [
+      "En 2006, le psychologue James Coan et ses collègues installent seize femmes mariées dans un appareil d'IRM, un scanner qui suit l'activité du cerveau. Un signal annonce parfois une petite décharge électrique. Pendant cette attente menaçante, chaque participante tient la main de son mari, celle d'un inconnu, ou aucune main. Avec la main du conjoint, les régions cérébrales liées à la réaction face à la menace s'activent nettement moins. L'effet est plus limité avec la main d'un inconnu. Et il est d'autant plus marqué que la participante juge son couple de bonne qualité.",
+      "Seize personnes, c'est peu. En 2017, la même équipe reprend l'expérience avec 110 participants, hommes et femmes, d'origines variées, mariés, en couple ou simplement amis. Tenir la main d'un proche réduit à nouveau la détresse ressentie et l'activité d'un réseau lié à la vigilance. En revanche, la main d'un inconnu n'a cette fois aucun effet mesurable, et le type de relation ne change pas le résultat. Ce qui semble compter, c'est la familiarité, ainsi que le sentiment de pouvoir compter sur le soutien de son entourage.",
+      "Qu'en est-il du massage et des autres formes de toucher ? Une grande méta-analyse publiée en 2024 a regroupé 137 études comparant des personnes touchées à des personnes non touchées. Une méta-analyse combine les résultats de nombreuses études pour obtenir une estimation plus fiable. Chez l'adulte, le toucher réduit en moyenne la douleur, l'anxiété et les symptômes dépressifs. Le type de toucher compte peu : massage, caresses ou simple contact donnent des bénéfices proches, que le geste vienne d'un proche ou d'un professionnel. Plusieurs séances font mieux qu'une seule, mais allonger chaque séance n'apporte rien de plus.",
+      "Les auteurs signalent aussi les limites. Il est impossible de toucher quelqu'un « en aveugle » : chacun sait s'il a été massé, ce qui laisse place aux attentes. Les petites études, plus souvent positives, pèsent un peu sur le résultat. Les bénéfices psychologiques sont plus nets chez les personnes malades que chez les personnes en bonne santé. Le toucher est donc un vrai soutien, pas un traitement à lui seul. Il ne remplace pas un suivi médical, et le massage n'est pas adapté à toutes les situations de santé : en cas de doute, mieux vaut demander l'avis d'un professionnel.",
+      "Reste l'ocytocine, souvent surnommée « hormone du câlin ». C'est une hormone, et un messager du cerveau, impliquée dans l'accouchement, l'allaitement et l'attachement. Des travaux, surtout chez l'animal, indiquent que des stimulations douces de la peau peuvent déclencher sa libération, et certains chercheurs soupçonnent les fibres de la caresse d'y contribuer. Chez l'humain, le tableau est beaucoup moins net. Les dosages dans le sang ou la salive reflètent mal ce qui se passe dans le cerveau, et plusieurs méthodes de mesure ont été critiquées. Les promesses du type « un câlin de vingt secondes libère de l'ocytocine » dépassent donc largement les preuves."
+    ],
+    "plaisir": "Pourquoi une main familière soulage-t-elle ? Pour l'équipe de Coan, la présence d'un proche signale au cerveau qu'un soutien est disponible. Face à une menace, il a alors moins besoin de mobiliser seul ses systèmes de vigilance, et cette détente est ressentie comme un soulagement. Le contact doux active aussi des voies spécifiques, comme les fibres C-tactiles et l'insula, liées à la tonalité plaisante du toucher. Mais ce plaisir suppose que le contact soit souhaité : sans confiance ni consentement, la même main n'apaise pas.",
+    "pratique": [
+      "Choisissez une personne de confiance et demandez-lui si elle est d'accord pour essayer.",
+      "Asseyez-vous côte à côte et tenez-vous la main pendant deux ou trois minutes, sans parler.",
+      "Observez votre respiration, la chaleur des mains, la pression qui vous convient le mieux.",
+      "Échangez ensuite sur ce que chacun a ressenti. Chacun peut arrêter à tout moment."
+    ],
+    "sources": [
+      {
+        "ref": "Coan JA, Schaefer HS, Davidson RJ (2006). Lending a hand: social regulation of the neural response to threat. Psychological Science, 17(12), 1032-1039.",
+        "url": "https://doi.org/10.1111/j.1467-9280.2006.01832.x"
+      },
+      {
+        "ref": "Coan JA, Beckes L, Gonzalez MZ, Maresh EL, Brown CL, Hasselmo K (2017). Relationship status and perceived support in the social regulation of neural responses to threat. Social Cognitive and Affective Neuroscience, 12(10), 1574-1583.",
+        "url": "https://doi.org/10.1093/scan/nsx091"
+      },
+      {
+        "ref": "Packheiser J, Hartmann H, Fredriksen K, Gazzola V, Keysers C, Michon F (2024). A systematic review and multivariate meta-analysis of the physical and mental health benefits of touch interventions. Nature Human Behaviour, 8(6), 1088-1107.",
+        "url": "https://doi.org/10.1038/s41562-024-01841-8"
+      },
+      {
+        "ref": "Leng G, Ludwig M (2016). Intranasal oxytocin: myths and delusions. Biological Psychiatry, 79(3), 243-250.",
+        "url": "https://doi.org/10.1016/j.biopsych.2015.05.003"
+      }
+    ],
+    "media": null
+  },
+  {
+    "salon": "Le Toucher",
+    "title": "Atelier : redécouvrir le toucher par les matières et les textures",
+    "excerpt": "Velours, laine, bois, papier : un atelier pour explorer les textures lentement et avec attention, et comprendre comment le geste change le plaisir de toucher.",
+    "tag": "Éduquer",
+    "body": [
+      "Nous touchons des dizaines d'objets chaque heure sans vraiment les sentir. Le geste est rapide, utile, presque automatique. Cet atelier propose l'inverse : choisir quelques matières, ralentir, et leur accorder toute son attention. Ce n'est pas une technique de relaxation, mais une manière de redécouvrir un sens que l'on utilise sans y penser. Pour en profiter pleinement, il aide de savoir comment la main explore le monde, et ce que la recherche a appris des textures que nous trouvons agréables.",
+      "Dans les années 1980, les psychologues Susan Lederman et Roberta Klatzky ont observé des personnes aux yeux bandés à qui l'on demandait de juger un objet. Chacune adoptait spontanément un geste adapté à la question. Pour la texture, on frotte. Pour la dureté, on appuie. Pour la température, on laisse la main posée sans bouger. Pour le poids, on soulève. Pour la forme, on enveloppe l'objet ou l'on suit ses contours. Ces gestes, appelés « procédures exploratoires », sont en général les plus efficaces pour obtenir l'information recherchée.",
+      "Le mouvement est essentiel pour percevoir une texture. Une étude de 2013 a enregistré les fibres nerveuses du bout des doigts chez des singes macaques pendant qu'on faisait défiler des textures naturelles sous leur peau. Les reliefs grossiers sont codés par la forme du motif qui s'imprime sur la peau. Mais la plupart des textures, plus fines, sont perçues grâce aux vibrations que le frottement produit dans la peau. Sans glissement, ces vibrations n'apparaissent pas. C'est en partie pourquoi un doigt immobile renseigne mal sur le grain d'un tissu, qui se révèle dès qu'on le parcourt.",
+      "Qu'est-ce qui rend une matière agréable ? Les premières études désignaient les matériaux doux et lisses comme plaisants, et les matières raides, rugueuses ou grossières comme déplaisantes. Des travaux plus récents, où l'on fait glisser différents tissus sur plusieurs zones du corps à vitesse et pression contrôlées, confirment qu'en général la rugosité diminue l'agrément. Mais ils montrent surtout que tout interagit : la matière, la zone du corps, la vitesse, la force du contact, et même le sexe des participants. Il n'existe pas de texture agréable pour tout le monde, partout et à toute vitesse.",
+      "Deux réglages sont à votre portée. La vitesse d'abord : sur la peau velue, comme l'avant-bras, les caresses lentes, de quelques centimètres par seconde, sont en moyenne jugées les plus agréables. Les attentes ensuite : dans une étude d'imagerie, la même crème appliquée sur l'avant-bras semblait plus agréable quand on la présentait comme « crème riche et hydratante » plutôt que comme « crème basique ». Ce que l'on pense d'une matière colore donc ce que l'on ressent en la touchant."
+    ],
+    "plaisir": "Pour une texture, le cortex somatosensoriel décrit le relief, la pression et la vibration. L'agrément, lui, mobilise d'autres régions. Dans l'étude sur la crème, l'étiquette modifiait à la fois le plaisir déclaré et l'activité de l'insula et du striatum ventral, un carrefour du circuit de la récompense. La même étude montrait qu'un toucher sur l'avant-bras, riche en fibres de la caresse, activait davantage une partie du cortex orbitofrontal, qui attribue une valeur aux expériences, qu'un toucher sur la paume. Le plaisir tactile se construit ainsi à la fois depuis la peau et depuis nos attentes.",
+    "pratique": [
+      "Réunissez quatre ou cinq matières contrastées : velours, laine, bois brut, papier, pierre lisse.",
+      "Les yeux fermés, posez d'abord un doigt immobile sur chaque matière, puis faites-le glisser lentement.",
+      "Variez les gestes : frotter pour la texture, appuyer pour la souplesse, laisser la main posée pour sentir le frais ou le tiède.",
+      "Faites glisser une matière douce sur l'avant-bras à trois vitesses, puis sur la paume, et comparez.",
+      "Classez les matières de la plus à la moins agréable, et recommencez un autre jour pour voir si cela change."
+    ],
+    "sources": [
+      {
+        "ref": "Lederman SJ, Klatzky RL (1987). Hand movements: a window into haptic object recognition. Cognitive Psychology, 19(3), 342-368.",
+        "url": "https://doi.org/10.1016/0010-0285(87)90008-9"
+      },
+      {
+        "ref": "Weber AI, Saal HP, Lieber JD, et al. (2013). Spatial and temporal codes mediate the tactile perception of natural textures. Proceedings of the National Academy of Sciences, 110(42), 17107-17112.",
+        "url": "https://doi.org/10.1073/pnas.1305509110"
+      },
+      {
+        "ref": "Essick GK, McGlone F, Dancer C, et al. (2010). Quantitative assessment of pleasant touch. Neuroscience & Biobehavioral Reviews, 34(2), 192-203.",
+        "url": "https://doi.org/10.1016/j.neubiorev.2009.02.003"
+      },
+      {
+        "ref": "McCabe C, Rolls ET, Bilderbeck A, McGlone F (2008). Cognitive influences on the affective representation of touch and the sight of touch in the human brain. Social Cognitive and Affective Neuroscience, 3(2), 97-108.",
+        "url": "https://doi.org/10.1093/scan/nsn005"
+      }
+    ],
+    "media": "video"
+  },
+  {
+    "salon": "L'Ouïe",
+    "title": "Les frissons musicaux : la dopamine, de l'attente au sommet du plaisir",
+    "excerpt": "Pourquoi certains passages donnent-ils la chair de poule ? Le circuit de la récompense s'active avant même le moment fort. Et chez certaines personnes, la musique ne fait rien.",
+    "tag": "Informer",
+    "body": [
+      "Un crescendo, une voix qui s'élève, un accord inattendu, et un frisson parcourt la nuque ou les bras. Les chercheurs parlent de frisson musical, ou chills en anglais. Il s'accompagne de changements mesurables du système nerveux autonome, celui qui règle nos fonctions corporelles sans effort conscient : rythme cardiaque, respiration, légère transpiration de la peau. Ces signes permettent de repérer avec précision le moment où le plaisir atteint son sommet. Ils offrent aux chercheurs une prise sur une émotion intime, autrement très difficile à mesurer.",
+      "En 2011, Valorie Salimpoor, Robert Zatorre et leurs collègues, à Montréal, cherchent des personnes qui ressentent régulièrement ces frissons. Sur 217 candidats, huit sont retenus après plusieurs étapes de sélection. Chacun apporte sa musique préférée. Grâce à la tomographie par émission de positons (TEP), une imagerie qui suit une molécule marquée dans le cerveau, l'équipe observe une libération de dopamine dans le striatum, une structure profonde du circuit de la récompense, au moment des frissons. La dopamine est un messager chimique impliqué dans la motivation, l'apprentissage et la recherche de récompenses.",
+      "L'IRM fonctionnelle, plus précise dans le temps, ajoute un détail. Juste avant le frisson, c'est le noyau caudé, une partie du striatum, qui s'active le plus. Au moment du frisson, c'est le noyau accumbens, une autre partie de ce même circuit. Le cerveau semble donc répondre à deux temps distincts : l'attente du passage aimé, puis sa réalisation. Ce résultat provient d'une petite étude, menée auprès de personnes choisies pour leur forte sensibilité à la musique. Il reste pourtant une référence de la recherche sur le plaisir musical.",
+      "Une image du cerveau montre une corrélation, pas une cause. En 2019, une équipe de Barcelone teste directement le rôle de la dopamine. Vingt-sept volontaires écoutent de la musique lors de trois séances, après avoir pris de la lévodopa, qui augmente la dopamine disponible, de la rispéridone, qui bloque une partie de son action, ou un placebo. Ni les participants ni les chercheurs ne savent quel comprimé a été donné. Sous lévodopa, le plaisir déclaré et la somme que les participants acceptent de dépenser pour la musique augmentent. Sous rispéridone, les deux diminuent.",
+      "Tout le monde ne vibre pas. Certaines personnes en bonne santé perçoivent normalement la musique mais n'en tirent presque aucun plaisir, alors que d'autres récompenses, comme l'argent, les motivent normalement. On parle d'anhédonie musicale spécifique. En imagerie, leur noyau accumbens réagit peu à la musique mais normalement à un jeu d'argent, et le dialogue entre leur cortex auditif et le circuit de la récompense est affaibli. Une étude publiée en 2025 sur plus de 9 000 jumeaux suédois estime que les facteurs génétiques expliquent jusqu'à 54 % des différences de sensibilité au plaisir musical."
+    ],
+    "plaisir": "La musique n'apporte ni nourriture ni argent, et pourtant elle sollicite le même circuit de la récompense. Une explication possible : le cerveau anticipe sans cesse la suite de ce qu'il entend. La musique joue avec ces attentes, retarde une résolution, glisse une surprise. L'anticipation s'accompagne d'une libération de dopamine, la résolution apporte le pic de plaisir. Ce plaisir naît d'un dialogue entre le cortex auditif, qui analyse les sons, et le striatum, qui leur donne une valeur. Quand ce dialogue est faible, la musique reste perçue, mais elle ne touche plus.",
+    "pratique": [
+      "Choisissez un morceau qui vous a déjà donné des frissons, écoutez-le au calme et à volume modéré.",
+      "Repérez le moment exact du frisson et ce qui le précède : montée, silence, entrée d'une voix.",
+      "À la réécoute, observez l'attente elle-même : sentez-vous le plaisir monter avant le passage ?",
+      "Si rien ne se passe, ce n'est pas un échec : les frissons ne viennent ni à chaque écoute ni chez tout le monde."
+    ],
+    "sources": [
+      {
+        "ref": "Salimpoor VN, Benovoy M, Larcher K, Dagher A, Zatorre RJ (2011). Anatomically distinct dopamine release during anticipation and experience of peak emotion to music. Nature Neuroscience, 14(2), 257-262.",
+        "url": "https://doi.org/10.1038/nn.2726"
+      },
+      {
+        "ref": "Ferreri L, Mas-Herrero E, Zatorre RJ, et al. (2019). Dopamine modulates the reward experiences elicited by music. Proceedings of the National Academy of Sciences, 116(9), 3793-3798.",
+        "url": "https://doi.org/10.1073/pnas.1811878116"
+      },
+      {
+        "ref": "Martínez-Molina N, Mas-Herrero E, Rodríguez-Fornells A, Zatorre RJ, Marco-Pallarés J (2016). Neural correlates of specific musical anhedonia. Proceedings of the National Academy of Sciences, 113(46), E7337-E7345.",
+        "url": "https://doi.org/10.1073/pnas.1611211113"
+      },
+      {
+        "ref": "Bignardi G, Wesseldijk LW, Mas-Herrero E, et al. (2025). Twin modelling reveals partly distinct genetic pathways to music enjoyment. Nature Communications, 16(1), 2904.",
+        "url": "https://doi.org/10.1038/s41467-025-58123-8"
+      }
+    ],
+    "media": "video"
+  },
+  {
+    "salon": "L'Ouïe",
+    "title": "Protéger son oreille : volume, durée d'écoute et santé du cerveau",
+    "excerpt": "Les cellules qui captent les sons ne repoussent pas chez l'humain. Les repères de l'OMS sur le volume et la durée, et ce que l'on sait du lien entre audition et déclin cognitif.",
+    "tag": "Éduquer",
+    "body": [
+      "Tout ce que nous entendons passe par la cochlée, un petit organe en forme d'escargot logé dans l'oreille interne. Elle abrite les cellules ciliées, nommées ainsi pour les fins prolongements qui coiffent leur sommet. Quand le son fait onduler le liquide de la cochlée, ces prolongements se courbent, des canaux s'ouvrent et un signal électrique part vers le nerf auditif. Ces cellules sont fragiles. Un bruit trop fort ou trop long les fatigue, puis peut les détruire. Contrairement à celles des oiseaux ou des amphibiens, les cellules ciliées humaines ne repoussent pas : leur perte est définitive.",
+      "Les signaux d'alerte sont connus : oreilles cotonneuses ou sifflement après un concert. Ce sifflement s'appelle un acouphène. Selon l'Organisation mondiale de la Santé (OMS), ces troubles passagers traduisent souvent une fatigue des cellules sensorielles, qui peuvent récupérer. Mais des expositions répétées à des sons forts ou prolongés finissent par causer des dégâts permanents, et une seule exposition à un son extrêmement fort peut suffire. Comme la perte s'installe en général progressivement, on la remarque tard : les sons aigus deviennent moins nets, puis les conversations dans le bruit plus difficiles à suivre.",
+      "Le décibel (dB) mesure l'intensité d'un son. Une conversation normale tourne autour de 60 dB, un sèche-cheveux autour de 100 dB. L'échelle est trompeuse : chaque palier de 10 dB correspond à une énergie sonore dix fois plus grande. L'OMS raisonne donc en dose hebdomadaire. À 80 dB, on peut écouter sans risque jusqu'à 40 heures par semaine. À 90 dB, ce temps tombe à 4 heures. À 100 dB, à 20 minutes. Pour les concerts et festivals, l'OMS recommande aussi de ne pas dépasser 100 dB en moyenne sur 15 minutes, avec des zones calmes et des protections auditives disponibles.",
+      "L'audition compte aussi pour le cerveau. En 2024, la Commission du Lancet sur la démence, un groupe international d'experts, a estimé qu'environ 45 % des cas de démence pourraient en théorie être évités ou retardés en agissant sur 14 facteurs de risque. La perte auditive non prise en charge et un taux élevé de cholestérol LDL arrivent en tête, avec environ 7 % des cas chacun. Ces chiffres sont des estimations à l'échelle d'une population, construites surtout à partir d'études d'observation. Ils traduisent une association répétée, pas la preuve qu'une perte auditive cause une démence chez une personne donnée.",
+      "Pour tester un lien de cause à effet, l'essai ACHIEVE a suivi 977 personnes de 70 à 84 ans ayant une perte auditive, tirées au sort pour recevoir soit un accompagnement avec appareils auditifs, soit un programme d'éducation à la santé. Après trois ans, le déclin cognitif était le même dans les deux groupes. Une analyse prévue à l'avance suggère toutefois un bénéfice chez les participants les plus à risque. Le message est donc nuancé : bien entendre aide à communiquer et à garder des liens, et pourrait ralentir le déclin chez certaines personnes, mais ce n'est pas démontré pour tous."
+    ],
+    "plaisir": "Le plaisir d'écouter repose sur un dialogue entre l'oreille, le cortex auditif et le circuit de la récompense. Ce dialogue se nourrit de détails : le grain d'une voix, les aigus d'une cymbale, le petit écart qui crée la surprise. Or ce sont souvent les aigus qui s'effacent en premier quand l'audition s'abîme. Monter le son peut sembler intensifier l'émotion, mais les études sur les frissons musicaux montrent que le plaisir naît aussi du jeu des attentes et des résolutions. Protéger ses oreilles, c'est garder longtemps l'accès à ces plaisirs fins.",
+    "pratique": [
+      "Réglez le volume de vos écouteurs à 60 % du maximum au plus, et activez si possible le suivi de l'exposition sonore de votre téléphone.",
+      "Si vous devez hausser la voix pour parler à quelqu'un placé à un bras de distance, l'endroit est trop bruyant.",
+      "En concert, portez des bouchons d'oreille, éloignez-vous des enceintes et accordez à vos oreilles des pauses au calme.",
+      "Dans les transports, un casque bien ajusté à réduction de bruit évite de monter le volume pour couvrir le bruit ambiant.",
+      "En cas de sifflement persistant ou de difficulté à suivre les conversations, faites contrôler votre audition par un professionnel."
+    ],
+    "sources": [
+      {
+        "ref": "Organisation mondiale de la Santé (2026). Deafness and hearing loss: safe listening (questions-réponses). who.int.",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/deafness-and-hearing-loss-safe-listening"
+      },
+      {
+        "ref": "National Institute on Deafness and Other Communication Disorders (2025). Noise-induced hearing loss. National Institutes of Health, nidcd.nih.gov.",
+        "url": "https://www.nidcd.nih.gov/health/noise-induced-hearing-loss"
+      },
+      {
+        "ref": "Livingston G, Huntley J, Liu KY, et al. (2024). Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission. The Lancet, 404(10452), 572-628.",
+        "url": "https://doi.org/10.1016/S0140-6736(24)01296-0"
+      },
+      {
+        "ref": "Lin FR, Pike JR, Albert MS, et al. (2023). Hearing intervention versus health education control to reduce cognitive decline in older adults with hearing loss in the USA (ACHIEVE): a multicentre, randomised controlled trial. The Lancet, 402(10404), 786-797.",
+        "url": "https://doi.org/10.1016/S0140-6736(23)01406-X"
+      }
+    ],
+    "media": "image"
+  },
+  {
+    "salon": "L'Ouïe",
+    "title": "ASMR, voix douces et sons apaisants : ce que disent les études",
+    "excerpt": "Chuchotements, tapotements, gestes lents : l'ASMR offre à certains des picotements agréables et un vrai apaisement. Ce que la science confirme, et ce qu'elle ignore encore.",
+    "tag": "Informer",
+    "body": [
+      "ASMR signifie « Autonomous Sensory Meridian Response », une expression née dans des communautés d'internautes avant d'intéresser les chercheurs. Elle désigne une sensation de picotements, comme un léger fourmillement, qui part du crâne et descend parfois dans la nuque et le dos. Elle est déclenchée par certains sons et images : chuchotements, tapotements, froissements, gestes lents, attention personnelle bienveillante. Les vidéos conçues pour la provoquer rassemblent un large public en ligne. Mais tout le monde ne la ressent pas, et ce point est essentiel pour lire les études.",
+      "L'une des premières études scientifiques sur le sujet, publiée en 2015, repose sur un questionnaire en ligne rempli par 475 personnes qui disaient ressentir l'ASMR. Les déclencheurs les plus cités étaient le chuchotement, l'attention personnelle, les sons nets et les mouvements lents. Presque tous les participants (98 %) cherchaient à se détendre, 82 % s'en servaient pour s'endormir et 70 % pour gérer le stress. Les auteurs rapprochaient l'ASMR du « flow », cet état d'absorption complète dans une activité. Mais les volontaires venaient de groupes d'amateurs en ligne : l'échantillon n'est pas représentatif, et tout repose sur leurs déclarations.",
+      "En 2018, une équipe britannique franchit une étape avec deux expériences. Dans la première, un peu plus de 1 000 personnes regardent en ligne des vidéos ASMR et une vidéo témoin. Les vidéos ASMR améliorent l'humeur, mais seulement chez celles qui ressentent l'ASMR. Dans la seconde, menée en laboratoire, le cœur des personnes sensibles ralentit en moyenne d'un peu plus de trois battements par minute pendant les vidéos. Dans le même temps, la conductance de la peau, un indicateur d'éveil du système nerveux, augmente. L'ASMR associe donc un apaisement et une forme d'éveil.",
+      "Que se passe-t-il dans le cerveau ? Une étude d'IRM fonctionnelle menée en 2018 auprès de dix personnes sensibles à l'ASMR a observé, aux moments de détente et de picotements, une activation du noyau accumbens, lié à la récompense, et de régions associées à l'éveil émotionnel, comme l'insula et le cortex cingulaire antérieur. Selon les auteurs, ce profil rappelle celui des frissons musicaux et des comportements d'affiliation, ces gestes qui nous rapprochent des autres. Avec dix participants, ce résultat reste une piste à confirmer, pas une conclusion.",
+      "Une revue publiée en 2023 dresse un bilan prudent. La recherche a progressé en dix ans, avec davantage d'essais structurés, mais des questions essentielles restent ouvertes, notamment le rôle des attentes et de l'effet placebo. Les participants sont souvent des amateurs recrutés en ligne, et les effets à long terme sur le sommeil ou l'anxiété n'ont pas été établis. L'ASMR peut être un outil de détente agréable pour les personnes qui y sont sensibles. Elle ne remplace pas un accompagnement en cas d'insomnie ou d'anxiété qui dure."
+    ],
+    "plaisir": "Pourquoi des chuchotements peuvent-ils faire du bien ? Beaucoup de déclencheurs de l'ASMR évoquent une attention proche et bienveillante : une voix basse, des gestes lents, des soins minutieux. Les rares données d'imagerie montrent l'activation du noyau accumbens, un nœud du circuit de la récompense, avec des régions de l'émotion. Le plaisir ressenti mêlerait ainsi récompense et sentiment de sécurité, une hypothèse encore à tester. Il dépend aussi beaucoup de chacun : les mêmes sons qui apaisent une personne peuvent en agacer une autre.",
+    "pratique": [
+      "Choisissez un moment calme et un volume bas : l'ASMR repose sur des sons faibles.",
+      "Testez plusieurs types de sons : chuchotements, pages tournées, pluie, tapotements sur du bois.",
+      "Notez ce que vous ressentez : picotements, détente, indifférence ou agacement. Toutes ces réponses sont normales.",
+      "Si vous l'utilisez pour vous endormir, programmez un arrêt automatique et gardez un volume faible."
+    ],
+    "sources": [
+      {
+        "ref": "Barratt EL, Davis NJ (2015). Autonomous Sensory Meridian Response (ASMR): a flow-like mental state. PeerJ, 3, e851.",
+        "url": "https://doi.org/10.7717/peerj.851"
+      },
+      {
+        "ref": "Poerio GL, Blakey E, Hostler TJ, Veltri T (2018). More than a feeling: Autonomous sensory meridian response (ASMR) is characterized by reliable changes in affect and physiology. PLOS ONE, 13(6), e0196645.",
+        "url": "https://doi.org/10.1371/journal.pone.0196645"
+      },
+      {
+        "ref": "Lochte BC, Guillory SA, Richard CAH, Kelley WM (2018). An fMRI investigation of the neural correlates underlying the autonomous sensory meridian response (ASMR). BioImpacts, 8(4), 295-304.",
+        "url": "https://doi.org/10.15171/bi.2018.32"
+      },
+      {
+        "ref": "Mahady A, Takac M, De Foe A (2023). What is autonomous sensory meridian response (ASMR)? A narrative review and comparative analysis of related phenomena. Consciousness and Cognition, 109, 103477.",
+        "url": "https://doi.org/10.1016/j.concog.2023.103477"
+      }
+    ],
+    "media": null
+  },
+  {
+    "salon": "L'Ouïe",
+    "title": "Écoute profonde : le paysage sonore et la juste place du silence",
+    "excerpt": "Un exercice d'écoute attentive pour percevoir les sons qui nous entourent, goûter les sons naturels et donner au silence sa place, sans lui prêter de pouvoirs non prouvés.",
+    "tag": "Éduquer",
+    "body": [
+      "Nous entendons en permanence, mais nous écoutons rarement. La plupart des sons de fond restent à la lisière de notre attention, tant qu'ils ne signalent rien d'utile ou d'inattendu. L'écoute profonde, expression inventée par la compositrice américaine Pauline Oliveros, propose de faire l'inverse pendant quelques minutes : accueillir tous les sons, proches et lointains, sans les trier. On découvre alors un paysage sonore, c'est-à-dire l'environnement acoustique tel qu'une personne le perçoit, dans un lieu et un moment donnés. Le même parc ne sonne pas pareil à l'aube et à midi.",
+      "Les sons de la nature tiennent une place à part. Une synthèse publiée en 2021 a rassemblé 36 publications consacrées à leurs effets sur la santé. En combinant les résultats de 18 d'entre elles, les auteurs observent une baisse du stress et de la gêne, et une amélioration de l'humeur et de la santé ressentie. Parmi les sons étudiés figurent surtout les sons d'animaux, l'eau et le vent. Ces résultats sont encourageants mais imprécis : les études sont peu nombreuses et très différentes les unes des autres.",
+      "Et le silence ? En 2006, des chercheurs italiens et britanniques ont mesuré le cœur, la tension et la respiration de 24 personnes, musiciens ou non, pendant l'écoute de six styles musicaux. Une pause de deux minutes, placée au hasard dans la séance, faisait baisser la fréquence cardiaque, la pression artérielle et la ventilation, jusqu'en dessous du niveau de départ. La détente était particulièrement nette pendant cette pause. L'étude est petite et porte sur un effet immédiat, mais elle suggère que le silence se savoure surtout par contraste, après le son.",
+      "On lit parfois que le silence ferait pousser de nouveaux neurones. L'idée vient d'une étude menée chez la souris, publiée en 2015. Les chercheurs ont comparé le bruit de fond habituel de l'animalerie à plusieurs conditions : bruit blanc, cris de souriceaux, musique de Mozart et silence. Une semaine plus tard, seul le silence restait associé à davantage de nouveaux neurones dans l'hippocampe, une région clé de la mémoire. Les auteurs parlent eux-mêmes d'une absence de son « non naturelle » pour l'animal. Ce résultat isolé, obtenu chez la souris, ne permet pas d'en tirer une règle pour l'humain."
+    ],
+    "plaisir": "Écouter, pour le cerveau, c'est aussi prédire : il anticipe sans cesse la suite de ce qu'il entend et la compare avec ce qui arrive. En musique, une étude de 2019 a montré que le plaisir dépend d'un équilibre entre incertitude et surprise. Un accord inattendu plaît quand le contexte était prévisible, un accord attendu plaît quand le contexte était incertain. L'amygdale, l'hippocampe et le cortex auditif suivent ce jeu. Une écoute attentive du paysage sonore, avec ses retours d'oiseaux et ses silences, mobilise peut-être des mécanismes voisins, mais cela reste à démontrer.",
+    "pratique": [
+      "Asseyez-vous confortablement pendant cinq minutes, les yeux fermés, à la fenêtre, dans un parc ou chez vous.",
+      "Repérez le son le plus proche, puis le plus lointain, puis tout ce qui se trouve entre les deux.",
+      "Sans nommer les sons, suivez leur forme : début, durée, fin, direction.",
+      "Portez attention aux silences entre les sons et à ce qu'ils laissent en vous.",
+      "Pour finir, notez trois sons que vous n'aviez encore jamais remarqués."
+    ],
+    "sources": [
+      {
+        "ref": "Buxton RT, Pearson AL, Allou C, Fristrup K, Wittemyer G (2021). A synthesis of health benefits of natural sounds and their distribution in national parks. Proceedings of the National Academy of Sciences, 118(14), e2013097118.",
+        "url": "https://doi.org/10.1073/pnas.2013097118"
+      },
+      {
+        "ref": "Bernardi L, Porta C, Sleight P (2006). Cardiovascular, cerebrovascular, and respiratory changes induced by different types of music in musicians and non-musicians: the importance of silence. Heart, 92(4), 445-452.",
+        "url": "https://doi.org/10.1136/hrt.2005.064600"
+      },
+      {
+        "ref": "Kirste I, Nicola Z, Kronenberg G, Walker TL, Liu RC, Kempermann G (2015). Is silence golden? Effects of auditory stimuli and their absence on adult hippocampal neurogenesis. Brain Structure and Function, 220(2), 1221-1228.",
+        "url": "https://doi.org/10.1007/s00429-013-0679-3"
+      },
+      {
+        "ref": "Cheung VKM, Harrison PMC, Meyer L, Pearce MT, Haynes JD, Koelsch S (2019). Uncertainty and surprise jointly predict musical pleasure and amygdala, hippocampus, and auditory cortex activity. Current Biology, 29(23), 4084-4092.",
+        "url": "https://doi.org/10.1016/j.cub.2019.09.067"
+      }
+    ],
+    "media": "video"
+  }
+]

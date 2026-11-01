@@ -1,0 +1,442 @@
+[
+  {
+    "salon": "Méditation & pleine conscience",
+    "title": "Qu'est-ce que méditer ? Les grandes familles de pratiques",
+    "excerpt": "Fixer son souffle, observer ce qui passe, cultiver la bienveillance, interroger le « moi » : les chercheurs rangent les méditations en grandes familles. Le tour du sujet.",
+    "tag": "Éduquer",
+    "repere": "Monde · classifications de 2008 à 2019",
+    "lieu": null,
+    "body": [
+      "Le mot « méditation » recouvre des gestes très différents : réciter un mantra en Inde, compter ses respirations dans un temple zen, répéter une courte prière chez les moines orthodoxes, visualiser une divinité au Tibet. Pour comparer ces pratiques en laboratoire, des chercheurs ont proposé des classements. En 2008, Antoine Lutz, Heleen Slagter, John Dunne et Richard Davidson, alors à l'université du Wisconsin, décrivent la méditation comme une famille d'entraînements à la régulation de l'attention et des émotions. Ils ne prétendent pas résumer chaque tradition, ni dire laquelle est la meilleure. Leur but est plus modeste : disposer de catégories assez précises pour savoir de quoi l'on parle quand on étudie « la méditation ».",
+      "Ils distinguent deux grands styles. Dans l'attention focalisée, on choisit un objet, par exemple les sensations du souffle, un son ou un mot, et on y maintient l'attention. L'esprit s'échappe, c'est normal : l'exercice consiste à remarquer la distraction puis à revenir à l'objet, sans se juger. Dans l'observation ouverte, il n'y a pas d'objet fixe. On observe, moment après moment, tout ce qui se présente, sons, sensations ou pensées, sans réagir ni s'y accrocher. Selon ces auteurs, on commence souvent par la première pour calmer l'esprit, avant de glisser vers la seconde. Les deux styles existent dans le zen, la vipassana et le bouddhisme tibétain.",
+      "En 2015, Cortland Dahl, Antoine Lutz et Richard Davidson élargissent le tableau. Ils réunissent ces deux styles dans une famille « attentionnelle », dont le ressort principal est la méta-conscience : la capacité à remarquer ce que fait l'esprit pendant qu'il le fait. Ils ajoutent une famille « constructive », qui cherche à cultiver des façons de penser et de ressentir favorables au bien-être. On y trouve la bienveillance aimante, la compassion, certaines visualisations tibétaines ou des formes de prière contemplative. Son mécanisme principal est le changement de perspective : apprendre à se regarder soi-même et à regarder les autres autrement, par exemple avec plus de chaleur et moins de jugement.",
+      "La troisième famille est dite « déconstructive ». Elle repose sur l'auto-investigation, c'est-à-dire l'examen attentif de la façon dont naissent les perceptions, les émotions et les pensées. L'idée est de constater que nos représentations ne sont pas la réalité elle-même, et que le « moi » n'est peut-être pas aussi solide qu'il en a l'air. Les auteurs y rangent la vipassana, la méditation analytique tibétaine, les kôans du zen (des énigmes qui déroutent la logique ordinaire) et des pratiques dites non duelles : le dzogchen tibétain, le shikantaza du zen sôtô, l'auto-investigation de l'Advaita Vedanta indien ou la muraqaba des soufis.",
+      "Ces classements ont des limites, et leurs auteurs le disent : beaucoup de pratiques mêlent les trois familles, et l'on classe chacune selon son mécanisme dominant. D'autres chercheurs ont procédé autrement. En 2019, Karin Matko et Peter Sedlmeier ont demandé à 100 méditants expérimentés de comparer 20 techniques. Il en ressort sept groupes, de l'observation attentive à la méditation en mouvement, organisés selon la place donnée au corps et le degré d'activation. Enfin, une méta-analyse de 2016, c'est-à-dire une synthèse statistique de nombreuses études, a recensé 78 travaux d'imagerie cérébrale : attention focalisée, mantra, observation ouverte et bienveillance n'activent pas les mêmes régions. Méditer n'est donc pas une seule chose."
+    ],
+    "cles": [
+      "« Méditer » désigne une famille de pratiques qui entraînent l'attention et les émotions, pas une technique unique.",
+      "L'attention focalisée ramène sans cesse l'esprit vers un objet ; l'observation ouverte accueille ce qui se présente sans s'y accrocher.",
+      "Les méditations constructives, comme la bienveillance aimante, cultivent de nouvelles manières de se voir et de voir autrui.",
+      "Les méditations déconstructives interrogent la nature des perceptions, des pensées et du « moi ».",
+      "Ces classements sont des outils de recherche : la plupart des pratiques réelles combinent plusieurs familles."
+    ],
+    "citation": {
+      "texte": "La méditation peut être conçue comme une famille d'entraînements complexes à la régulation des émotions et de l'attention.",
+      "auteur": "Antoine Lutz, Heleen Slagter, John Dunne et Richard Davidson",
+      "source": "« Attention regulation and monitoring in meditation », Trends in Cognitive Sciences, 2008, résumé ; traduction libre"
+    },
+    "pratique": [
+      "Asseyez-vous confortablement, le dos droit sans raideur, et réglez une minuterie sur cinq minutes.",
+      "Attention focalisée : posez l'attention sur le souffle à l'entrée des narines ; à chaque distraction, remarquez-la puis revenez au souffle.",
+      "Observation ouverte : pendant cinq autres minutes, laissez venir sons, sensations et pensées sans en choisir aucun, en les regardant passer.",
+      "Notez ensuite en une phrase la différence que vous avez perçue entre les deux exercices."
+    ],
+    "sources": [
+      {"ref": "Lutz, A., Slagter, H. A., Dunne, J. D. et Davidson, R. J. (2008). Attention regulation and monitoring in meditation. Trends in Cognitive Sciences, 12(4), 163-169.", "url": "https://doi.org/10.1016/j.tics.2008.01.005"},
+      {"ref": "Dahl, C. J., Lutz, A. et Davidson, R. J. (2015). Reconstructing and deconstructing the self: cognitive mechanisms in meditation practice. Trends in Cognitive Sciences, 19(9), 515-523.", "url": "https://doi.org/10.1016/j.tics.2015.07.001"},
+      {"ref": "Matko, K. et Sedlmeier, P. (2019). What Is Meditation? Proposing an Empirically Derived Classification System. Frontiers in Psychology, 10, 2276.", "url": "https://doi.org/10.3389/fpsyg.2019.02276"},
+      {"ref": "Fox, K. C. R. et coll. (2016). Functional neuroanatomy of meditation: A review and meta-analysis of 78 functional neuroimaging investigations. Neuroscience & Biobehavioral Reviews, 65, 208-228.", "url": "https://doi.org/10.1016/j.neubiorev.2016.03.021"}
+    ],
+    "videos": [
+      {"title": "Comprendre la méditation, par Christophe André", "channel": "France Inter", "url": "https://www.youtube.com/watch?v=vZ-VEr3RaPM", "lang": "fr"},
+      {"title": "La conférence d'Antoine Lutz à la Cité des Sciences", "channel": "Sciences et Avenir", "url": "https://www.youtube.com/watch?v=D60Wx3esNII", "lang": "fr"}
+    ]
+  },
+  {
+    "salon": "Méditation & pleine conscience",
+    "title": "Ce que la méditation change dans le cerveau : l'état des preuves en 2026",
+    "excerpt": "Matière grise qui grossit, cerveau qui rajeunit ? Les essais les plus rigoureux tempèrent ces promesses. Ce que l'on sait, ce que l'on ignore, et pourquoi c'est si difficile.",
+    "tag": "Informer",
+    "repere": "Neurosciences · 2000-2026",
+    "lieu": null,
+    "body": [
+      "Depuis le début des années 2000, l'IRM (imagerie par résonance magnétique), qui photographie le cerveau sans l'ouvrir, sert à chercher les traces de la méditation. Deux types de mesures dominent. Les mesures structurelles évaluent l'anatomie : volume ou densité de la matière grise, là où se trouvent les corps des neurones, ou épaisseur du cortex. Les mesures fonctionnelles observent quelles régions s'activent. En 2011, une petite étude de Britta Hölzel a eu un grand retentissement : après le programme MBSR de huit semaines, 16 participants montraient une densité de matière grise accrue dans l'hippocampe, une région liée à la mémoire, par rapport à 17 personnes restées sur liste d'attente.",
+      "En 2014, Kieran Fox et ses collègues rassemblent 21 études d'imagerie portant sur environ 300 méditants. Ils repèrent huit régions qui diffèrent régulièrement chez eux, dont le cortex frontopolaire, associé à la méta-conscience, l'insula, liée à la perception du corps, l'hippocampe et le cortex cingulaire. L'effet moyen est jugé « moyen ». Mais les auteurs soulignent eux-mêmes un fort risque de biais de publication, c'est-à-dire que les résultats positifs sont plus souvent publiés, ainsi que des faiblesses de méthode. Surtout, la plupart de ces études comparent des méditants de longue date à des non-méditants. Elles montrent une différence, pas une cause : les deux groupes peuvent différer pour bien d'autres raisons.",
+      "Les essais randomisés, où l'on tire au sort qui méditera, répondent mieux à la question de la cause. Or les plus solides sont décevants pour l'anatomie. En 2022, Tammi Kral et l'équipe de Richard Davidson, pourtant pionnière de ces recherches, publient deux essais combinés : 218 débutants répartis entre le MBSR, un programme témoin actif conçu pour être aussi engageant, et une liste d'attente. Après huit semaines, aucun changement de volume, de densité ou d'épaisseur de matière grise n'est attribuable au MBSR. La même année, l'essai français Age-Well, mené chez 137 personnes de 65 ans et plus, ne trouve pas d'effet de 18 mois de méditation sur le volume de l'insula et du cortex cingulaire antérieur.",
+      "Ces résultats ne disent pas que la méditation est sans effet. Dans Age-Well, ceux qui méditaient progressaient davantage que ceux qui apprenaient l'anglais sur un score combinant régulation de l'attention, capacités socio-émotionnelles et connaissance de soi. Une analyse publiée en 2025 suggère aussi que 25 méditants âgés pratiquant depuis plus de vingt ans ont un cerveau qui paraît plus jeune que leur âge, selon un modèle d'apprentissage automatique entraîné sur des images cérébrales. Mais les 18 mois d'entraînement ne produisaient pas cet effet chez les novices, et ces experts ont pu être différents dès le départ. En l'état, les comportements semblent changer plus vite et plus sûrement que l'anatomie mesurable.",
+      "Pourquoi ce domaine est-il si difficile ? En 2018, quinze chercheurs, dont plusieurs spécialistes reconnus de la méditation, publient un article intitulé « Mind the Hype » (« Gare à l'emballement »). Ils rappellent que la « pleine conscience » est mal définie et détaillent les pièges de méthode : mesures fragiles, comparaisons insuffisantes, effets indésirables négligés, interprétation hâtive des images cérébrales. Le cas d'une méta-analyse de 2023, qui concluait à des changements de structure après des essais randomisés, l'illustre : la revue Scientific Reports l'a rétractée en 2025. Le bilan raisonnable en 2026 est donc prudent : des différences chez les pratiquants expérimentés, pas de changement anatomique démontré après quelques semaines, et beaucoup de questions ouvertes."
+    ],
+    "cles": [
+      "Les méditants de longue date présentent en moyenne quelques différences cérébrales, mais ces comparaisons ne prouvent pas que la méditation en soit la cause.",
+      "Les essais randomisés les plus rigoureux (Kral 2022, Age-Well 2022) ne montrent pas de changement de la matière grise après 8 semaines ou 18 mois.",
+      "Des effets sur l'attention ou les capacités socio-émotionnelles peuvent exister sans changement anatomique visible à l'IRM.",
+      "Petits échantillons, absence de groupe témoin actif et biais de publication expliquent une partie des résultats spectaculaires d'hier."
+    ],
+    "citation": {
+      "texte": "Nous n'avons pas reproduit les résultats antérieurs et n'avons trouvé aucune preuve que le MBSR produise des changements neuroplastiques.",
+      "auteur": "Tammi Kral et coll.",
+      "source": "« Absence of structural brain changes from mindfulness-based stress reduction », Science Advances, 2022, résumé ; traduction libre"
+    },
+    "pratique": [
+      "Devant un titre du type « la méditation transforme le cerveau », cherchez combien de personnes ont participé à l'étude.",
+      "Vérifiez s'il y avait un tirage au sort et un groupe témoin qui faisait autre chose d'aussi engageant que méditer.",
+      "Regardez si l'étude compare des experts à des débutants : une différence entre deux groupes n'est pas une preuve de cause.",
+      "Si vous méditez, notez chaque semaine votre attention et votre humeur : ce sont des effets que vous pouvez observer vous-même."
+    ],
+    "sources": [
+      {"ref": "Fox, K. C. R. et coll. (2014). Is meditation associated with altered brain structure? A systematic review and meta-analysis of morphometric neuroimaging in meditation practitioners. Neuroscience & Biobehavioral Reviews, 43, 48-73.", "url": "https://doi.org/10.1016/j.neubiorev.2014.03.016"},
+      {"ref": "Kral, T. R. A. et coll. (2022). Absence of structural brain changes from mindfulness-based stress reduction: Two combined randomized controlled trials. Science Advances, 8(20), eabk3316.", "url": "https://doi.org/10.1126/sciadv.abk3316"},
+      {"ref": "Chételat, G. et coll. (2022). Effect of an 18-Month Meditation Training on Regional Brain Volume and Perfusion in Older Adults: The Age-Well Randomized Clinical Trial. JAMA Neurology, 79(11), 1165-1174.", "url": "https://doi.org/10.1001/jamaneurol.2022.3185"},
+      {"ref": "Haudry, S. et coll. (2025). Impact of meditation on brain age derived from multimodal neuroimaging in experts and older adults from a randomized trial. Scientific Reports, 15, 37710.", "url": "https://doi.org/10.1038/s41598-025-21490-9"},
+      {"ref": "Van Dam, N. T. et coll. (2018). Mind the Hype: A Critical Evaluation and Prescriptive Agenda for Research on Mindfulness and Meditation. Perspectives on Psychological Science, 13(1), 36-61.", "url": "https://doi.org/10.1177/1745691617709589"}
+    ],
+    "videos": [
+      {"title": "Les pouvoirs de l’esprit ?", "channel": "Cité des sciences et de l'industrie", "url": "https://www.youtube.com/watch?v=LTfSQe0bW6c", "lang": "fr"},
+      {"title": "Conférence | Les bienfaits de la méditation sur notre cerveau", "channel": "Fondation Alzheimer", "url": "https://www.youtube.com/watch?v=BWhlZjaTWlQ", "lang": "fr"}
+    ]
+  },
+  {
+    "salon": "Méditation & pleine conscience",
+    "title": "MBSR et MBCT : la pleine conscience entre à l'hôpital",
+    "excerpt": "De la clinique du stress de Jon Kabat-Zinn à la prévention de la rechute dépressive : ce que valent ces programmes de huit semaines selon les études et les recommandations.",
+    "tag": "Informer",
+    "repere": "États-Unis · 1979",
+    "lieu": {"nom": "Worcester, Massachusetts, États-Unis", "lat": 42.2626, "lon": -71.8023},
+    "body": [
+      "En 1979, Jon Kabat-Zinn ouvre une clinique de réduction du stress à l'école de médecine de l'université du Massachusetts, à Worcester. Docteur en biologie moléculaire du MIT, il pratique depuis des années la méditation auprès de maîtres zen et à l'Insight Meditation Society, un centre de vipassana. Son idée : proposer la pleine conscience sans cadre religieux, comme un entraînement de l'attention, à des patients que la médecine soulage mal. Dans son premier article, en 1982, il décrit 51 personnes souffrant de douleurs chroniques suivies pendant un programme de dix semaines. Leur douleur diminue nettement, mais l'étude n'a pas de groupe de comparaison, une limite qu'il signale lui-même.",
+      "Le programme prend le nom de MBSR (Mindfulness-Based Stress Reduction, réduction du stress fondée sur la pleine conscience) et se fixe à huit séances hebdomadaires en groupe. On y pratique la méditation assise, le balayage corporel, qui consiste à promener l'attention dans tout le corps, et des mouvements doux, avec des exercices quotidiens à la maison. Que vaut-il ? En 2023, une méta-analyse, c'est-à-dire une synthèse statistique, a réuni les données individuelles de 13 essais et de 2 371 adultes de la population générale. Ces programmes de groupe réduisent la détresse psychologique, de façon petite à modérée, par rapport à l'absence d'intervention. Une revue de 2014 (Goyal et coll.) notait déjà qu'ils ne font pas mieux que d'autres traitements actifs.",
+      "La MBCT (Mindfulness-Based Cognitive Therapy, thérapie cognitive fondée sur la pleine conscience) est mise au point dans les années 1990 par Zindel Segal, Mark Williams et John Teasdale. Elle combine la structure du MBSR avec des outils de la thérapie cognitive. Sa cible est précise : la rechute chez des personnes qui ont déjà connu plusieurs épisodes dépressifs et qui vont mieux. Il s'agit d'apprendre à repérer tôt les ruminations, ces pensées qui tournent en boucle quand l'humeur baisse, et à s'en décentrer. Le premier essai, publié en 2000 avec 145 patients, réduit les rechutes chez ceux qui avaient connu au moins trois épisodes, mais pas chez ceux qui n'en avaient connu que deux.",
+      "En 2016, Willem Kuyken et ses collègues rassemblent les données individuelles de 9 essais randomisés, soit 1 258 patients en rémission, c'est-à-dire sortis de l'épisode dépressif. Sur environ 60 semaines, le risque de rechute baisse d'environ 31 % chez ceux qui ont suivi la MBCT par rapport à ceux qui ne l'ont pas suivie. Comparée à d'autres traitements actifs, dont les antidépresseurs d'entretien, la MBCT réduit encore ce risque d'environ 21 %. Le bénéfice semble plus net chez les personnes qui gardent des symptômes résiduels. Ces chiffres sont des moyennes : ils ne disent pas qu'il faut arrêter un traitement, décision qui se prend toujours avec son médecin.",
+      "Que disent les recommandations ? Au Royaume-Uni, le NICE, l'institut public qui évalue les soins, cite depuis 2022 la pleine conscience et la méditation en groupe parmi les traitements possibles de première intention d'une dépression peu sévère. Pour prévenir la rechute chez les personnes à risque, il propose d'envisager une thérapie de groupe, cognitive et comportementale ou MBCT, à la place des antidépresseurs ou en plus. Pour l'anxiété, un essai américain de 2023 portant sur 208 patients a trouvé le MBSR aussi efficace que l'escitalopram, un antidépresseur courant, après huit semaines. Un seul essai ne fait pas une règle, et ces programmes complètent un suivi médical sans le remplacer."
+    ],
+    "cles": [
+      "Le MBSR, créé en 1979 par Jon Kabat-Zinn, est un programme laïque de huit semaines centré sur l'entraînement de l'attention.",
+      "Chez des adultes de la population générale, ces programmes réduisent modestement la détresse psychologique par rapport à l'absence d'intervention.",
+      "La MBCT vise un but précis : prévenir la rechute chez des personnes ayant connu plusieurs épisodes dépressifs.",
+      "Selon la méta-analyse de Kuyken (2016), elle réduit le risque de rechute d'environ un tiers sur un peu plus d'un an.",
+      "Le NICE britannique la cite comme option, mais elle ne remplace ni un diagnostic ni un suivi médical."
+    ],
+    "citation": {
+      "texte": "La thérapie cognitive fondée sur la pleine conscience semble efficace pour prévenir la rechute chez les personnes souffrant de dépression récurrente.",
+      "auteur": "Willem Kuyken et coll.",
+      "source": "JAMA Psychiatry, 2016, conclusion du résumé ; traduction libre"
+    },
+    "pratique": [
+      "Prévoyez dix minutes au calme, assis ou allongé.",
+      "Faites un balayage corporel : promenez lentement l'attention des orteils au sommet du crâne, en notant les sensations sans chercher à les changer.",
+      "Essayez une pause de trois minutes inspirée de la MBCT : une minute pour remarquer ce qui est là, une pour le souffle, une pour élargir l'attention au corps entier.",
+      "Si vous avez des antécédents de dépression, parlez-en à votre médecin ou à un psychologue avant de rejoindre un groupe MBCT animé par un instructeur formé."
+    ],
+    "sources": [
+      {"ref": "Kabat-Zinn, J. (1982). An outpatient program in behavioral medicine for chronic pain patients based on the practice of mindfulness meditation. General Hospital Psychiatry, 4(1), 33-47.", "url": "https://doi.org/10.1016/0163-8343(82)90026-3"},
+      {"ref": "Galante, J. et coll. (2023). Systematic review and individual participant data meta-analysis of randomized controlled trials assessing mindfulness-based programs for mental health promotion. Nature Mental Health, 1, 462-476.", "url": "https://doi.org/10.1038/s44220-023-00081-5"},
+      {"ref": "Kuyken, W. et coll. (2016). Efficacy of Mindfulness-Based Cognitive Therapy in Prevention of Depressive Relapse: An Individual Patient Data Meta-analysis From Randomized Trials. JAMA Psychiatry, 73(6), 565-574.", "url": "https://doi.org/10.1001/jamapsychiatry.2016.0076"},
+      {"ref": "Hoge, E. A. et coll. (2023). Mindfulness-Based Stress Reduction vs Escitalopram for the Treatment of Adults With Anxiety Disorders: A Randomized Clinical Trial. JAMA Psychiatry, 80(1), 13-21.", "url": "https://doi.org/10.1001/jamapsychiatry.2022.3679"},
+      {"ref": "NICE (2022). Depression in adults: treatment and management (NG222), recommandations 1.5.2 et 1.8.5. National Institute for Health and Care Excellence.", "url": "https://www.nice.org.uk/guidance/ng222/chapter/Recommendations"}
+    ],
+    "videos": [
+      {"title": "Méditation et médecine du corps-esprit | Jon Kabat-Zinn | Conférence", "channel": "Université de Strasbourg", "url": "https://www.youtube.com/watch?v=YxCHU2qJqkw", "lang": "fr"},
+      {"title": "36.9° - Méditation pleine conscience: plus qu’une mode?", "channel": "RTS - Radio Télévision Suisse", "url": "https://www.youtube.com/watch?v=S9ZGFty4xp8", "lang": "fr"}
+    ]
+  },
+  {
+    "salon": "Méditation & pleine conscience",
+    "title": "Vipassana : observer le corps et les sensations, de la Birmanie au monde",
+    "excerpt": "Dix jours de silence, dix heures de méditation par jour : les cours de S. N. Goenka ont popularisé une pratique ancrée dans un texte bouddhique ancien, le Satipaṭṭhāna Sutta.",
+    "tag": "Informer",
+    "repere": "Inde ancienne · Birmanie, XXe siècle",
+    "lieu": {"nom": "Rangoun (Yangon), Birmanie (Myanmar)", "lat": 16.8409, "lon": 96.1735},
+    "body": [
+      "Vipassanā est un mot pāli, la langue des textes du bouddhisme theravāda, celui du Sri Lanka et de l'Asie du Sud-Est. On le traduit par « vision claire » ou « vision pénétrante » : voir les choses telles qu'elles sont. Le texte de référence est le Satipaṭṭhāna Sutta, le « discours sur l'établissement de l'attention », conservé dans le recueil des discours de longueur moyenne (Majjhima Nikāya, n° 10). Selon le texte, le Bouddha l'enseigne dans le pays des Kuru, au nord de l'Inde. Il s'ouvre sur une promesse : ces quatre façons d'établir l'attention mènent à la purification des êtres, au dépassement du chagrin, à la fin de la douleur et à l'extinction, le nibbāna.",
+      "Le sutta décrit quatre domaines d'attention. Le corps d'abord : le souffle, les postures (marcher, se tenir debout, s'asseoir, s'allonger), les gestes du quotidien, les parties du corps. Puis les vedanā, souvent traduites par « sensations » : le texte demande de reconnaître si ce que l'on ressent est agréable, désagréable ou neutre. Viennent ensuite les états d'esprit, avec ou sans avidité, avec ou sans colère, et enfin les dhamma, ici des grilles pour analyser l'expérience, comme les obstacles à la méditation ou les facteurs d'éveil. Un refrain revient sans cesse : observer comment chaque phénomène apparaît et disparaît, sans s'attacher à rien dans le monde.",
+      "La forme la plus répandue aujourd'hui vient de Birmanie (Myanmar). À la fin du XIXe siècle, sous la domination britannique, le moine Ledi Sayadaw (1846-1923) simplifie l'enseignement de la méditation et l'ouvre largement aux laïcs ; l'historien Erik Braun y voit en partie une réponse aux bouleversements coloniaux. Une lignée de maîtres laïcs en découle : Saya Thetgyi, un riche cultivateur, puis Sayagyi U Ba Khin, premier comptable général de la Birmanie indépendante, qui ouvre en 1952 un centre international de méditation à Rangoun. Satya Narayan Goenka, né en Birmanie dans une famille d'origine indienne, y apprend la technique pendant quatorze ans, puis commence à l'enseigner en Inde en 1969. Il meurt en 2013.",
+      "Les cours de dix jours « dans la tradition de Sayagyi U Ba Khin » ont lieu aujourd'hui sur tous les continents. Le cadre est strict : lever à 4 heures, environ dix heures de méditation par jour, silence complet entre participants pendant neuf jours, hommes et femmes séparés, cinq préceptes à respecter (ne pas tuer, ne pas voler, ni relation sexuelle, ni mensonge, ni intoxicant). Les trois premiers jours et demi sont consacrés à ānāpāna, l'observation du souffle naturel. Vient ensuite vipassana proprement dite : parcourir le corps et observer ses sensations avec équanimité, sans réagir. Le dixième jour, on apprend mettā, la bienveillance. Les cours fonctionnent uniquement grâce aux dons d'anciens participants.",
+      "Que sait-on des effets ? Les études restent rares. En 2015, une équipe australienne a suivi 122 participants à un cours de dix jours, comparés à 50 personnes inscrites qui n'avaient pas encore commencé. Après le cours, le stress perçu baissait et le bien-être augmentait ; une partie des gains persistait six mois plus tard. Mais la comparaison n'était pas tirée au sort et tout reposait sur des questionnaires. Le cadre intensif n'est pas anodin : l'organisation elle-même prévient que d'anciens troubles psychiques peuvent resurgir pendant ou après le cours, et déconseille parfois ces retraites aux personnes ayant de lourds antécédents. La méditation n'y est pas présentée comme une thérapie."
+    ],
+    "cles": [
+      "Vipassanā signifie « vision claire » : observer l'expérience telle qu'elle est, sans s'y accrocher.",
+      "Le Satipaṭṭhāna Sutta décrit quatre domaines d'attention : le corps, le ressenti agréable ou désagréable, les états d'esprit et les phénomènes.",
+      "Le mouvement moderne vient de Birmanie, de Ledi Sayadaw à U Ba Khin puis à S. N. Goenka, qui l'enseigne en Inde à partir de 1969.",
+      "Les cours de dix jours sont exigeants : silence, environ dix heures de pratique quotidienne, discipline stricte.",
+      "Les études sont encore rares et peu contrôlées ; les personnes fragiles psychiquement doivent demander conseil avant une retraite."
+    ],
+    "citation": {
+      "texte": "Attentif, il inspire ; attentif, il expire.",
+      "auteur": "Le Bouddha, selon le canon pāli",
+      "source": "Satipaṭṭhāna Sutta (Majjhima Nikāya 10), section sur la respiration ; traduction libre du pāli « So satova assasati, satova passasati »"
+    },
+    "pratique": [
+      "Asseyez-vous dix minutes et observez le souffle naturel à l'entrée des narines, sans le modifier.",
+      "Notez simplement s'il est long ou court, comme le propose le Satipaṭṭhāna Sutta.",
+      "Pendant cinq minutes, déplacez lentement l'attention du sommet du crâne jusqu'aux pieds et remarquez les sensations : chaleur, picotement, pression, ou absence de sensation.",
+      "Pour chaque sensation, demandez-vous si elle est agréable, désagréable ou neutre, sans chercher à la garder ni à la chasser.",
+      "Avant de vous inscrire à une retraite de dix jours, lisez le règlement du centre et, en cas d'antécédents psychiques, parlez-en à un professionnel de santé."
+    ],
+    "sources": [
+      {"ref": "Satipaṭṭhāna Sutta, Majjhima Nikāya 10, texte pāli et traduction anglaise de Bhikkhu Sujato. SuttaCentral.", "url": "https://suttacentral.net/mn10/en/sujato"},
+      {"ref": "Braun, E. (2013). The Birth of Insight: Meditation, Modern Buddhism, and the Burmese Monk Ledi Sayadaw. University of Chicago Press.", "url": "https://doi.org/10.7208/chicago/9780226000947.001.0001"},
+      {"ref": "Vipassana Meditation as taught by S. N. Goenka. The Code of Discipline (horaires, préceptes, financement). Dhamma.org.", "url": "https://www.dhamma.org/en/about/code"},
+      {"ref": "Vipassana Meditation as taught by S. N. Goenka. Questions & Answers (silence, santé mentale). Dhamma.org.", "url": "https://www.dhamma.org/en/about/qanda"},
+      {"ref": "Szekeres, R. A. et Wertheim, E. H. (2015). Evaluation of Vipassana Meditation Course Effects on Subjective Stress, Well-being, Self-kindness and Mindfulness in a Community Sample. Stress and Health, 31(5), 373-381.", "url": "https://doi.org/10.1002/smi.2562"}
+    ],
+    "videos": [
+      {"title": "Doing Time Doing Vipassana - French", "channel": "Karuna Films LTD", "url": "https://www.youtube.com/watch?v=E4hygkLwe04", "lang": "fr"},
+      {"title": "Bhikkhu Anālayo, Daniel Aitken | The Satipaṭṭhāna-sutta | Wisdom Podcast | 2016", "channel": "Āgama Research Group", "url": "https://www.youtube.com/watch?v=t7YLB4QTWLc", "lang": "en"}
+    ]
+  },
+  {
+    "salon": "Méditation & pleine conscience",
+    "title": "Mettā : cultiver la bienveillance, entre tradition bouddhique et laboratoire",
+    "excerpt": "« Que tous les êtres soient heureux » : née dans le bouddhisme ancien, la méditation de bienveillance aimante est aujourd'hui étudiée par les psychologues. Ce qu'on en sait.",
+    "tag": "Éduquer",
+    "repere": "Inde ancienne · canon pāli",
+    "lieu": null,
+    "body": [
+      "Mettā est un mot pāli que l'on traduit par « bienveillance aimante » ou « amitié bienveillante ». Dans le bouddhisme ancien, c'est la première des quatre « demeures divines » (brahmavihāra), avec karuṇā, la compassion devant la souffrance, muditā, la joie pour le bonheur d'autrui, et upekkhā, l'équanimité. Le court Mettā Sutta, conservé dans le Sutta Nipāta, un recueil du canon pāli, en donne l'esprit : souhaiter que tous les êtres, faibles ou forts, grands ou petits, proches ou lointains, nés ou à naître, soient heureux et en sécurité. Il invite aussi à ne tromper ni mépriser personne, et à ne souhaiter de mal à personne, même sous la provocation.",
+      "La méthode classique est détaillée au Ve siècle par le commentateur Buddhaghosa, qui travaillait au Sri Lanka, dans le Visuddhimagga (« Chemin de la pureté »). On commence par soi-même, en répétant intérieurement des souhaits comme « Puissé-je être heureux et libre de souffrance ». On étend ensuite ces souhaits à une personne respectée, à un ami cher, à une personne neutre, puis à quelqu'un d'hostile. Le texte déconseille de commencer par une personne détestée, qui réveillerait la colère. Le but est d'effacer les « barrières » entre les personnes, jusqu'à ne plus préférer personne. On peut enfin rayonner la bienveillance vers tous les êtres, dans toutes les directions.",
+      "Les psychologues s'y intéressent depuis les années 2000. En 2008, l'équipe de Barbara Fredrickson, à l'université de Caroline du Nord, recrute 139 salariés d'une entreprise informatique de Detroit. La moitié, tirée au sort, suit six séances de groupe d'une heure sur sept semaines et pratique à la maison ; l'autre moitié attend son tour. Les pratiquants rapportent peu à peu plus d'émotions positives au quotidien, puis davantage de ressources personnelles, comme le sens donné à sa vie, le soutien social ou moins de symptômes physiques, elles-mêmes liées à une meilleure satisfaction de vie. Les auteurs notent les limites : effets modestes, mesures déclaratives, groupe témoin en simple attente, participants surtout blancs et diplômés.",
+      "En 2011, Stefan Hofmann, Paul Grossman et Devon Hinton passent en revue les travaux sur la bienveillance aimante et la méditation de compassion. Ils concluent à une hausse des émotions positives et à une baisse des émotions négatives, avec des pistes encore préliminaires sur le stress, l'imagerie cérébrale et l'usage clinique, par exemple en complément d'une thérapie cognitive et comportementale. En 2014, une méta-analyse, c'est-à-dire une synthèse statistique, de 22 essais randomisés trouve des effets modérés sur les symptômes dépressifs et la compassion par rapport à l'absence d'intervention, mais des résultats peu concluants face à des groupes témoins actifs. Elle juge la qualité des études faible à moyenne et note que la pratique peut d'abord être difficile pour certains.",
+      "Ce dernier point rejoint l'expérience des pratiquants. Se souhaiter du bien n'est pas évident pour tout le monde, et penser à une personne difficile peut raviver colère ou tristesse : c'est pourquoi la tradition prévoit une progression prudente. Dans les textes bouddhiques, mettā n'est pas une technique de bien-être isolée. Le Mettā Sutta l'associe à une conduite droite et à la recherche de la libération. Les programmes laïques en retiennent surtout l'entraînement émotionnel. Les deux lectures peuvent cohabiter, à condition de respecter le sens que la tradition donne à la pratique et de ne pas promettre plus que ce que montrent les études."
+    ],
+    "cles": [
+      "Mettā est la première des quatre « demeures divines » du bouddhisme, avec la compassion, la joie partagée et l'équanimité.",
+      "La méthode traditionnelle étend la bienveillance pas à pas : soi-même, un proche, une personne neutre, puis une personne hostile.",
+      "Les essais montrent une hausse modeste des émotions positives et une baisse des symptômes dépressifs, surtout face à l'absence d'intervention.",
+      "Les études restent souvent petites et de qualité moyenne ; face à d'autres activités, les résultats sont peu concluants.",
+      "Penser à une personne difficile peut réveiller des émotions fortes : la tradition comme la recherche invitent à avancer par étapes."
+    ],
+    "citation": {
+      "texte": "Comme une mère protégerait au péril de sa vie son enfant, son unique enfant, ainsi, envers tous les êtres, cultive un cœur sans limites.",
+      "auteur": "Mettā Sutta, attribué au Bouddha",
+      "source": "Sutta Nipāta 1.8, strophe 7 ; traduction libre du pāli"
+    },
+    "pratique": [
+      "Asseyez-vous confortablement et laissez la respiration se poser quelques instants.",
+      "Répétez lentement pour vous-même : « Puissé-je être en sécurité, puissé-je être en paix, puissé-je être heureux. »",
+      "Adressez les mêmes souhaits à une personne qui vous est chère, puis à une personne que vous connaissez peu.",
+      "Terminez, si cela vous semble juste, par tous les êtres ; gardez les personnes difficiles pour plus tard, quand la pratique vous paraîtra stable."
+    ],
+    "sources": [
+      {"ref": "Mettā Sutta, Sutta Nipāta 1.8, texte pāli et traduction anglaise de Bhikkhu Sujato. SuttaCentral.", "url": "https://suttacentral.net/snp1.8/en/sujato"},
+      {"ref": "Ñāṇamoli, Bhikkhu (1987). The Practice of Loving-Kindness (Metta) as Taught by the Buddha in the Pali Canon. The Wheel n° 7, Buddhist Publication Society.", "url": "https://www.accesstoinsight.org/lib/authors/nanamoli/wheel007.html"},
+      {"ref": "Fredrickson, B. L., Cohn, M. A., Coffey, K. A., Pek, J. et Finkel, S. M. (2008). Open hearts build lives: Positive emotions, induced through loving-kindness meditation, build consequential personal resources. Journal of Personality and Social Psychology, 95(5), 1045-1062.", "url": "https://doi.org/10.1037/a0013262"},
+      {"ref": "Hofmann, S. G., Grossman, P. et Hinton, D. E. (2011). Loving-kindness and compassion meditation: Potential for psychological interventions. Clinical Psychology Review, 31(7), 1126-1132.", "url": "https://doi.org/10.1016/j.cpr.2011.07.003"},
+      {"ref": "Galante, J., Galante, I., Bekkers, M.-J. et Gallacher, J. (2014). Effect of kindness-based meditation on health and well-being: A systematic review and meta-analysis. Journal of Consulting and Clinical Psychology, 82(6), 1101-1114.", "url": "https://doi.org/10.1037/a0037249"}
+    ],
+    "videos": [
+      {"title": "Cultiver l'amour bienveillant par Matthieu Ricard", "channel": "Matthieu Ricard", "url": "https://www.youtube.com/watch?v=pY8vgk3jR50", "lang": "fr"},
+      {"title": "Antoine Lutz - The Neuroscience of Compassion - Empathy and Compassion in Society 2013", "channel": "Empathy and Compassion in Society", "url": "https://www.youtube.com/watch?v=8fIeI6sfX6E", "lang": "en"}
+    ]
+  },
+  {
+    "salon": "Méditation & pleine conscience",
+    "title": "Le souffle dans le yoga : Patañjali, les Yoga Sūtra et le prāṇāyāma",
+    "excerpt": "Dans les Yoga Sūtra, la maîtrise du souffle n'est qu'un des huit membres du yoga. Retour aux textes, aux techniques plus tardives et à ce qu'en dit la science, avec prudence.",
+    "tag": "Informer",
+    "repere": "Inde · vers 400 apr. J.-C.",
+    "lieu": null,
+    "body": [
+      "Les Yoga Sūtra sont un recueil d'environ 195 aphorismes très brefs, en sanskrit, répartis en quatre chapitres. La tradition les attribue à Patañjali, dont on ne sait presque rien. Leur date a longtemps fait débat. Selon l'indianiste Philipp Maas, de l'université de Leipzig, le texte, transmis avec son commentaire ancien, remonte à la fin du IVe ou au début du Ve siècle de notre ère, vers 400. Le yoga y est d'abord une discipline de l'esprit : le deuxième aphorisme le définit comme l'arrêt des fluctuations du mental. Le texte ne décrit aucune posture précise. Il demande seulement une assise « stable et confortable », bien loin des enchaînements du yoga postural moderne.",
+      "Le prāṇāyāma, la maîtrise du souffle (prāṇa désigne le souffle vital), est le quatrième des huit « membres » du yoga : engagements envers autrui, disciplines personnelles, posture, maîtrise du souffle, retrait des sens, fixation de l'attention, méditation, absorption. Le texte ne lui consacre que quelques aphorismes, du II.49 au II.53. Une fois la posture stable, il s'agit de suspendre le flux de l'inspiration et de l'expiration. Elle peut être externe, après l'expiration, interne, après l'inspiration, ou une simple suspension. Elle se règle selon le lieu, la durée et le nombre, et le souffle devient long et subtil. Le résultat annoncé est méditatif : l'esprit devient apte à la concentration.",
+      "Bien plus tard, les textes du haṭha yoga, souvent traduit par « yoga de la force », multiplient les techniques. Le plus célèbre, la Haṭhayogapradīpikā composée par Svātmārāma au XVe siècle, décrit huit sortes de rétention du souffle, dont la respiration « soufflet » (bhastrikā) ou le souffle bourdonnant (bhrāmarī). Le même texte insiste déjà sur la prudence. Il compare la maîtrise du souffle au dressage progressif des lions, des éléphants et des tigres : menée trop vite ou avec force, elle peut, avertit le texte, tuer le pratiquant. Mal pratiquée, ajoute-t-il, elle provoque des maladies comme le hoquet, l'asthme, la toux ou des maux de tête.",
+      "Que dit la recherche ? Les études sur le prāṇāyāma sont nombreuses mais disparates. Une revue systématique de 2020 a retenu 18 essais contrôlés, de 16 à 160 participants, avec des bénéfices surtout chez des personnes souffrant d'asthme ou de bronchopneumopathie chronique ; ses auteurs réclament des essais de meilleure qualité. En 2023, une méta-analyse, c'est-à-dire une synthèse statistique, de 12 essais randomisés réunissant 785 adultes, consacrée aux pratiques respiratoires en général, trouve une baisse petite à moyenne du stress, de l'anxiété et des symptômes dépressifs, avec un risque de biais souvent modéré. Ses auteurs mettent en garde contre le décalage entre l'engouement et les preuves.",
+      "Prudence, donc. Les respirations rapides et puissantes peuvent provoquer étourdissements et fourmillements, et les longues rétentions ne s'improvisent pas. En cas de grossesse, de maladie cardiaque ou respiratoire, d'épilepsie ou de trouble anxieux, mieux vaut demander l'avis d'un médecin avant d'essayer ces techniques, et les apprendre auprès d'un enseignant formé. Le yoga, inscrit en 2016 sur la liste du patrimoine culturel immatériel de l'UNESCO, reste avant tout une tradition spirituelle indienne. On peut y puiser des exercices simples sans en faire une thérapie. Les effets de la respiration lente sur le rythme cardiaque sont traités dans une autre fiche du site."
+    ],
+    "cles": [
+      "Les Yoga Sūtra, attribués à Patañjali et datés d'environ 400 de notre ère, font du yoga une discipline de l'esprit.",
+      "Le prāṇāyāma, quatrième des huit membres, y tient en quelques lignes : suspendre et allonger le souffle pour préparer la concentration.",
+      "Les techniques nombreuses et parfois intenses viennent surtout du haṭha yoga plus tardif, qui recommandait déjà la progressivité.",
+      "Les études suggèrent des effets modestes sur le stress et des bénéfices respiratoires, avec des essais de qualité inégale.",
+      "Respirations rapides et rétentions ne conviennent pas à tout le monde : en cas de problème de santé, demandez un avis médical."
+    ],
+    "citation": {
+      "texte": "Une fois la posture stable vient la maîtrise du souffle, qui suspend le flux de l'inspiration et de l'expiration.",
+      "auteur": "Patañjali",
+      "source": "Yoga Sūtra II.49 ; traduction libre d'après la version anglaise de James H. Woods (1914)"
+    },
+    "pratique": [
+      "Asseyez-vous dans une posture stable et confortable, comme le demandent les Yoga Sūtra.",
+      "Observez votre souffle naturel pendant une minute, sans le modifier.",
+      "Allongez doucement l'expiration, sans forcer et sans retenir le souffle, pendant trois à cinq minutes.",
+      "Arrêtez dès qu'apparaissent un étourdissement, des fourmillements ou une gêne, et reprenez une respiration normale.",
+      "Pour les techniques plus avancées, apprenez auprès d'un enseignant formé et parlez-en d'abord à votre médecin si vous avez un problème de santé."
+    ],
+    "sources": [
+      {"ref": "Woods, J. H. (trad.) (1914). The Yoga-System of Patañjali. Harvard Oriental Series 17, Harvard University Press.", "url": "https://archive.org/details/yogasystemofpata00wooduoft"},
+      {"ref": "Maas, P. A. The Pātañjalayogaśāstra alias the Yogasūtra and the Yogabhāṣya. Sahapedia.", "url": "https://www.sahapedia.org/patanjalayogasastra-alias-yogasutra-and-yogabhasya"},
+      {"ref": "Svātmārāma. The Hatha Yoga Pradipika, trad. Pancham Sinh (1914). Sacred Books of the Hindus, vol. 15, partie 3, Allahabad, Panini Office.", "url": "https://archive.org/details/sacredbooksofthehindusvol15part3hathayogapradipikapanchamsinh_202002"},
+      {"ref": "Jayawardena, R. et coll. (2020). Exploring the Therapeutic Benefits of Pranayama (Yogic Breathing): A Systematic Review. International Journal of Yoga, 13(2), 99-110.", "url": "https://doi.org/10.4103/ijoy.IJOY_37_19"},
+      {"ref": "Fincham, G. W., Strauss, C., Montero-Marin, J. et Cavanagh, K. (2023). Effect of breathwork on stress and mental health: A meta-analysis of randomised-controlled trials. Scientific Reports, 13, 432.", "url": "https://doi.org/10.1038/s41598-022-27247-y"}
+    ],
+    "videos": [
+      {"title": "La vraie origine du yoga", "channel": "France Culture", "url": "https://www.youtube.com/watch?v=gF6L5vW1PYc", "lang": "fr"},
+      {"title": "The Yoga Sutras of Patanjali | Prof. Edwin Bryant", "channel": "Vedanta Society of New York", "url": "https://www.youtube.com/watch?v=cp1X-ar76nA", "lang": "en"}
+    ]
+  },
+  {
+    "salon": "Méditation & pleine conscience",
+    "title": "Dhikr et samâ' : le souvenir de Dieu et l'écoute dans le soufisme",
+    "excerpt": "Répéter le nom de Dieu au rythme du souffle, tourner au son de la flûte de roseau : dans le soufisme, la méditation passe par la voix, la musique et le corps.",
+    "tag": "Informer",
+    "repere": "Anatolie · XIIIe siècle",
+    "lieu": {"nom": "Konya, Turquie", "lat": 37.8746, "lon": 32.4932},
+    "body": [
+      "Le soufisme désigne la dimension mystique de l'islam : la recherche d'une proximité intérieure avec Dieu, transmise de maître à disciple, souvent au sein de confréries appelées tarîqa, « voies ». Sa pratique distinctive, explique l'islamologue Annemarie Schimmel, est le dhikr, mot arabe qui signifie « souvenir » ou « rappel ». Il s'agit de se souvenir de Dieu en répétant une formule, comme « lâ ilâha illâ Llâh » (« il n'y a de dieu que Dieu »), ou des noms divins. Les soufis s'appuient sur le Coran, qui invite les croyants à évoquer Dieu abondamment. Le dhikr peut se dire à voix haute, en groupe, ou en silence, dans le secret du cœur.",
+      "Dans ses formes développées, précise Schimmel, le dhikr s'accompagne d'une maîtrise du souffle. Un maître de la confrérie naqshbandie enseignait ainsi à prononcer trois fois la formule en une seule respiration, en la faisant descendre vers le cœur. Un mystique du IXe siècle, Sahl al-Tustarî, disait que chaque souffle qui sort sans souvenir de Dieu est un souffle mort. Schimmel rapproche ces méthodes de la prière de Jésus des moines orthodoxes et de l'invocation du Bouddha Amida au Japon : partout, la concentration semble s'appuyer sur le rythme respiratoire. Le chapelet, utilisé depuis le IXe siècle, aide à compter les répétitions, même si certains mystiques s'en méfiaient.",
+      "Le samâ', littéralement « audition », désigne l'écoute de la musique et de la poésie spirituelles, qui peut conduire à l'extase et au mouvement. Il a toujours été discuté. Les juristes les plus stricts le rejetaient, tout comme certaines confréries dites « sobres », telle la naqshbandiyya. D'autres y voyaient une expression légitime du sentiment religieux. Les manuels soufis des Xe et XIe siècles consacrent de longs chapitres à ses dangers et conseillent de tenir les débutants à l'écart des concerts spirituels, de peur qu'ils n'y trouvent qu'un plaisir des sens. La danse giratoire a existé dans bien des régions du monde musulman, mais un seul ordre l'a institutionnalisée : celui des Mevlevi.",
+      "L'ordre Mevlevi est fondé à Konya, en Anatolie, en 1273, l'année de la mort du poète persan Djalâl ad-Dîn Rûmî, surnommé Mevlânâ, « notre maître ». Pendant la cérémonie du sema, les derviches tournent sur eux-mêmes en pivotant sur le pied gauche, les yeux ouverts mais sans rien fixer, pour que les images deviennent floues. Ils sont accompagnés d'un répertoire musical appelé ayin, en quatre parties, joué au moins par un chanteur, un joueur de ney (la flûte de roseau), un timbalier et un joueur de cymbales. Autrefois, les danseurs se formaient lors d'une retraite de 1 001 jours dans un couvent mevlevi, où ils apprenaient prière, musique, poésie et danse.",
+      "En 1925, la politique de laïcisation de la République turque conduit à la fermeture de tous les couvents mevlevi. Les cérémonies sont de nouveau autorisées en public dans les années 1950, et les restrictions s'assouplissent dans les années 1990. Proclamée par l'UNESCO en 2005, la cérémonie du sema est inscrite en 2008 sur la liste représentative du patrimoine culturel immatériel. L'organisation note qu'après trente ans de pratique clandestine, beaucoup de cérémonies se jouent devant des touristes, raccourcies et simplifiées. Pour les soufis, dhikr et sema ne sont pas des techniques de relaxation : ce sont des actes de dévotion, vécus dans la foi et sous la conduite d'un maître."
+    ],
+    "cles": [
+      "Le dhikr, « souvenir » de Dieu, est la pratique centrale du soufisme : répéter une formule ou un nom divin, à voix haute ou en silence.",
+      "Dans ses formes développées, il s'accorde au rythme du souffle, comme la prière de Jésus des moines orthodoxes.",
+      "Le samâ', l'écoute de la musique spirituelle, a toujours été débattu au sein même du soufisme.",
+      "Les Mevlevi, ordre fondé à Konya en 1273 dans l'héritage de Rûmî, sont les seuls à avoir institutionnalisé la danse giratoire.",
+      "La cérémonie du sema est inscrite depuis 2008 sur la liste représentative du patrimoine culturel immatériel de l'UNESCO."
+    ],
+    "citation": {
+      "texte": "N'est-ce point par l'évocation d'Allah que se tranquillisent les cœurs ?",
+      "auteur": "Coran",
+      "source": "Sourate 13 (Le Tonnerre), verset 28 ; traduction de Muhammad Hamidullah"
+    },
+    "pratique": [
+      "Écoutez un enregistrement d'ayin mevlevi ou de dhikr chanté, assis, les yeux fermés, sans rien faire d'autre.",
+      "Repérez le ney, la flûte de roseau, et suivez sa ligne mélodique du début à la fin d'une phrase musicale.",
+      "Remarquez comment votre respiration se cale, ou non, sur le rythme de la musique.",
+      "Si vous assistez à un sema, renseignez-vous sur son déroulement et restez silencieux : c'est une cérémonie religieuse avant d'être un spectacle."
+    ],
+    "sources": [
+      {"ref": "UNESCO (2008). La cérémonie Mevlevi Sema. Liste représentative du patrimoine culturel immatériel de l'humanité (proclamée en 2005).", "url": "https://ich.unesco.org/fr/RL/la-ceremonie-mevlevi-sema-00100"},
+      {"ref": "Schimmel, A. (1975). Mystical Dimensions of Islam. University of North Carolina Press (chapitres sur le dhikr et le samâ').", "url": "https://archive.org/details/mysticaldimensio00schi"},
+      {"ref": "Le Coran, sourate 13, verset 28, traduction de Muhammad Hamidullah. Quran.com.", "url": "https://quran.com/fr/13/28"}
+    ],
+    "videos": [
+      {"title": "Le Sema, cérémonie Mevlevi", "channel": "unescoFrench", "url": "https://www.youtube.com/watch?v=Nkq4xwWFPf0", "lang": "fr"},
+      {"title": "Dhikr qâdirî khâlwatî • Chants soufis d'Alep (Syrie)", "channel": "Maison des Cultures du Monde - Centre français du patrimoine culturel immatériel", "url": "https://www.youtube.com/watch?v=18cqtDXa3sw", "lang": "fr"}
+    ]
+  },
+  {
+    "salon": "Méditation & pleine conscience",
+    "title": "L'hésychasme et la prière du cœur : prier au rythme du souffle",
+    "excerpt": "« Seigneur Jésus-Christ, aie pitié de moi » : répétée au rythme du souffle, cette courte prière est au cœur de l'hésychasme, la tradition contemplative de l'Orient chrétien.",
+    "tag": "Informer",
+    "repere": "Empire byzantin · XIVe siècle",
+    "lieu": {"nom": "Mont Athos, Grèce", "lat": 40.1575, "lon": 24.3264},
+    "body": [
+      "Le mot hésychasme vient du grec hêsychia, qui signifie calme, repos, silence. Il désigne une tradition de prière contemplative de l'Orient chrétien, surtout orthodoxe, qui recherche cette paix intérieure par l'invocation continue du nom de Jésus. Ses racines remontent aux premiers moines chrétiens, notamment ceux du désert d'Égypte, qui répétaient de courtes prières pour rester tournés vers Dieu. La formule la plus connue, appelée prière de Jésus ou prière du cœur, tient en une phrase : « Seigneur Jésus-Christ, Fils de Dieu, aie pitié de moi, pécheur. » Elle se dit souvent sous une forme abrégée, par exemple « Seigneur Jésus-Christ, aie pitié de moi », à voix basse ou intérieurement.",
+      "Au XIIIe siècle, au mont Athos, presqu'île grecque couverte de monastères, Nicéphore l'Hésychaste décrit une méthode qui engage le corps autant que l'esprit : incliner la tête, accorder la prière à la respiration, en régler le rythme, et ramener l'esprit dans le cœur. Au siècle suivant, ces pratiques sont violemment contestées, notamment par le moine Barlaam de Calabre. Le théologien Grégoire Palamas (1296-1359) les défend : Dieu reste caché dans son essence, mais l'être humain peut faire l'expérience directe de ses énergies, c'est-à-dire de son action. La querelle dure de 1337 environ à 1351, date à laquelle un synode présidé par l'empereur Jean VI Cantacuzène consacre la doctrine hésychaste.",
+      "En 1782 paraît à Venise la Philocalie, « amour de la beauté », vaste anthologie de textes spirituels grecs écrits entre le IVe et le XVe siècle. Elle est rassemblée par Nicodème l'Hagiorite, moine du mont Athos, et Macaire de Corinthe. En 1793, Païssi Velitchkovski en publie à Moscou une traduction partielle en slavon, la langue liturgique de l'Église russe. Viennent ensuite des traductions en russe, dont celle de Théophane le Reclus, en cinq volumes, à partir de 1877. La Philocalie devient le grand manuel de la prière intérieure dans le monde orthodoxe. Elle a depuis été traduite dans de nombreuses langues, dont le roumain, le français et l'anglais.",
+      "Le livre qui fait connaître la prière du cœur bien au-delà des monastères est un récit russe anonyme, publié dans les années 1880 : les Récits d'un pèlerin russe. Le narrateur, un errant sans ressources, est frappé par une phrase de saint Paul entendue à l'église : « Priez sans cesse ». Comment est-ce possible ? Un starets, un père spirituel, lui enseigne la prière de Jésus et lui fait lire la Philocalie. Il doit la répéter 3 000 fois par jour, puis 6 000, puis 12 000. Plus tard, le pèlerin dit « Seigneur Jésus-Christ » en inspirant et « aie pitié de moi » en expirant. L'identité de l'auteur reste discutée par les historiens.",
+      "L'hésychasme n'est pas une technique de relaxation : c'est une prière adressée à quelqu'un, dans une relation de foi. La tradition insiste sur l'accompagnement par un père spirituel, et Païssi Velitchkovski hésitait d'ailleurs à diffuser sa traduction à des laïcs privés de guide. En Occident, d'autres formes de prière contemplative existent, comme la prière de centrage, développée au XXe siècle par des moines trappistes du Massachusetts à partir de textes chrétiens anciens. Des chercheurs en méditation classent ce type de prière parmi les pratiques « constructives », qui cultivent une manière de se rapporter à soi et au monde. Pour le croyant, son sens dépasse largement ses effets mesurables."
+    ],
+    "cles": [
+      "L'hésychasme, du grec hêsychia, « silence, paix », est la tradition de prière contemplative de l'Orient chrétien.",
+      "La prière de Jésus répète une courte invocation, souvent accordée au rythme du souffle.",
+      "Grégoire Palamas a défendu ces pratiques au XIVe siècle ; un synode de 1351 a consacré sa doctrine.",
+      "La Philocalie (Venise, 1782) et les Récits d'un pèlerin russe ont diffusé la prière du cœur bien au-delà des monastères.",
+      "Pour la tradition, il s'agit d'une prière vécue dans la foi et avec un guide spirituel, non d'une technique de bien-être."
+    ],
+    "citation": {
+      "texte": "Assieds-toi seul et en silence. Incline la tête, ferme les yeux, expire doucement et imagine que tu regardes dans ton propre cœur.",
+      "auteur": "Instruction attribuée à saint Syméon le Nouveau Théologien, lue par le starets",
+      "source": "Récits d'un pèlerin russe, premier récit ; traduction libre d'après la version anglaise de R. M. French (1930)"
+    },
+    "pratique": [
+      "Lisez le premier des Récits d'un pèlerin russe, court et accessible, pour découvrir la prière du cœur de l'intérieur.",
+      "Si vous êtes croyant, choisissez un moment calme, asseyez-vous et répétez lentement la prière de Jésus, à voix basse ou intérieurement, pendant cinq minutes.",
+      "Laissez la respiration naturelle : la tradition accorde parfois les mots au souffle, mais sans jamais forcer.",
+      "Si vous n'êtes pas croyant, écoutez une prière chantée ou visitez un lieu de prière en silence, en observateur respectueux.",
+      "Pour aller plus loin dans la pratique, demandez conseil à un prêtre, un moine ou un accompagnateur spirituel de votre tradition."
+    ],
+    "sources": [
+      {"ref": "Ierodiakonou, K. et Bydén, B. (2008, révisé en 2018). Byzantine Philosophy. Stanford Encyclopedia of Philosophy.", "url": "https://plato.stanford.edu/entries/byzantine-philosophy/"},
+      {"ref": "Nicodème l'Hagiorite et Macaire de Corinthe (1782). The Philokalia, trad. G. E. H. Palmer, P. Sherrard et K. Ware. Faber and Faber.", "url": "https://openlibrary.org/books/OL3159750M"},
+      {"ref": "Anonyme. The Way of a Pilgrim (Récits d'un pèlerin russe), trad. R. M. French (1930). Londres, Philip Allan.", "url": "https://ccel.org/ccel/p/philip_allan/pilgrim/cache/pilgrim.pdf"},
+      {"ref": "Dahl, C. J., Lutz, A. et Davidson, R. J. (2015). Reconstructing and deconstructing the self: cognitive mechanisms in meditation practice. Trends in Cognitive Sciences, 19(9), 515-523.", "url": "https://doi.org/10.1016/j.tics.2015.07.001"}
+    ],
+    "videos": [
+      {"title": "Orthodoxie : La philocalie, l'amour de la beauté", "channel": "Les Chemins de la Foi - France Télévisions", "url": "https://www.youtube.com/watch?v=5VSEslTpdpw", "lang": "fr"},
+      {"title": "Les Trésors de la prière de Jésus, selon les moines du Mont Athos", "channel": "KTO TV", "url": "https://www.youtube.com/watch?v=zwUiCuGMRL4", "lang": "fr"}
+    ]
+  },
+  {
+    "salon": "Méditation & pleine conscience",
+    "title": "Quand la méditation dérange : effets indésirables et pratique prudente",
+    "excerpt": "Anxiété, souvenirs traumatiques, impression d'irréalité : chez une minorité de pratiquants, méditer a des effets difficiles. Ce que montrent les études et comment s'en protéger.",
+    "tag": "Éduquer",
+    "repere": "Recherche · 2017-2022",
+    "lieu": null,
+    "body": [
+      "La méditation est souvent présentée comme une activité sans risque. Les textes bouddhistes décrivent pourtant aussi des expériences troublantes, et les traditions contemplatives connaissent depuis longtemps les difficultés qui peuvent survenir en retraite. La recherche scientifique, elle, s'est d'abord intéressée aux bienfaits. Les effets indésirables étaient rarement mesurés avec précision, souvent seulement quand les participants les signalaient d'eux-mêmes. Depuis la fin des années 2010, plusieurs équipes ont changé de méthode et posé directement la question. Leurs résultats ne condamnent pas la méditation. Ils invitent à en parler plus honnêtement, comme de toute pratique qui agit réellement sur l'esprit, et donc capable de produire des effets inattendus.",
+      "En 2017, Jared Lindahl, Willoughby Britton et leurs collègues de l'université Brown publient l'étude « Varieties of Contemplative Experience ». Ils interrogent 60 pratiquants occidentaux des traditions theravāda, zen et tibétaine, choisis précisément parce qu'ils avaient connu des difficultés, ainsi que 32 enseignants et cliniciens. Ils recensent 59 types d'expériences dans sept domaines : pensées, perceptions, émotions, corps, motivation, sens de soi et relations. Dans cet échantillon, les plus fréquentes sont la peur, l'anxiété ou la panique, un brouillage de la frontière entre soi et le monde, et la réapparition de souvenirs traumatiques. Selon les personnes, la détresse allait de légère et passagère à sévère et durable.",
+      "Cette étude ne dit pas à quelle fréquence ces difficultés surviennent, puisqu'elle a recruté des personnes qui en avaient eu. D'autres travaux s'en chargent. En 2020, Miguel Farias et ses collègues analysent 83 études regroupant 6 703 pratiquants. Ils estiment à 8,3 % la proportion de personnes signalant un effet indésirable, avec de grands écarts selon la méthode : 3,7 % dans les études expérimentales, 33,2 % dans les études d'observation. L'anxiété, la dépression et des anomalies cognitives sont les plus citées, y compris chez des personnes sans antécédent psychique. En 2022, une enquête auprès de 434 Américains ayant médité trouve que 10,4 % ont connu un effet indésirable ayant duré au moins un mois.",
+      "Les programmes laïques ne sont pas épargnés. En 2021, Willoughby Britton et son équipe interrogent de façon systématique 96 participants à des programmes de MBCT, une thérapie de groupe de huit semaines fondée sur la pleine conscience. Chez 37 % d'entre eux, au moins un effet lié à la méditation a eu un impact négatif sur leur vie quotidienne, souvent de façon passagère. Des effets négatifs durables touchent 6 à 14 % des participants. Ils sont associés à des signes d'hyperéveil, quand le corps reste en état d'alerte, ou de dissociation, une impression de détachement ou d'irréalité. Les auteurs concluent que ces taux sont comparables à ceux des autres traitements psychologiques.",
+      "Comment réduire les risques ? Une revue de 2019 distingue trois types de facteurs. Le programme d'abord : intensité, durée, retraites longues. La personne ensuite : antécédents de trauma ou de troubles psychiques ; l'enquête de 2022 associe aussi l'adversité vécue dans l'enfance à un risque plus élevé. L'enseignant enfin : sa formation et sa capacité à repérer les difficultés. Les chercheurs plaident pour une information honnête des participants et une pratique attentive aux traumatismes. Certains organisateurs de retraites le font déjà. En cas de malaise persistant, il faut consulter un professionnel de santé. Des structures spécialisées existent, comme Cheetah House, association américaine dont fait partie Willoughby Britton."
+    ],
+    "cles": [
+      "Des effets indésirables, comme l'anxiété, des souvenirs traumatiques ou une impression d'irréalité, touchent une minorité de pratiquants, parfois sans antécédents.",
+      "Leur fréquence dépend beaucoup de la façon de mesurer : de quelques pour cent dans les essais à un tiers dans certaines études d'observation.",
+      "Dans des programmes de pleine conscience, des effets négatifs durables concernent 6 à 14 % des participants selon une étude de 2021.",
+      "Le risque dépend du programme, de la personne et de l'enseignant ; les retraites intensives demandent plus de précautions.",
+      "En cas de troubles psychiques, d'antécédents de trauma ou de malaise qui dure, consultez un professionnel de santé."
+    ],
+    "citation": {
+      "texte": "Les effets indésirables pendant ou après la méditation ne sont pas rares, et peuvent survenir chez des personnes sans antécédents psychiques.",
+      "auteur": "Miguel Farias et coll.",
+      "source": "Acta Psychiatrica Scandinavica, 2020, conclusion du résumé ; traduction libre"
+    },
+    "pratique": [
+      "Commencez par des séances courtes, de cinq à dix minutes, et allongez-les progressivement.",
+      "Si une émotion forte ou une impression d'irréalité apparaît, ouvrez les yeux, regardez la pièce et sentez vos pieds posés au sol.",
+      "Vous avez le droit d'interrompre une séance ou un exercice : ce n'est pas un échec.",
+      "Avant une retraite intensive, informez les organisateurs de vos antécédents et parlez-en à votre médecin ou à votre psychologue si vous êtes suivi.",
+      "Si un malaise dure plusieurs jours après une pratique, consultez un médecin ou un psychologue."
+    ],
+    "sources": [
+      {"ref": "Lindahl, J. R., Fisher, N. E., Cooper, D. J., Rosen, R. K. et Britton, W. B. (2017). The varieties of contemplative experience: A mixed-methods study of meditation-related challenges in Western Buddhists. PLoS ONE, 12(5), e0176239.", "url": "https://doi.org/10.1371/journal.pone.0176239"},
+      {"ref": "Farias, M., Maraldi, E., Wallenkampf, K. C. et Lucchetti, G. (2020). Adverse events in meditation practices and meditation-based therapies: a systematic review. Acta Psychiatrica Scandinavica, 142(5), 374-393.", "url": "https://doi.org/10.1111/acps.13225"},
+      {"ref": "Britton, W. B., Lindahl, J. R., Cooper, D. J., Canby, N. K. et Palitsky, R. (2021). Defining and measuring meditation-related adverse effects in mindfulness-based programs. Clinical Psychological Science, 9(6), 1185-1204.", "url": "https://doi.org/10.1177/2167702621996340"},
+      {"ref": "Goldberg, S. B., Lam, S. U., Britton, W. B. et Davidson, R. J. (2022). Prevalence of meditation-related adverse effects in a population-based sample in the United States. Psychotherapy Research, 32(3), 291-305.", "url": "https://doi.org/10.1080/10503307.2021.1933646"},
+      {"ref": "Baer, R., Crane, C., Miller, E. et Kuyken, W. (2019). Doing no harm in mindfulness-based programs: Conceptual issues and empirical findings. Clinical Psychology Review, 71, 101-114.", "url": "https://doi.org/10.1016/j.cpr.2019.01.001"}
+    ],
+    "videos": [
+      {"title": "Les risques méconnus de la méditation | Découverte", "channel": "Radio-Canada Info", "url": "https://www.youtube.com/watch?v=0FgfoRIIlT8", "lang": "fr"},
+      {"title": "Mind & Life Podcast: Willoughby Britton – When Meditation Causes Harm", "channel": "Mind & Life Institute", "url": "https://www.youtube.com/watch?v=EHj0hd2C7q4", "lang": "en"}
+    ]
+  },
+  {
+    "salon": "Méditation & pleine conscience",
+    "title": "Méditer en mouvement : marche méditative, tai-chi et qi gong",
+    "excerpt": "Marcher en conscience au rythme du souffle, enchaîner les gestes lents du tai-chi : ces pratiques méditatives font bouger le corps. Leurs traditions et ce qu'en disent les études.",
+    "tag": "Éduquer",
+    "repere": "Chine · milieu du XVIIe siècle",
+    "lieu": {"nom": "District de Wenxian, Henan, Chine", "lat": 34.94, "lon": 113.08},
+    "body": [
+      "Méditer ne veut pas forcément dire rester immobile. Le Satipaṭṭhāna Sutta, un texte bouddhique ancien, demandait déjà de savoir que l'on marche quand on marche, comme on sait que l'on est assis. Dans le zen japonais, les séances de zazen, la méditation assise, alternent avec le kinhin, une marche très lente. L'école sôtô en fixe les règles : on tourne dans la pièce dans le sens des aiguilles d'une montre, les mains réunies devant la poitrine dans une position codifiée, le haut du corps dans la même posture qu'en zazen. On avance d'un demi-pas par respiration complète, si lentement que l'on semble presque immobile, sans traîner les pieds ni faire de bruit.",
+      "Le moine vietnamien Thich Nhat Hanh (1926-2022) a fait de la marche méditative une pratique accessible à tous. Exilé de son pays pendant près de quarante ans, il fonde en 1982 le Village des Pruniers, en Dordogne, une communauté monastique qui accueille des retraitants du monde entier. Sa consigne est simple : marcher en sachant que l'on marche, sans se presser, en sentant le contact des pieds avec le sol. On accorde les pas au souffle, par exemple deux ou trois pas sur l'inspiration et trois ou quatre sur l'expiration, selon le rythme naturel de chacun. Cette marche se pratique en groupe et en silence, ou seul, n'importe où.",
+      "Le tai-chi (taijiquan) est né au milieu du XVIIe siècle dans le district de Wenxian, dans la province chinoise du Henan, selon le dossier inscrit par l'UNESCO en 2020 sur la liste du patrimoine culturel immatériel. C'est une pratique physique traditionnelle faite de mouvements circulaires et détendus, coordonnés avec la respiration, qui comprend aussi des exercices à deux, les « mains qui poussent ». Influencé par la pensée taoïste et confucéenne et par la médecine chinoise, il s'est divisé en plusieurs écoles portant le nom d'un clan ou d'un maître. Le qi gong, souvent traduit par « travail de l'énergie », regroupe des exercices plus simples associant postures, gestes lents, souffle et attention.",
+      "Que disent les études ? Les preuves les plus solides concernent l'équilibre des personnes âgées. En 2019, une revue Cochrane, référence internationale des synthèses médicales, a analysé 108 essais randomisés : l'exercice physique réduit les chutes après 60 ans. Pour le tai-chi, elle estime une baisse d'environ 19 % du nombre de chutes, avec une certitude faible, et de 20 % du nombre de personnes qui chutent, avec une certitude élevée. Pour le stress, les données sont plus fragiles. Une méta-analyse de 2014 sur le qi gong chez des adultes en bonne santé trouve une baisse de l'anxiété et du stress, mais à partir de sept essais seulement, souvent comparés à une simple liste d'attente.",
+      "La marche méditative a été moins étudiée. En 2013, un essai allemand a réparti au hasard 74 adultes stressés : une moitié suivait huit séances de « marche en pleine conscience » en quatre semaines, l'autre attendait. Le stress perçu a nettement baissé dans le groupe marche, mais les auteurs réclament eux-mêmes des essais avec un groupe témoin actif et un suivi plus long. Une difficulté traverse tout le domaine : il est malaisé de séparer l'effet de l'attention de celui de l'exercice physique. Pour le pratiquant, ce n'est pas forcément un problème. Bouger en restant présent à ce que l'on fait combine les deux, et la marche reste à la portée du plus grand nombre."
+    ],
+    "cles": [
+      "La marche méditative existe dans de nombreuses traditions, du kinhin zen à la marche en pleine conscience de Thich Nhat Hanh.",
+      "Le tai-chi, né au XVIIe siècle dans le Henan, est inscrit au patrimoine culturel immatériel de l'UNESCO depuis 2020.",
+      "Chez les personnes âgées, le tai-chi réduit le nombre de personnes qui chutent selon la revue Cochrane de 2019.",
+      "Pour le stress et l'anxiété, les résultats sont encourageants mais reposent sur des essais petits ou peu contrôlés.",
+      "Ces pratiques douces conviennent à beaucoup de monde ; en cas de trouble de l'équilibre ou de santé, un avis médical et un enseignant qualifié sont utiles."
+    ],
+    "citation": {
+      "texte": "En marchant, il sait : « Je marche. »",
+      "auteur": "Le Bouddha, selon le canon pāli",
+      "source": "Satipaṭṭhāna Sutta (Majjhima Nikāya 10), section sur les postures ; traduction libre du pāli « gacchanto vā gacchāmīti pajānāti »"
+    },
+    "pratique": [
+      "Choisissez un trajet de dix à vingt pas, dans un endroit calme et sans obstacle.",
+      "Marchez lentement en sentant le contact de chaque pied avec le sol : talon, plante, orteils.",
+      "Accordez vos pas à votre souffle, par exemple deux ou trois pas sur l'inspiration et trois ou quatre sur l'expiration, sans forcer.",
+      "Quand l'esprit s'échappe, arrêtez-vous un instant, puis reprenez la marche en revenant aux sensations des pieds.",
+      "Pour le tai-chi ou le qi gong, apprenez auprès d'un enseignant ; en cas de trouble de l'équilibre, gardez un appui à portée de main."
+    ],
+    "sources": [
+      {"ref": "Sōtōshū Shūmuchō. How to do Zazen (section Kinhin). Sotozen.com.", "url": "https://www.sotozen.com/eng/zazen/howto/"},
+      {"ref": "Plum Village. Walking Meditation. Plumvillage.org.", "url": "https://plumvillage.org/live-events/walking-meditation"},
+      {"ref": "Sherrington, C. et coll. (2019). Exercise for preventing falls in older people living in the community. Cochrane Database of Systematic Reviews, CD012424.", "url": "https://doi.org/10.1002/14651858.CD012424.pub2"},
+      {"ref": "Wang, C.-W. et coll. (2014). Managing stress and anxiety through qigong exercise in healthy adults: a systematic review and meta-analysis of randomized controlled trials. BMC Complementary and Alternative Medicine, 14, 8.", "url": "https://doi.org/10.1186/1472-6882-14-8"},
+      {"ref": "Teut, M. et coll. (2013). Mindful walking in psychologically distressed individuals: a randomized controlled trial. Evidence-Based Complementary and Alternative Medicine, 2013, 489856.", "url": "https://doi.org/10.1155/2013/489856"}
+    ],
+    "videos": [
+      {"title": "Thich Nhat Hanh - Marche méditative, moment présent - Retraite d'hiver (1/2)  |  2012 12 02", "channel": "Village des Pruniers", "url": "https://www.youtube.com/watch?v=ZSLRNgOYgbk", "lang": "fr"},
+      {"title": "Taijiquan", "channel": "UNESCO", "url": "https://www.youtube.com/watch?v=fozrIyhZlh0", "lang": "en"}
+    ]
+  }
+]

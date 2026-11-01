@@ -1,0 +1,315 @@
+[
+  {
+    "salon": "Le Goût",
+    "title": "Sucré, salé, acide, amer, umami : comment la langue détecte les saveurs",
+    "excerpt": "Cinq saveurs reconnues, des récepteurs spécialisés, deux candidates encore discutées. Ce que l'on sait du goût, et pourquoi la « carte de la langue » est fausse.",
+    "tag": "Informer",
+    "body": [
+      "Au sens strict, le goût (les scientifiques parlent de gustation) désigne ce que perçoivent les bourgeons du goût. Ce sont de petits groupes de cellules sensorielles logés dans les papilles de la langue, mais aussi sur le palais et au fond de la gorge. Cinq qualités sont aujourd'hui reconnues : le sucré, le salé, l'acide, l'amer et l'umami, cette saveur ronde et savoureuse du bouillon, du parmesan ou de la tomate mûre, liée au glutamate. Tout le reste, la fraise, le café, le basilic, vient de l'odorat. Selon une revue de référence publiée dans Nature en 2006, chaque saveur est captée par des cellules spécialisées, dotées de leurs propres récepteurs.",
+      "Le sucré, l'umami et l'amer reposent sur des récepteurs dits « couplés aux protéines G » : des sortes d'antennes posées à la surface de la cellule qui, une fois activées, déclenchent une cascade de signaux à l'intérieur. Le sucré est capté par l'association de deux protéines, T1R2 et T1R3. L'umami utilise T1R1, associée elle aussi à T1R3. L'amer dispose d'une famille entière, les récepteurs T2R, dont l'humain possède au moins 25 versions. Cette diversité permet de repérer un très grand nombre de molécules amères, parmi lesquelles beaucoup de substances potentiellement toxiques. L'amertume fonctionne d'abord comme une sentinelle.",
+      "L'acide et le salé empruntent un autre chemin : des canaux, c'est-à-dire des pores qui laissent entrer dans la cellule des particules chargées, les ions. Pour l'acide, des travaux menés chez la souris ont identifié un canal à protons appelé OTOP1. Pour le salé, un canal à sodium nommé ENaC explique bien, chez les rongeurs, l'attrait pour les faibles doses de sel. Chez l'humain, en revanche, les mécanismes du salé restent en partie inconnus. Une règle semble partagée par de très nombreuses espèces : un peu de sel attire, beaucoup de sel repousse.",
+      "Une idée reçue tenace veut que chaque zone de la langue soit dédiée à une saveur, le sucré au bout et l'amer au fond. Cette « carte de la langue » est fausse. Elle provient de travaux allemands de 1901 qui notaient de petites différences de sensibilité. Ces écarts ont ensuite été exagérés dans un ouvrage de 1942, puis recopiés pendant des décennies dans les manuels. En réalité, toutes les zones qui portent des bourgeons du goût détectent les cinq saveurs. Une revue de 2022 confirme que de légères variations de sensibilité existent, mais rien qui ressemble à des territoires séparés.",
+      "Deux candidates frappent à la porte. La première est le gras. En 2015, une petite étude de l'université Purdue a montré que des volontaires classaient à part le goût des acides gras libres (des fragments libérés par les graisses), distinct du sucré, du salé, de l'acide et de l'amer. Les auteurs l'ont baptisé « oleogustus ». Isolée, cette sensation est plutôt désagréable. La seconde est le kokumi, un terme japonais qui évoque la rondeur et l'ampleur en bouche. Des molécules comme le glutathion n'ont pas de goût propre mais renforcent le sucré, le salé et l'umami, via un récepteur sensible au calcium. Le kokumi ressemble donc davantage à un amplificateur qu'à une saveur, et son statut reste discuté."
+    ],
+    "plaisir": "Le système du goût est câblé pour attribuer une valeur. Dès le premier jour de vie, un nouveau-né montre un visage détendu face au sucré et une grimace face à l'amer, des réactions que l'on observe aussi chez le rat. Chez la souris, chaque saveur suit sa propre voie nerveuse jusqu'au cerveau, où elle déclenche attirance ou rejet. Le sucré signale de l'énergie, l'umami des protéines, le salé modéré des minéraux utiles. Mais ce socle inné n'est qu'un point de départ : la faim, la satiété, l'apprentissage et la culture modulent fortement le plaisir. C'est ainsi que beaucoup d'adultes finissent par aimer le café ou l'endive.",
+    "pratique": [
+      "Préparez cinq petits verres d'eau : un avec une pincée de sucre, un avec une pincée de sel, un avec quelques gouttes de citron, un avec un peu de café noir froid et un avec un bouillon léger (umami).",
+      "Pincez-vous le nez pour isoler le goût des arômes.",
+      "Avec un coton-tige, déposez chaque solution au bout, sur les côtés puis au fond de la langue.",
+      "Notez pour chaque zone l'intensité perçue et votre plaisir, de 0 à 10, en rinçant à l'eau entre deux essais.",
+      "Constatez que chaque saveur se perçoit partout, avec au plus de légères nuances."
+    ],
+    "sources": [
+      {
+        "ref": "Chandrashekar J, Hoon MA, Ryba NJP, Zuker CS (2006). The receptors and cells for mammalian taste. Nature, 444(7117), 288-294.",
+        "url": "https://doi.org/10.1038/nature05401"
+      },
+      {
+        "ref": "Spence C (2022). The tongue map and the spatial modulation of taste perception. Current Research in Food Science, 5, 598-610.",
+        "url": "https://doi.org/10.1016/j.crfs.2022.02.004"
+      },
+      {
+        "ref": "Running CA, Craig BA, Mattes RD (2015). Oleogustus: the unique taste of fat. Chemical Senses, 40(7), 507-516.",
+        "url": "https://doi.org/10.1093/chemse/bjv036"
+      },
+      {
+        "ref": "Ohsu T, Amino Y, Nagasaki H, Yamanaka T, Takeshita S, Hatanaka T, Maruyama Y, Miyamura N, Eto Y (2010). Involvement of the calcium-sensing receptor in human taste perception. Journal of Biological Chemistry, 285(2), 1016-1022.",
+        "url": "https://doi.org/10.1074/jbc.M109.029165"
+      }
+    ],
+    "media": "image"
+  },
+  {
+    "salon": "Le Goût",
+    "title": "Aimer et désirer : ce que le cerveau fait d'une bouchée",
+    "excerpt": "Apprécier une bouchée et vouloir la suivante ne passent pas par les mêmes circuits. Points chauds du plaisir, cortex orbitofrontal, satiété : le point sur la science.",
+    "tag": "Informer",
+    "body": [
+      "Aimer un aliment et en avoir envie semblent synonymes. Pour le cerveau, ce sont deux processus distincts. Les chercheurs Kent Berridge et Morten Kringelbach parlent de « liking », aimer, c'est-à-dire le plaisir ressenti au moment de goûter, et de « wanting », désirer, l'élan qui pousse à chercher et à manger. Le désir mobilise un vaste réseau qui inclut la dopamine, un messager chimique du cerveau. Le plaisir dépend de circuits plus petits et plus fragiles. Chez le rat, augmenter la dopamine accroît l'envie de sucre sans augmenter le plaisir qu'il procure. Et des personnes atteintes de la maladie de Parkinson, privées d'une partie de leur dopamine, jugent toujours normalement le plaisir d'un goût sucré.",
+      "Où naît le plaisir proprement dit ? Chez le rat, les chercheurs ont repéré des « points chauds hédoniques » : de minuscules zones, d'environ un millimètre cube, situées dans le noyau accumbens et le pallidum ventral (deux structures profondes du cerveau), ainsi que dans le tronc cérébral. Y injecter des opioïdes, des molécules apparentées à la morphine que le corps produit aussi, peut doubler les réactions de plaisir au sucre. Ces réactions se lisent sur le visage : petits coups de langue pour le sucré, bouche béante et secousses de la tête pour l'amer. Ces cartes viennent de l'animal. Chez l'humain, leur emplacement reste une extrapolation.",
+      "Chez l'humain, l'imagerie cérébrale désigne une région située juste au-dessus des yeux : le cortex orbitofrontal. En 2003, une équipe d'Oxford a fait consommer à des volontaires un aliment liquide jusqu'à satiété, tout en mesurant leur activité cérébrale. L'activité d'une partie de ce cortex diminuait à mesure que l'aliment devenait moins agréable, et cette baisse était propre à l'aliment consommé. Ce cortex semble donc suivre de près le plaisir ressenti. Prudence toutefois : l'imagerie montre des corrélations, pas des causes, et des patients porteurs de lésions frontales conservent souvent l'essentiel de leurs plaisirs.",
+      "Ce phénomène porte un nom : la satiété sensorielle spécifique, décrite en 1981 par Barbara et Edmund Rolls. Dans leurs expériences, des volontaires notaient l'agrément de huit aliments, en mangeaient un seul au déjeuner, puis les notaient à nouveau. Le plaisir baissait davantage pour l'aliment consommé que pour les autres. La même équipe a montré qu'on mange environ un tiers de plus quand on propose des sandwichs à quatre garnitures plutôt qu'à une seule. D'où la fameuse « petite place pour le dessert » : la satiété n'est pas qu'une affaire d'estomac. Le plaisir d'un aliment précis s'estompe, tandis que les autres gardent leur attrait."
+    ],
+    "plaisir": "Une bonne bouchée combine deux signaux. Le « liking », produit par les points chauds hédoniques et suivi par le cortex orbitofrontal, mesure le plaisir réel. Le « wanting », porté par la dopamine, nous pousse vers la bouchée suivante. En temps normal, les deux avancent ensemble. Mais ils peuvent se découpler : on peut désirer fortement un aliment qui procure peu de plaisir, surtout face à des signaux qui le rappellent. Dans les addictions, selon la théorie de Berridge et Robinson, c'est le désir qui s'emballe, pas le plaisir. Savourer, c'est donc prêter attention au plaisir réel, qui décline au fil des bouchées.",
+    "pratique": [
+      "Choisissez un aliment que vous aimez et divisez-le en cinq petites portions.",
+      "Avant chaque portion, notez votre envie de 0 à 10. Après, notez votre plaisir de 0 à 10.",
+      "Mangez lentement et faites une pause d'une minute entre deux portions.",
+      "Comparez les deux séries de notes : l'envie et le plaisir baissent-ils au même rythme ?",
+      "Goûtez enfin un aliment très différent et notez votre plaisir : c'est la satiété sensorielle spécifique en action."
+    ],
+    "sources": [
+      {
+        "ref": "Berridge KC, Kringelbach ML (2015). Pleasure systems in the brain. Neuron, 86(3), 646-664.",
+        "url": "https://doi.org/10.1016/j.neuron.2015.02.018"
+      },
+      {
+        "ref": "Berridge KC, Robinson TE (2016). Liking, wanting, and the incentive-sensitization theory of addiction. American Psychologist, 71(8), 670-679.",
+        "url": "https://doi.org/10.1037/amp0000059"
+      },
+      {
+        "ref": "Kringelbach ML, O'Doherty J, Rolls ET, Andrews C (2003). Activation of the human orbitofrontal cortex to a liquid food stimulus is correlated with its subjective pleasantness. Cerebral Cortex, 13(10), 1064-1071.",
+        "url": "https://doi.org/10.1093/cercor/13.10.1064"
+      },
+      {
+        "ref": "Rolls BJ, Rolls ET, Rowe EA, Sweeney K (1981). Sensory specific satiety in man. Physiology & Behavior, 27(1), 137-142.",
+        "url": "https://doi.org/10.1016/0031-9384(81)90310-3"
+      }
+    ],
+    "media": "image"
+  },
+  {
+    "salon": "Le Goût",
+    "title": "La saveur se joue dans le nez : goût, odeur et rétro-olfaction",
+    "excerpt": "Pincez-vous le nez et une fraise devient simplement sucrée. Ce que nous appelons « goût » est une flaveur, que le cerveau construit en mêlant plusieurs sens.",
+    "tag": "Éduquer",
+    "body": [
+      "Nous disons qu'un yaourt « a le goût de fraise ». Pourtant, la langue ne détecte que cinq saveurs : sucré, salé, acide, amer et umami. La fraise, elle, est une odeur. Les spécialistes réservent donc le mot « goût » aux saveurs et parlent de « flaveur » pour l'expérience complète d'un aliment. La flaveur réunit le goût, l'odeur, la texture, la température et d'autres sensations, comme le piquant du piment ou la fraîcheur de la menthe. Le neurobiologiste Gordon Shepherd, qui a popularisé le terme de « neurogastronomie », souligne que cet ensemble est assemblé par le cerveau, en lien étroit avec la mémoire et les émotions.",
+      "L'odorat fonctionne par deux chemins. Quand on renifle un plat, les molécules odorantes entrent par les narines : c'est l'olfaction orthonasale. Quand on mâche et qu'on avale, elles remontent depuis l'arrière de la bouche vers le nez : c'est l'olfaction rétronasale, ou rétro-olfaction. En 1982, le psychologue Paul Rozin a proposé de voir l'odorat comme un « sens double ». Les odeurs reniflées semblent venir du monde extérieur. Les odeurs rétronasales, elles, semblent venir de la bouche. C'est pour cela que nous les confondons si facilement avec le goût.",
+      "L'imagerie cérébrale confirme que ces deux chemins ne sont pas équivalents. En 2005, l'équipe de la neuroscientifique Dana Small a diffusé des odeurs à des volontaires, soit par le nez, soit par l'arrière de la bouche. La voie rétronasale activait davantage la zone du cerveau qui représente la bouche. Pour l'odeur de chocolat, mais pas pour des odeurs non alimentaires comme la lavande, certaines régions réagissaient différemment selon la voie, dont le cortex orbitofrontal médian. Il s'agit d'une seule étude, mais elle suggère que le cerveau traite à part une odeur qui signale un aliment en bouche.",
+      "On lit souvent que 80 % du goût viendrait de l'odorat. Le psychologue Charles Spence, de l'université d'Oxford, a cherché l'origine de ces chiffres, qui varient de 75 à 95 % selon les auteurs. Sa conclusion : aucune étude solide ne justifie un pourcentage aussi précis. Cela n'enlève rien au rôle majeur du nez, que chacun peut vérifier avec l'exercice ci-dessous. La texture et la température comptent aussi. La chaleur renforce par exemple la perception du sucré, si bien qu'une glace fondue paraît souvent plus sucrée que la même glace bien froide."
+    ],
+    "plaisir": "Une grande part du plaisir de manger passe par le nez, même si nous l'attribuons à la bouche. Dans l'étude de Dana Small, l'arôme de chocolat arrivant par l'arrière de la bouche sollicitait davantage le cortex orbitofrontal médian, une région associée à la valeur des récompenses. Le cerveau fusionne saveur et arôme en une seule perception, localisée dans la bouche, et la relie à nos souvenirs et à nos émotions. C'est pourquoi un nez bouché rend un plat « fade » : les saveurs sont toujours là, mais l'arôme ne passe plus. Relâcher le nez suffit à le faire revenir, comme le montre l'exercice.",
+    "pratique": [
+      "Prenez un bonbon aux fruits ou un morceau de fruit, idéalement tendu par quelqu'un qui ne vous dit pas lequel.",
+      "Pincez-vous le nez, mettez-le en bouche et mâchez une dizaine de secondes. Notez ce que vous percevez.",
+      "Sans cesser de mâcher, relâchez le nez et expirez doucement par les narines.",
+      "Notez le moment où l'arôme apparaît et essayez de nommer le fruit.",
+      "Recommencez avec une gorgée de jus ou de café pour comparer."
+    ],
+    "sources": [
+      {
+        "ref": "Rozin P (1982). « Taste-smell confusions » and the duality of the olfactory sense. Perception & Psychophysics, 31(4), 397-401.",
+        "url": "https://doi.org/10.3758/BF03202667"
+      },
+      {
+        "ref": "Small DM, Gerber JC, Mak YE, Hummel T (2005). Differential neural responses evoked by orthonasal versus retronasal odorant perception in humans. Neuron, 47(4), 593-605.",
+        "url": "https://doi.org/10.1016/j.neuron.2005.07.022"
+      },
+      {
+        "ref": "Shepherd GM (2006). Smell images and the flavour system in the human brain. Nature, 444(7117), 316-321.",
+        "url": "https://doi.org/10.1038/nature05405"
+      },
+      {
+        "ref": "Spence C (2015). Just how much of what we taste derives from the sense of smell? Flavour, 4, 30.",
+        "url": "https://doi.org/10.1186/s13411-015-0040-2"
+      }
+    ],
+    "media": "video"
+  },
+  {
+    "salon": "Le Goût",
+    "title": "Éduquer son palais : goûter souvent, goûter lentement",
+    "excerpt": "Nos goûts ne sont pas figés. L'exposition répétée, la génétique et l'attention portée à chaque bouchée façonnent ce que nous aimons.",
+    "tag": "Éduquer",
+    "body": [
+      "Une part de nos préférences est innée : le sucré plaît dès la naissance, l'amer déplaît. Mais une grande part s'apprend. Le levier le mieux étudié est l'exposition répétée : goûter plusieurs fois un aliment, en petite quantité et sans pression, tend à le rendre plus acceptable. Une méta-analyse de 2018, c'est-à-dire une analyse qui regroupe les résultats de nombreuses études, a rassemblé 43 articles consacrés aux légumes. Elle conclut que l'exposition répétée augmente l'appréciation et la consommation du légume goûté. Les effets restent modestes, et la plupart des études portent sur des enfants. Les données chez l'adulte sont rares.",
+      "Nous ne vivons pas tous dans le même monde gustatif. On sait depuis longtemps que certaines personnes perçoivent à peine l'amertume de molécules comme le PTC ou le PROP (propylthiouracile), alors que d'autres la trouvent intense. La chercheuse américaine Linda Bartoshuk et son équipe ont décrit les « supergoûteurs », qui jugent le PROP très amer. Ils perçoivent aussi plus fortement certaines saveurs sucrées et amères, ainsi que la brûlure de l'alcool ou du piment. Une partie de ces différences s'explique par les variantes d'un gène de récepteur de l'amer, TAS2R38, identifié en 2003.",
+      "La science a toutefois nuancé ce tableau. Des travaux anciens associaient les supergoûteurs à un plus grand nombre de papilles fongiformes, ces petites bosses en forme de champignon à l'avant de la langue. En 2014, une étude participative menée dans un musée auprès d'un large public n'a trouvé aucun lien entre la densité de ces papilles et l'amertume perçue du PROP. Les auteurs invitent à ne pas employer le mot « supergoûteur » à la légère. Les chercheurs envisagent plutôt aujourd'hui un continuum de sensibilité, qui ne se résume ni au PROP ni aux papilles.",
+      "Le troisième levier est l'attention. En 2016, une équipe américaine a mené trois expériences auprès de 319 étudiants. Ceux qui recevaient de brèves consignes de pleine conscience, c'est-à-dire porter une attention ouverte et curieuse aux sensations, prenaient plus de plaisir à manger du chocolat ou des raisins secs que ceux que l'on distrayait. Dans la troisième expérience, ils consommaient aussi moins de calories d'un aliment peu sain, un effet lié à ce plaisir accru. Ce sont des résultats de laboratoire, à court terme et chez de jeunes adultes, mais ils rejoignent une intuition des dégustateurs : ralentir enrichit l'expérience."
+    ],
+    "plaisir": "Pour le cerveau, le plaisir d'un aliment n'est pas fixé une fois pour toutes. La méfiance face à la nouveauté s'atténue avec la familiarité, et l'appréciation progresse souvent au fil des expositions. Notre équipement génétique fixe toutefois le point de départ : un supergoûteur peut trouver très amer un légume qu'un autre juge doux, sans que l'on sache encore bien si cela change durablement ses préférences. L'attention, enfin, agit comme un amplificateur : en ralentissant, on perçoit mieux textures, saveurs et arômes, et le plaisir rapporté augmente. Éduquer son palais, c'est élargir le champ de ses plaisirs, pas se forcer.",
+    "pratique": [
+      "Choisissez un aliment que vous trouvez « moyen » : olive, endive, chocolat noir, café sans sucre.",
+      "Goûtez-en une petite quantité une fois par jour pendant dix jours, sans vous forcer.",
+      "À chaque fois, mâchez lentement, les yeux fermés, en nommant texture, saveurs et arômes.",
+      "Notez votre plaisir de 0 à 10 et suivez son évolution.",
+      "Si l'amertume reste très forte, ce n'est pas un échec : votre sensibilité est peut-être simplement plus élevée."
+    ],
+    "sources": [
+      {
+        "ref": "Appleton KM, Hemingway A, Rajska J, Hartwell H (2018). Repeated exposure and conditioning strategies for increasing vegetable liking and intake: systematic review and meta-analyses of the published literature. American Journal of Clinical Nutrition, 108(4), 842-856.",
+        "url": "https://doi.org/10.1093/ajcn/nqy143"
+      },
+      {
+        "ref": "Bartoshuk LM, Duffy VB, Miller IJ (1994). PTC/PROP tasting: anatomy, psychophysics, and sex effects. Physiology & Behavior, 56(6), 1165-1171.",
+        "url": "https://doi.org/10.1016/0031-9384(94)90361-1"
+      },
+      {
+        "ref": "Garneau NL, Nuessle TM, Sloan MM, Santorico SA, Coughlin BC, Hayes JE (2014). Crowdsourcing taste research: genetic and phenotypic predictors of bitter taste perception as a model. Frontiers in Integrative Neuroscience, 8, 33.",
+        "url": "https://doi.org/10.3389/fnint.2014.00033"
+      },
+      {
+        "ref": "Arch JJ, Brown KW, Goodman RJ, Della Porta MD, Kiken LG, Tillman S (2016). Enjoying food without caloric cost: the impact of brief mindfulness on laboratory eating outcomes. Behaviour Research and Therapy, 79, 23-34.",
+        "url": "https://doi.org/10.1016/j.brat.2016.02.002"
+      }
+    ],
+    "media": "image"
+  },
+  {
+    "salon": "L'Odorat",
+    "title": "Comment le nez lit le monde : récepteurs, code et nombre d'odeurs",
+    "excerpt": "Quelques centaines de récepteurs, un code fait de combinaisons et un débat animé sur le nombre d'odeurs que nous savons distinguer.",
+    "tag": "Informer",
+    "body": [
+      "Tout commence dans une petite zone de muqueuse située en haut des fosses nasales, l'épithélium olfactif. Ses neurones portent des récepteurs capables de reconnaître des molécules odorantes. En 1991, Linda Buck et Richard Axel ont découvert, chez le rat, une très grande famille de gènes codant ces récepteurs. Leurs travaux sur les récepteurs olfactifs et l'organisation de l'odorat leur ont valu le prix Nobel de physiologie ou médecine en 2004. Ils ont notamment établi que chaque neurone olfactif ne porte qu'un seul type de récepteur, et que les neurones de même type envoient leurs signaux vers un même point du bulbe olfactif, le premier relais de l'odorat dans le cerveau.",
+      "Chez l'humain, on compte entre 340 et 400 récepteurs olfactifs fonctionnels environ, selon les méthodes de décompte. Une analyse du génome publiée en 2004 recensait 339 gènes intacts, à côté de près de 300 « pseudogènes », des gènes devenus inactifs au fil de l'évolution. Ces récepteurs appartiennent à la même grande famille que ceux du sucré ou de l'amer, celle des récepteurs couplés aux protéines G. En 2023, des chercheurs ont obtenu pour la première fois l'image en trois dimensions d'un récepteur olfactif humain fixant une molécule odorante. Cette avancée aide à comprendre comment un récepteur « choisit » ses molécules.",
+      "Avec quelques centaines de récepteurs, comment distinguer autant d'odeurs ? Grâce à un code combinatoire. En 1999, l'équipe de Linda Buck a montré, chez la souris, qu'un même récepteur reconnaît plusieurs molécules et qu'une même molécule active plusieurs récepteurs. Chaque odeur correspond donc à une combinaison particulière de récepteurs activés, un peu comme des lettres qui forment des mots. Une légère modification de la molécule, ou un simple changement de concentration, peut modifier la combinaison. Cela pourrait expliquer pourquoi certaines substances ne sentent pas la même chose diluées ou concentrées.",
+      "Combien d'odeurs pouvons-nous distinguer ? Le chiffre de 10 000, longtemps répété, n'avait jamais été vérifié. En 2014, une équipe new-yorkaise a testé la capacité de volontaires à différencier des mélanges d'odorants plus ou moins proches. Elle en a déduit que nous pourrions distinguer au moins mille milliards d'odeurs. L'estimation a fait le tour du monde, puis a été vivement contestée. En 2015, deux analyses indépendantes ont montré que la méthode de calcul était fragile : avec les mêmes données, elle pouvait produire presque n'importe quel nombre. Bilan actuel : le chiffre reste inconnu, mais l'odorat humain est bien plus fin que sa réputation."
+    ],
+    "plaisir": "Avant même de nommer une odeur, nous savons si elle nous plaît. Une étude de 2007 a analysé un vaste ensemble de molécules et de descriptions d'odeurs : le premier axe selon lequel nous classons les odeurs est leur caractère agréable ou désagréable. Cet axe se reflète en partie dans la structure chimique des molécules, au point de permettre de prédire l'agrément d'une odeur nouvelle. Le plaisir olfactif serait donc en partie inné, même si l'expérience le façonne fortement. Dans le cerveau, l'imagerie montre que le cortex orbitofrontal suit le caractère agréable d'une odeur, tandis que l'amygdale suit plutôt son intensité.",
+    "pratique": [
+      "Réunissez cinq pots d'épices ou d'aromates : cannelle, clou de girofle, cumin, vanille, café.",
+      "Les yeux fermés, demandez à quelqu'un de vous les présenter dans le désordre.",
+      "Pour chacun, notez d'abord votre plaisir de 0 à 10, puis essayez de le nommer.",
+      "Observez si le jugement « j'aime ou pas » arrive avant le nom.",
+      "Mélangez deux épices et essayez de reconnaître chacune dans le mélange."
+    ],
+    "sources": [
+      {
+        "ref": "Buck L, Axel R (1991). A novel multigene family may encode odorant receptors: a molecular basis for odor recognition. Cell, 65(1), 175-187.",
+        "url": "https://doi.org/10.1016/0092-8674(91)90418-X"
+      },
+      {
+        "ref": "Bushdid C, Magnasco MO, Vosshall LB, Keller A (2014). Humans can discriminate more than 1 trillion olfactory stimuli. Science, 343(6177), 1370-1372.",
+        "url": "https://doi.org/10.1126/science.1249168"
+      },
+      {
+        "ref": "Gerkin RC, Castro JB (2015). The number of olfactory stimuli that humans can discriminate is still unknown. eLife, 4, e08127.",
+        "url": "https://doi.org/10.7554/eLife.08127"
+      },
+      {
+        "ref": "Khan RM, Luk CH, Flinker A, Aggarwal A, Lapid H, Haddad R, Sobel N (2007). Predicting odor pleasantness from odorant structure: pleasantness as a reflection of the physical world. Journal of Neuroscience, 27(37), 10015-10023.",
+        "url": "https://doi.org/10.1523/JNEUROSCI.1158-07.2007"
+      }
+    ],
+    "media": "image"
+  },
+  {
+    "salon": "L'Odorat",
+    "title": "Odeurs et souvenirs : ce que la science dit de l'« effet Proust »",
+    "excerpt": "Une odeur peut nous ramener des décennies en arrière, avec une émotion intacte. Pourquoi l'odorat a un accès privilégié à la mémoire et aux émotions.",
+    "tag": "Informer",
+    "body": [
+      "Dans « Du côté de chez Swann », Marcel Proust raconte comment une madeleine trempée dans du thé fait resurgir tout un pan de son enfance. Les chercheurs ont repris son nom : on parle d'« effet Proust » quand une odeur déclenche le souvenir d'un épisode personnel marquant. La psychologue américaine Rachel Herz a consacré une grande partie de ses travaux à tester cette intuition littéraire. Ses résultats, et ceux d'autres équipes, dessinent un tableau plus précis que la légende, avec des points solides et des nuances importantes.",
+      "Une première raison est anatomique. Pour la vue, l'ouïe ou le toucher, l'information passe d'abord par le thalamus, une sorte de gare de triage, avant d'atteindre le cortex. L'odorat fait exception. Depuis le bulbe olfactif, les signaux rejoignent directement le cortex olfactif primaire, puis l'amygdale, qui traite les émotions, et l'hippocampe, essentiel à la mémoire des événements, sans détour préalable par le thalamus. Cette proximité expliquerait pourquoi une odeur peut faire surgir émotion et souvenir presque instantanément. L'explication est plausible et largement admise, mais l'apprentissage joue aussi un rôle central : une odeur tire sa force des moments auxquels elle a été associée.",
+      "Les expériences confirment surtout la charge émotionnelle. Dans une étude de 2004, Rachel Herz a présenté les mêmes indices (feu de camp, herbe coupée, pop-corn) sous forme d'odeur, d'image ou de son. Les souvenirs rappelés par les odeurs étaient plus émotionnels et plus évocateurs, mais pas plus nets ni plus précis. La même année, une étude d'imagerie a montré une activation plus forte de l'amygdale et de régions de l'hippocampe face à un parfum associé à un souvenir personnel. Elle ne portait que sur cinq femmes : c'est un indice, pas une démonstration.",
+      "Les odeurs semblent aussi ouvrir l'accès à des souvenirs plus anciens. En 2006, deux chercheurs suédois ont demandé à 93 personnes âgées d'évoquer un souvenir à partir d'un mot, d'une image ou d'une odeur. Les souvenirs liés aux odeurs remontaient surtout à la première décennie de vie, avant 10 ans, alors que les autres dataient plutôt de 11 à 20 ans. Ils s'accompagnaient d'un sentiment plus fort d'être ramené dans le passé. Attention : toutes les odeurs ne réveillent pas de bons souvenirs. Elles peuvent aussi raviver des expériences douloureuses, notamment après un traumatisme."
+    ],
+    "plaisir": "Le plaisir d'une odeur dépend beaucoup de ce qu'elle nous rappelle. Selon une revue de Rachel Herz publiée en 2016, les odeurs qui évoquent des souvenirs heureux peuvent améliorer l'humeur et réduire certains indicateurs physiologiques de stress. Dans une étude qu'elle cite, un parfum lié à un souvenir personnel suscitait plus d'émotions positives et moins d'anxiété qu'un parfum agréable mais sans histoire. Le cerveau associe une odeur au contexte émotionnel où il l'a rencontrée, puis réactive ce contexte à chaque nouvelle rencontre. Ces travaux restent de petite taille, mais ils éclairent pourquoi une odeur familière réconforte autant.",
+    "pratique": [
+      "Choisissez une odeur liée à un bon souvenir : un savon, une épice, une crème, un vieux livre.",
+      "Installez-vous au calme, fermez les yeux et respirez-la lentement trois fois.",
+      "Laissez venir les images sans les forcer, puis notez le lieu, votre âge, les personnes présentes et l'émotion.",
+      "Regardez ensuite une photo du même objet et comparez la force de l'émotion.",
+      "Si une odeur réveille un souvenir pénible, arrêtez simplement l'exercice."
+    ],
+    "sources": [
+      {
+        "ref": "Herz RS, Eliassen J, Beland S, Souza T (2004). Neuroimaging evidence for the emotional potency of odor-evoked memory. Neuropsychologia, 42(3), 371-378.",
+        "url": "https://doi.org/10.1016/j.neuropsychologia.2003.08.009"
+      },
+      {
+        "ref": "Herz RS (2004). A naturalistic analysis of autobiographical memories triggered by olfactory visual and auditory stimuli. Chemical Senses, 29(3), 217-224.",
+        "url": "https://doi.org/10.1093/chemse/bjh025"
+      },
+      {
+        "ref": "Willander J, Larsson M (2006). Smell your way back to childhood: autobiographical odor memory. Psychonomic Bulletin & Review, 13(2), 240-244.",
+        "url": "https://doi.org/10.3758/BF03193837"
+      },
+      {
+        "ref": "Herz RS (2016). The role of odor-evoked memory in psychological and physiological health. Brain Sciences, 6(3), 22.",
+        "url": "https://doi.org/10.3390/brainsci6030022"
+      }
+    ],
+    "media": "image"
+  },
+  {
+    "salon": "L'Odorat",
+    "title": "Entraîner son odorat : méthode, preuves et limites",
+    "excerpt": "Sentir quatre odeurs deux fois par jour pendant des semaines : une méthode simple, étudiée depuis 2009, qui aide une partie des personnes ayant perdu l'odorat.",
+    "tag": "Éduquer",
+    "body": [
+      "L'odorat est un sens plastique : son fonctionnement se modifie avec l'exposition répétée aux odeurs. En 2009, le chercheur allemand Thomas Hummel et ses collègues en ont tiré une méthode simple, l'entraînement olfactif. Des personnes ayant perdu une partie de leur odorat ont senti, deux fois par jour pendant 12 semaines, quatre odeurs intenses : rose, eucalyptus, citron et clou de girofle. Les 40 participants entraînés ont amélioré leurs scores aux tests d'odorat, contrairement aux 16 personnes non entraînées. L'étude n'était pas randomisée (les groupes n'étaient pas tirés au sort), mais elle a ouvert tout un champ de recherche.",
+      "Depuis, les études se sont multipliées. Une méta-analyse de 2017, qui regroupait 13 études, a conclu à un effet positif de l'entraînement sur l'identification des odeurs (savoir les nommer), sur leur discrimination (savoir les distinguer) et, plus modestement, sur le seuil de détection, c'est-à-dire la plus faible concentration perçue. Les entraînements plus longs semblaient plus efficaces pour l'identification. Les auteurs estiment que la méthode mérite d'être proposée en complément ou en alternative aux traitements existants, tout en reconnaissant que ses mécanismes restent mal compris.",
+      "La pandémie de COVID-19 a donné un nouvel élan à ces recherches. Une revue systématique publiée en 2024 a rassemblé 14 études, soit près de 1 600 participants souffrant de troubles de l'odorat persistants depuis au moins un mois. L'entraînement seul y apporte des améliorations significatives, surtout lorsqu'il est suivi avec régularité pendant au moins trois mois. Les auteurs rappellent cependant des limites : beaucoup de patients récupèrent spontanément, les protocoles varient d'une étude à l'autre et plusieurs essais associent l'entraînement à d'autres traitements. Une perte d'odorat qui dure justifie toujours un avis médical.",
+      "Et sans perte d'odorat ? Une étude canadienne de 2019 a réparti 36 jeunes adultes en bonne santé en trois groupes. Pendant six semaines, l'un d'eux s'est entraîné au moins 20 minutes par jour à classer et reconnaître des odeurs. Ces participants ont amélioré leur odorat, surtout l'identification des odeurs, et l'imagerie a montré un épaississement de certaines zones du cortex, dont le cortex entorhinal, impliqué dans l'odorat et la mémoire. L'échantillon est petit et les effets à long terme restent inconnus. Ces résultats suggèrent néanmoins que l'odorat se cultive, un peu comme l'oreille d'un musicien."
+    ],
+    "plaisir": "L'odorat nourrit une grande part de nos plaisirs quotidiens, à commencer par la saveur des aliments. Sa perte pèse sur la qualité de vie, l'alimentation, les relations sociales et la santé mentale, comme le rappelle un document de consensus international publié en 2023. L'entraînement olfactif demande de porter une attention active aux odeurs, de les associer à une image et à un nom. Chez des volontaires en bonne santé, cette pratique s'accompagne de changements mesurables dans des régions du cerveau qui traitent les odeurs. Ces résultats ne promettent pas de miracle, mais ils montrent que l'attention portée aux odeurs n'est pas vaine.",
+    "pratique": [
+      "Choisissez quatre odeurs bien distinctes, par exemple rose, eucalyptus, citron et clou de girofle, dans de petits pots fermés.",
+      "Deux fois par jour, sentez chaque pot quelques secondes, par petites inspirations, sans appliquer le produit sur la peau.",
+      "Pendant ce temps, pensez à l'objet : imaginez une rose, un citron.",
+      "Tenez le rythme au moins 12 semaines et notez vos impressions chaque semaine.",
+      "Si votre perte d'odorat persiste, consultez un médecin ORL : l'entraînement ne remplace pas un diagnostic."
+    ],
+    "sources": [
+      {
+        "ref": "Hummel T, Rissom K, Reden J, Hähner A, Weidenbecher M, Hüttenbrink KB (2009). Effects of olfactory training in patients with olfactory loss. Laryngoscope, 119(3), 496-499.",
+        "url": "https://doi.org/10.1002/lary.20101"
+      },
+      {
+        "ref": "Sorokowska A, Drechsler E, Karwowski M, Hummel T (2017). Effects of olfactory training: a meta-analysis. Rhinology, 55(1), 17-26.",
+        "url": "https://doi.org/10.4193/Rhin16.195"
+      },
+      {
+        "ref": "Treder-Rochna N, Mańkowska A, Kujawa W, Harciarek M (2024). The effectiveness of olfactory training for chronic olfactory disorder following COVID-19: a systematic review. Frontiers in Human Neuroscience, 18, 1457527.",
+        "url": "https://doi.org/10.3389/fnhum.2024.1457527"
+      },
+      {
+        "ref": "Al Aïn S, Poupon D, Hétu S, Mercier N, Steffener J, Frasnelli J (2019). Smell training improves olfactory function and alters brain structure. NeuroImage, 189, 45-54.",
+        "url": "https://doi.org/10.1016/j.neuroimage.2019.01.008"
+      }
+    ],
+    "media": "video"
+  },
+  {
+    "salon": "L'Odorat",
+    "title": "L'odeur de l'autre : gènes, liens et mythe des phéromones",
+    "excerpt": "Chacun porte une odeur qui lui est propre. Gènes immunitaires, liens affectifs, phéromones : ce qui est établi, ce qui reste discuté et ce qui relève du mythe.",
+    "tag": "Informer",
+    "body": [
+      "Chaque personne possède une odeur corporelle singulière, façonnée par de nombreux facteurs encore mal démêlés, dont une part génétique. Cette odeur semble jouer un rôle social. En 2022, une équipe israélienne a comparé les odeurs corporelles de paires d'amis du même sexe, sans relation amoureuse. Un nez électronique et des évaluateurs humains ont conclu que les amis sentaient plus semblable que des paires formées au hasard. Mieux : lors de rencontres entre inconnus, les duos à l'odeur proche avaient des échanges plus positifs. Il y aurait donc bien un peu de « chimie » dans l'amitié, au sens propre.",
+      "Une piste célèbre concerne le complexe majeur d'histocompatibilité (CMH), appelé HLA chez l'humain : un ensemble de gènes qui aident le système immunitaire à reconnaître les intrus. En 1995, le biologiste suisse Claus Wedekind a demandé à des étudiants de porter le même tee-shirt deux nuits de suite. Des étudiantes ont ensuite évalué l'odeur des tee-shirts. Elles jugeaient plus agréables les odeurs des hommes dont le CMH différait du leur. L'hypothèse évolutive : cette préférence aiderait à transmettre des défenses immunitaires plus variées. L'étude a eu un immense écho dans les médias.",
+      "Vingt-cinq ans plus tard, le bilan est nettement plus réservé. En 2020, une série de méta-analyses a passé en revue les études disponibles. Elle ne trouve pas de lien significatif entre différence de CMH et préférence d'odeur, ni entre différence de CMH et choix du partenaire dans des couples réels. Les auteurs relèvent aussi, dans une partie de ces travaux, des signes de biais de publication, c'est-à-dire une tendance à publier plus volontiers les résultats positifs. Ils réclament des échantillons plus grands et plus divers. L'idée d'un nez qui choisirait selon nos gènes immunitaires reste séduisante, mais elle n'est pas confirmée.",
+      "Et les phéromones ? Chez l'animal, ce sont des signaux chimiques qui déclenchent une réponse précise chez les membres de la même espèce. Chez l'humain, quatre molécules dérivées de stéroïdes ont été présentées comme phéromones, dont l'androstadiénone et l'estratétraénol. Selon une revue critique de 2015, aucune preuve solide ne le confirme : petits échantillons, effets surestimés, biais de publication, manque de réplication. Une étude en double aveugle de 2017 n'a trouvé aucun effet de ces deux molécules sur l'évaluation de visages. Une des pistes les plus sérieuses concerne les bébés : une sécrétion de l'aréole des mères qui allaitent stimule la tétée de n'importe quel nourrisson."
+    ],
+    "plaisir": "L'odeur des proches touche aussi les circuits du plaisir. En 2013, une petite étude d'imagerie a fait sentir à 30 femmes, dont la moitié venait d'avoir un premier enfant, l'odeur corporelle de nouveau-nés de deux jours qu'elles ne connaissaient pas. Cette odeur activait des régions cérébrales liées à la récompense, avec des différences selon le statut de mère. Une autre étude, menée auprès de 96 femmes, montre que sentir l'odeur de son partenaire réduit le stress ressenti lors d'un test en laboratoire, alors que celle d'un inconnu élève le cortisol, une hormone du stress. Plus qu'un aimant mystérieux, l'odeur de l'autre semble surtout agir comme un repère familier et rassurant.",
+    "pratique": [
+      "Avec l'accord de la personne, sentez un vêtement porté par un proche.",
+      "Notez ce que vous ressentez : apaisement, souvenir, indifférence.",
+      "Comparez avec un vêtement propre, fraîchement lavé.",
+      "Observez votre propre odeur à différents moments de la journée, sans jugement.",
+      "Face à un produit vendu « aux phéromones », gardez en tête qu'aucun effet n'est démontré."
+    ],
+    "sources": [
+      {
+        "ref": "Wedekind C, Seebeck T, Bettens F, Paepke AJ (1995). MHC-dependent mate preferences in humans. Proceedings of the Royal Society B: Biological Sciences, 260(1359), 245-249.",
+        "url": "https://doi.org/10.1098/rspb.1995.0087"
+      },
+      {
+        "ref": "Havlíček J, Winternitz J, Roberts SC (2020). Major histocompatibility complex-associated odour preferences and human mate choice: near and far horizons. Philosophical Transactions of the Royal Society B, 375(1800), 20190260.",
+        "url": "https://doi.org/10.1098/rstb.2019.0260"
+      },
+      {
+        "ref": "Wyatt TD (2015). The search for human pheromones: the lost decades and the necessity of returning to first principles. Proceedings of the Royal Society B: Biological Sciences, 282(1804), 20142994.",
+        "url": "https://doi.org/10.1098/rspb.2014.2994"
+      },
+      {
+        "ref": "Lundström JN, Mathe A, Schaal B, Frasnelli J, Nitzsche K, Gerber J, Hummel T (2013). Maternal status regulates cortical responses to the body odor of newborns. Frontiers in Psychology, 4, 597.",
+        "url": "https://doi.org/10.3389/fpsyg.2013.00597"
+      }
+    ],
+    "media": null
+  }
+]
