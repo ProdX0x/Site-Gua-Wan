@@ -85,7 +85,12 @@ targets:
       base:
         PRODUCT_NAME: Guà Wàn
         PRODUCT_BUNDLE_IDENTIFIER: com.guawan.app.tv
-        ASSETCATALOG_COMPILER_APPICON_NAME: "App Icon & Top Shelf Image"
+        # tvOS veut un jeu d'icônes empilées très particulier (« App Icon &
+        # Top Shelf Image », couches avant/arrière + image Top Shelf), que
+        # seul l'éditeur d'assets d'Xcode construit correctement à partir de
+        # vraies images — voir ios/App/Shared/Assets.xcassets/README.md.
+        # Pas de réglage ASSETCATALOG_COMPILER_APPICON_NAME ici tant que ce
+        # jeu d'icônes n'existe pas : Xcode utilisera une icône par défaut.
         ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME: AccentColor
 
   GuaWan-visionOS:
